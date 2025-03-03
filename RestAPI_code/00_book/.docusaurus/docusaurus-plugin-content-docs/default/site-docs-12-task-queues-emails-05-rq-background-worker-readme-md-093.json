@@ -1,0 +1,26 @@
+{
+  "id": "task_queues_emails/rq_background_worker/README",
+  "title": "Process background tasks with the rq worker",
+  "description": "We've got our queue and we've added tasks to it, but they won't run until we start consuming them and popping them off the queue.",
+  "source": "@site/docs/12_task_queues_emails/05_rq_background_worker/README.md",
+  "sourceDirName": "12_task_queues_emails/05_rq_background_worker",
+  "slug": "/task_queues_emails/rq_background_worker/",
+  "permalink": "/docs/task_queues_emails/rq_background_worker/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/12_task_queues_emails/05_rq_background_worker/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "ctslug": "process-background-tasks-with-the-rq-worker"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Populating and consuming the task queue with rq",
+    "permalink": "/docs/task_queues_emails/populate_rq_task_queue/"
+  },
+  "next": {
+    "title": "Sending HTML emails with Mailgun",
+    "permalink": "/docs/task_queues_emails/sending_html_emails/"
+  }
+}

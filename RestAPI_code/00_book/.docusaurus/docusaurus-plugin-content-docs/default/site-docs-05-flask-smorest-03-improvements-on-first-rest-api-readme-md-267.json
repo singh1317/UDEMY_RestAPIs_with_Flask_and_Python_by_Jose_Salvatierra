@@ -1,0 +1,28 @@
+{
+  "id": "flask_smorest/improvements_on_first_rest_api/README",
+  "title": "Improvements to our first REST API",
+  "description": "Add new error handling and code improvements to the REST API before adding any new endpoints.",
+  "source": "@site/docs/05_flask_smorest/03_improvements_on_first_rest_api/README.md",
+  "sourceDirName": "05_flask_smorest/03_improvements_on_first_rest_api",
+  "slug": "/flask_smorest/improvements_on_first_rest_api/",
+  "permalink": "/docs/flask_smorest/improvements_on_first_rest_api/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/05_flask_smorest/03_improvements_on_first_rest_api/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Improvements to our first REST API",
+    "description": "Add new error handling and code improvements to the REST API before adding any new endpoints.",
+    "ctslug": "improvements-to-our-first-rest-api"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Data model improvements",
+    "permalink": "/docs/flask_smorest/data_model_improvements/"
+  },
+  "next": {
+    "title": "New endpoints for our REST API",
+    "permalink": "/docs/flask_smorest/new_endpoints_for_api/"
+  }
+}

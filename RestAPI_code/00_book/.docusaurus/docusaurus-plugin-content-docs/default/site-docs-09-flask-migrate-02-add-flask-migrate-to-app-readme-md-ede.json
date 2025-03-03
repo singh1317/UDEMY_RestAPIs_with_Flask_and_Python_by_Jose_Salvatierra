@@ -1,0 +1,28 @@
+{
+  "id": "flask_migrate/add_flask_migrate_to_app/README",
+  "title": "How to add Flask-Migrate to our Flask app",
+  "description": "Integrating your Flask app with Flask-Migrate is relatively straightforward. Learn how to do it in this lecture.",
+  "source": "@site/docs/09_flask_migrate/02_add_flask_migrate_to_app/README.md",
+  "sourceDirName": "09_flask_migrate/02_add_flask_migrate_to_app",
+  "slug": "/flask_migrate/add_flask_migrate_to_app/",
+  "permalink": "/docs/flask_migrate/add_flask_migrate_to_app/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/09_flask_migrate/02_add_flask_migrate_to_app/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "How to add Flask-Migrate to our Flask app",
+    "description": "Integrating your Flask app with Flask-Migrate is relatively straightforward. Learn how to do it in this lecture.",
+    "ctslug": "how-to-add-flask-migrate-to-our-flask-app"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Why use database migrations?",
+    "permalink": "/docs/flask_migrate/why_use_database_migrations/"
+  },
+  "next": {
+    "title": "Initialize your database with Flask-Migrate",
+    "permalink": "/docs/flask_migrate/initialize_database_flask_db_init/"
+  }
+}

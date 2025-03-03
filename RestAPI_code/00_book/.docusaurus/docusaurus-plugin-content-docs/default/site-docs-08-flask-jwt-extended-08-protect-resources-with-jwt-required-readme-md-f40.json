@@ -1,0 +1,28 @@
+{
+  "id": "flask_jwt_extended/protect_resources_with_jwt_required/README",
+  "title": "Protect endpoints by requiring a JWT",
+  "description": "Use jwt_required from Flask-JWT-Extended to prevent unauthorised users from making requests to certain endpoints in a REST API.",
+  "source": "@site/docs/08_flask_jwt_extended/08_protect_resources_with_jwt_required/README.md",
+  "sourceDirName": "08_flask_jwt_extended/08_protect_resources_with_jwt_required",
+  "slug": "/flask_jwt_extended/protect_resources_with_jwt_required/",
+  "permalink": "/docs/flask_jwt_extended/protect_resources_with_jwt_required/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/08_flask_jwt_extended/08_protect_resources_with_jwt_required/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Protect endpoints by requiring a JWT",
+    "description": "Use jwt_required from Flask-JWT-Extended to prevent unauthorised users from making requests to certain endpoints in a REST API.",
+    "ctslug": "protect-endpoints-by-requiring-a-jwt"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to add a login endpoint to the REST API",
+    "permalink": "/docs/flask_jwt_extended/login_users_rest_api/"
+  },
+  "next": {
+    "title": "JWT claims and authorization",
+    "permalink": "/docs/flask_jwt_extended/jwt_claims_and_authorization/"
+  }
+}

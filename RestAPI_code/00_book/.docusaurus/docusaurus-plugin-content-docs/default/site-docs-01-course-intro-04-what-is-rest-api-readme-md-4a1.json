@@ -1,0 +1,28 @@
+{
+  "id": "course_intro/what_is_rest_api/README",
+  "title": "What is a REST API?",
+  "description": "There's a lot of confusion around what is and isn't a REST API. Let's take a look!",
+  "source": "@site/docs/01_course_intro/04_what_is_rest_api/README.md",
+  "sourceDirName": "01_course_intro/04_what_is_rest_api",
+  "slug": "/course_intro/what_is_rest_api/",
+  "permalink": "/docs/course_intro/what_is_rest_api/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/01_course_intro/04_what_is_rest_api/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "What is a REST API?",
+    "description": "There's a lot of confusion around what is and isn't a REST API. Let's take a look!",
+    "ctslug": "what-is-an-rest-api"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to install an IDE",
+    "permalink": "/docs/course_intro/how_to_install_ide/"
+  },
+  "next": {
+    "title": "Python Refresher",
+    "permalink": "/docs/python_refresher/"
+  }
+}

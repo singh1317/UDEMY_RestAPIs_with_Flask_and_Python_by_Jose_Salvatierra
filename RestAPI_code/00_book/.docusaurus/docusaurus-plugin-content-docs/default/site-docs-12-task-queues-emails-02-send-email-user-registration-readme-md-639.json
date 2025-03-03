@@ -1,0 +1,26 @@
+{
+  "id": "task_queues_emails/send_email_user_registration/README",
+  "title": "Sending emails when users register",
+  "description": "If we want to be able to send emails to users when they register, we'll need to:",
+  "source": "@site/docs/12_task_queues_emails/02_send_email_user_registration/README.md",
+  "sourceDirName": "12_task_queues_emails/02_send_email_user_registration",
+  "slug": "/task_queues_emails/send_email_user_registration/",
+  "permalink": "/docs/task_queues_emails/send_email_user_registration/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/12_task_queues_emails/02_send_email_user_registration/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "ctslug": "sending-emails-when-users-register"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to send emails with Python and Mailgun",
+    "permalink": "/docs/task_queues_emails/send_emails_python_mailgun/"
+  },
+  "next": {
+    "title": "What is a task queue?",
+    "permalink": "/docs/task_queues_emails/what_is_task_queue/"
+  }
+}

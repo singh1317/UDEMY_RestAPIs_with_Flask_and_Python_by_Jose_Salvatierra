@@ -1,0 +1,26 @@
+{
+  "id": "task_queues_emails/sending_html_emails/README",
+  "title": "Sending HTML emails with Mailgun",
+  "description": "Until now, we've been sending exclusively text emails. These have a clear advantage: text is simple! They'll look the same in every email client and device, and for many things, text is good enough.",
+  "source": "@site/docs/12_task_queues_emails/06_sending_html_emails/README.md",
+  "sourceDirName": "12_task_queues_emails/06_sending_html_emails",
+  "slug": "/task_queues_emails/sending_html_emails/",
+  "permalink": "/docs/task_queues_emails/sending_html_emails/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/12_task_queues_emails/06_sending_html_emails/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "ctslug": "sending-html-emails-with-mailgun"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Process background tasks with the rq worker",
+    "permalink": "/docs/task_queues_emails/rq_background_worker/"
+  },
+  "next": {
+    "title": "Deploy the rq background worker to Render.com",
+    "permalink": "/docs/task_queues_emails/deploy_background_worker_render/"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "task_queues_emails/deploy_background_worker_render/README",
+  "title": "Deploy the rq background worker to Render.com",
+  "description": "When deploying to Render.com, it's much easier if we don't have to pass the REDIS_URL and the queue name directly to the command.",
+  "source": "@site/docs/12_task_queues_emails/07_deploy_background_worker_render/README.md",
+  "sourceDirName": "12_task_queues_emails/07_deploy_background_worker_render",
+  "slug": "/task_queues_emails/deploy_background_worker_render/",
+  "permalink": "/docs/task_queues_emails/deploy_background_worker_render/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/12_task_queues_emails/07_deploy_background_worker_render/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "ctslug": "deploy-the-rq-background-worker-to-render-com"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Sending HTML emails with Mailgun",
+    "permalink": "/docs/task_queues_emails/sending_html_emails/"
+  }
+}

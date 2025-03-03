@@ -1,0 +1,28 @@
+{
+  "id": "flask_jwt_extended/what_is_a_jwt/README",
+  "title": "What is a JWT?",
+  "description": "Understand what a JWT is, what data it contains, and how it may be used.",
+  "source": "@site/docs/08_flask_jwt_extended/02_what_is_a_jwt/README.md",
+  "sourceDirName": "08_flask_jwt_extended/02_what_is_a_jwt",
+  "slug": "/flask_jwt_extended/what_is_a_jwt/",
+  "permalink": "/docs/flask_jwt_extended/what_is_a_jwt/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/08_flask_jwt_extended/02_what_is_a_jwt/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "What is a JWT?",
+    "description": "Understand what a JWT is, what data it contains, and how it may be used.",
+    "ctslug": "what-is-a-jwt"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Changes in this section",
+    "permalink": "/docs/flask_jwt_extended/section_changes/"
+  },
+  "next": {
+    "title": "How are JWTs used?",
+    "permalink": "/docs/flask_jwt_extended/how_is_jwt_used/"
+  }
+}

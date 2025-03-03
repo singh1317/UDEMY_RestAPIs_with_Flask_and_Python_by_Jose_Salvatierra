@@ -1,0 +1,26 @@
+{
+  "id": "task_queues_emails/send_emails_python_mailgun/README",
+  "title": "How to send emails with Python and Mailgun",
+  "description": "Remember to get the Insomnia files for this section or for all sections here!",
+  "source": "@site/docs/12_task_queues_emails/01_send_emails_python_mailgun/README.md",
+  "sourceDirName": "12_task_queues_emails/01_send_emails_python_mailgun",
+  "slug": "/task_queues_emails/send_emails_python_mailgun/",
+  "permalink": "/docs/task_queues_emails/send_emails_python_mailgun/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/12_task_queues_emails/01_send_emails_python_mailgun/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "ctslug": "how-to-send-emails-with-python-mailgun"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to run the app and database with Docker Compose",
+    "permalink": "/docs/deploy_to_render/run_everything_docker_compose/"
+  },
+  "next": {
+    "title": "Sending emails when users register",
+    "permalink": "/docs/task_queues_emails/send_email_user_registration/"
+  }
+}

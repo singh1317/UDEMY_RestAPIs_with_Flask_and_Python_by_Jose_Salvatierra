@@ -1,0 +1,27 @@
+{
+  "id": "docker_intro/in_depth_docker_tutorial/README",
+  "title": "In-depth Docker Tutorial",
+  "description": "My notes from the official Docker tutorial.",
+  "source": "@site/docs/04_docker_intro/03_in_depth_docker_tutorial/README.md",
+  "sourceDirName": "04_docker_intro/03_in_depth_docker_tutorial",
+  "slug": "/docker_intro/in_depth_docker_tutorial/",
+  "permalink": "/docs/docker_intro/in_depth_docker_tutorial/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/04_docker_intro/03_in_depth_docker_tutorial/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "ctslug": "in-depth-docker-tutorial",
+    "description": "My notes from the official Docker tutorial."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to run a Docker container",
+    "permalink": "/docs/docker_intro/run_docker_container/"
+  },
+  "next": {
+    "title": "Run the REST API using Docker Compose",
+    "permalink": "/docs/docker_intro/run_with_docker_compose/"
+  }
+}

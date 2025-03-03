@@ -1,0 +1,28 @@
+{
+  "id": "flask_smorest/new_endpoints_for_api/README",
+  "title": "New endpoints for our REST API",
+  "description": "Let's add a few routes to our first REST API, so it better matches what a production REST API would look like.",
+  "source": "@site/docs/05_flask_smorest/04_new_endpoints_for_api/README.md",
+  "sourceDirName": "05_flask_smorest/04_new_endpoints_for_api",
+  "slug": "/flask_smorest/new_endpoints_for_api/",
+  "permalink": "/docs/flask_smorest/new_endpoints_for_api/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/05_flask_smorest/04_new_endpoints_for_api/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "New endpoints for our REST API",
+    "description": "Let's add a few routes to our first REST API, so it better matches what a production REST API would look like.",
+    "ctslug": "new-endpoints-for-our-rest-api"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Improvements to our first REST API",
+    "permalink": "/docs/flask_smorest/improvements_on_first_rest_api/"
+  },
+  "next": {
+    "title": "Reloading API code in Docker container",
+    "permalink": "/docs/flask_smorest/reload_api_docker_container/"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "sql_storage_sqlalchemy/conclusion/README",
+  "title": "Conclusion of this section",
+  "description": "Review everything we've changed this section to add SQL storage with SQLAlchemy to our API.",
+  "source": "@site/docs/06_sql_storage_sqlalchemy/11_conclusion/README.md",
+  "sourceDirName": "06_sql_storage_sqlalchemy/11_conclusion",
+  "slug": "/sql_storage_sqlalchemy/conclusion/",
+  "permalink": "/docs/sql_storage_sqlalchemy/conclusion/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/06_sql_storage_sqlalchemy/11_conclusion/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Conclusion of this section",
+    "description": "Review everything we've changed this section to add SQL storage with SQLAlchemy to our API.",
+    "ctslug": "conclusion-of-this-section"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Delete models with relationships using cascades",
+    "permalink": "/docs/sql_storage_sqlalchemy/delete_related_models_sqlalchemy/"
+  },
+  "next": {
+    "title": "Changes in this section",
+    "permalink": "/docs/sqlalchemy_many_to_many/section_changes/"
+  }
+}

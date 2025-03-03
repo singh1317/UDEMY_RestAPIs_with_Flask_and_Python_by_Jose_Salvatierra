@@ -1,0 +1,28 @@
+{
+  "id": "flask_jwt_extended/login_users_rest_api/README",
+  "title": "How to add a login endpoint to the REST API",
+  "description": "Learn how to add a login endpoint that returns a JWT to a REST API using Flask-Smorest and Flask-JWT-Extended.",
+  "source": "@site/docs/08_flask_jwt_extended/07_login_users_rest_api/README.md",
+  "sourceDirName": "08_flask_jwt_extended/07_login_users_rest_api",
+  "slug": "/flask_jwt_extended/login_users_rest_api/",
+  "permalink": "/docs/flask_jwt_extended/login_users_rest_api/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/08_flask_jwt_extended/07_login_users_rest_api/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "How to add a login endpoint to the REST API",
+    "description": "Learn how to add a login endpoint that returns a JWT to a REST API using Flask-Smorest and Flask-JWT-Extended.",
+    "ctslug": "how-to-add-a-login-endpoint"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to add a register endpoint to the REST API",
+    "permalink": "/docs/flask_jwt_extended/registering_users_rest_api/"
+  },
+  "next": {
+    "title": "Protect endpoints by requiring a JWT",
+    "permalink": "/docs/flask_jwt_extended/protect_resources_with_jwt_required/"
+  }
+}

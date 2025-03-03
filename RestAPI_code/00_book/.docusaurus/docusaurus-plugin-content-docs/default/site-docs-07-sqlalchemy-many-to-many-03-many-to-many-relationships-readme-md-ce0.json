@@ -1,0 +1,28 @@
+{
+  "id": "sqlalchemy_many_to_many/many_to_many_relationships/README",
+  "title": "Many-to-many relationships",
+  "description": "Learn to set up a many-to-many relationship between two models using SQLAlchemy.",
+  "source": "@site/docs/07_sqlalchemy_many_to_many/03_many_to_many_relationships/README.md",
+  "sourceDirName": "07_sqlalchemy_many_to_many/03_many_to_many_relationships",
+  "slug": "/sqlalchemy_many_to_many/many_to_many_relationships/",
+  "permalink": "/docs/sqlalchemy_many_to_many/many_to_many_relationships/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/07_sqlalchemy_many_to_many/03_many_to_many_relationships/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Many-to-many relationships",
+    "description": "Learn to set up a many-to-many relationship between two models using SQLAlchemy.",
+    "ctslug": "many-to-many-relationships"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "One-to-many relationships review",
+    "permalink": "/docs/sqlalchemy_many_to_many/one_to_many_review/"
+  },
+  "next": {
+    "title": "Changes in this section",
+    "permalink": "/docs/flask_jwt_extended/section_changes/"
+  }
+}

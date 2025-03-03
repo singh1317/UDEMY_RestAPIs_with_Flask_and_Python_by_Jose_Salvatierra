@@ -1,0 +1,28 @@
+{
+  "id": "flask_jwt_extended/jwt_claims_and_authorization/README",
+  "title": "JWT claims and authorization",
+  "description": "Learn how to add claims (extra info) to a JWT and use it for authorization in endpoints of a REST API.",
+  "source": "@site/docs/08_flask_jwt_extended/09_jwt_claims_and_authorization/README.md",
+  "sourceDirName": "08_flask_jwt_extended/09_jwt_claims_and_authorization",
+  "slug": "/flask_jwt_extended/jwt_claims_and_authorization/",
+  "permalink": "/docs/flask_jwt_extended/jwt_claims_and_authorization/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/08_flask_jwt_extended/09_jwt_claims_and_authorization/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "JWT claims and authorization",
+    "description": "Learn how to add claims (extra info) to a JWT and use it for authorization in endpoints of a REST API.",
+    "ctslug": "jwt-claims-and-authorization"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Protect endpoints by requiring a JWT",
+    "permalink": "/docs/flask_jwt_extended/protect_resources_with_jwt_required/"
+  },
+  "next": {
+    "title": "How to add logout to the REST API",
+    "permalink": "/docs/flask_jwt_extended/logout_users_rest_api/"
+  }
+}

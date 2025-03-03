@@ -1,0 +1,28 @@
+{
+  "id": "sql_storage_sqlalchemy/one_to_many_relationships_sqlalchemy/README",
+  "title": "One-to-many relationships with SQLAlchemy",
+  "description": "Model relationships let us easily retrieve information about a related model, without having to do SQL JOINs manually.",
+  "source": "@site/docs/06_sql_storage_sqlalchemy/03_one_to_many_relationships_sqlalchemy/README.md",
+  "sourceDirName": "06_sql_storage_sqlalchemy/03_one_to_many_relationships_sqlalchemy",
+  "slug": "/sql_storage_sqlalchemy/one_to_many_relationships_sqlalchemy/",
+  "permalink": "/docs/sql_storage_sqlalchemy/one_to_many_relationships_sqlalchemy/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/06_sql_storage_sqlalchemy/03_one_to_many_relationships_sqlalchemy/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "One-to-many relationships with SQLAlchemy",
+    "description": "Model relationships let us easily retrieve information about a related model, without having to do SQL JOINs manually.",
+    "ctslug": "one-to-many-relationships-with-sqlalchemy"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create a simple SQLAlchemy Model",
+    "permalink": "/docs/sql_storage_sqlalchemy/create_simple_sqlalchemy_model/"
+  },
+  "next": {
+    "title": "Configure Flask-SQLAlchemy",
+    "permalink": "/docs/sql_storage_sqlalchemy/configure_flask_sqlalchemy/"
+  }
+}

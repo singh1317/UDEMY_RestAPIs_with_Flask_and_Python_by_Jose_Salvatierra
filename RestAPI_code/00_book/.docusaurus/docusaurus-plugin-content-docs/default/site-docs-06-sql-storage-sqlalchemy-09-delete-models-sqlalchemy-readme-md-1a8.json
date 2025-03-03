@@ -1,0 +1,28 @@
+{
+  "id": "sql_storage_sqlalchemy/delete_models_sqlalchemy/README",
+  "title": "Delete models with SQLAlchemy",
+  "description": "Use SQLAlchemy to handle removal of a specific model.",
+  "source": "@site/docs/06_sql_storage_sqlalchemy/09_delete_models_sqlalchemy/README.md",
+  "sourceDirName": "06_sql_storage_sqlalchemy/09_delete_models_sqlalchemy",
+  "slug": "/sql_storage_sqlalchemy/delete_models_sqlalchemy/",
+  "permalink": "/docs/sql_storage_sqlalchemy/delete_models_sqlalchemy/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/06_sql_storage_sqlalchemy/09_delete_models_sqlalchemy/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Delete models with SQLAlchemy",
+    "description": "Use SQLAlchemy to handle removal of a specific model.",
+    "ctslug": "delete-models-with-sqlalchemy"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Retrieve a list of all models",
+    "permalink": "/docs/sql_storage_sqlalchemy/retrieve_list_all_models/"
+  },
+  "next": {
+    "title": "Delete models with relationships using cascades",
+    "permalink": "/docs/sql_storage_sqlalchemy/delete_related_models_sqlalchemy/"
+  }
+}

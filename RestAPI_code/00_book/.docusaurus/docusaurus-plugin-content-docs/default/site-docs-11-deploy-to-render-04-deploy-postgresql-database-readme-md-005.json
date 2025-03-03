@@ -1,0 +1,26 @@
+{
+  "id": "deploy_to_render/deploy_postgresql_database/README",
+  "title": "How to get a deployed PostgreSQL database for our app",
+  "description": "There are many PostgreSQL-as-a-Service providers (that means, services that handle creating and maintaining your database for you).",
+  "source": "@site/docs/11_deploy_to_render/04_deploy_postgresql_database/README.md",
+  "sourceDirName": "11_deploy_to_render/04_deploy_postgresql_database",
+  "slug": "/deploy_to_render/deploy_postgresql_database/",
+  "permalink": "/docs/deploy_to_render/deploy_postgresql_database/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/11_deploy_to_render/04_deploy_postgresql_database/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "ctslug": "how-to-get-a-deployed-postgresql-database"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Run our Flask app with gunicorn in Docker",
+    "permalink": "/docs/deploy_to_render/docker_with_gunicorn/"
+  },
+  "next": {
+    "title": "How to use Environment Variables in Render.com",
+    "permalink": "/docs/deploy_to_render/environment_variables_and_migrations/"
+  }
+}

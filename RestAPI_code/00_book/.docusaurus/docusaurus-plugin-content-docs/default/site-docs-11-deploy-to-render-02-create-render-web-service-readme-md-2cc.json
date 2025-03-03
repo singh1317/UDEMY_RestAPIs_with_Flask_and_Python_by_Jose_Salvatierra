@@ -1,0 +1,26 @@
+{
+  "id": "deploy_to_render/create_render_web_service/README",
+  "title": "Creating a Render.com web service",
+  "description": "Let's start by going to https://render.com and signing up to an account. You can \"Log in with GitHub\" to make things easier.",
+  "source": "@site/docs/11_deploy_to_render/02_create_render_web_service/README.md",
+  "sourceDirName": "11_deploy_to_render/02_create_render_web_service",
+  "slug": "/deploy_to_render/create_render_web_service/",
+  "permalink": "/docs/deploy_to_render/create_render_web_service/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/11_deploy_to_render/02_create_render_web_service/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "ctslug": "creating-a-render-com-web-service"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Overview of this section",
+    "permalink": "/docs/deploy_to_render/section_overview/"
+  },
+  "next": {
+    "title": "Run our Flask app with gunicorn in Docker",
+    "permalink": "/docs/deploy_to_render/docker_with_gunicorn/"
+  }
+}

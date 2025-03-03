@@ -1,0 +1,28 @@
+{
+  "id": "sql_storage_sqlalchemy/retrieve_list_all_models/README",
+  "title": "Retrieve a list of all models",
+  "description": "Get more than one model and return it as a list from the API.",
+  "source": "@site/docs/06_sql_storage_sqlalchemy/08_retrieve_list_all_models/README.md",
+  "sourceDirName": "06_sql_storage_sqlalchemy/08_retrieve_list_all_models",
+  "slug": "/sql_storage_sqlalchemy/retrieve_list_all_models/",
+  "permalink": "/docs/sql_storage_sqlalchemy/retrieve_list_all_models/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/06_sql_storage_sqlalchemy/08_retrieve_list_all_models/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Retrieve a list of all models",
+    "description": "Get more than one model and return it as a list from the API.",
+    "ctslug": "retrieve-a-list-of-all-models"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Updating models with SQLAlchemy",
+    "permalink": "/docs/sql_storage_sqlalchemy/updating_models_sqlalchemy/"
+  },
+  "next": {
+    "title": "Delete models with SQLAlchemy",
+    "permalink": "/docs/sql_storage_sqlalchemy/delete_models_sqlalchemy/"
+  }
+}

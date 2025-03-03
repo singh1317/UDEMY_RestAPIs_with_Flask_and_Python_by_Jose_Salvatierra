@@ -1,0 +1,28 @@
+{
+  "id": "flask_jwt_extended/user_model_and_schema/README",
+  "title": "The User model and schema",
+  "description": "Create the SQLAlchemy User model and marshmallow schema.",
+  "source": "@site/docs/08_flask_jwt_extended/05_user_model_and_schema/README.md",
+  "sourceDirName": "08_flask_jwt_extended/05_user_model_and_schema",
+  "slug": "/flask_jwt_extended/user_model_and_schema/",
+  "permalink": "/docs/flask_jwt_extended/user_model_and_schema/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/08_flask_jwt_extended/05_user_model_and_schema/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "The User model and schema",
+    "description": "Create the SQLAlchemy User model and marshmallow schema.",
+    "ctslug": "the-user-model-and-schema"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Flask-JWT-Extended setup",
+    "permalink": "/docs/flask_jwt_extended/flask_jwt_extended_setup/"
+  },
+  "next": {
+    "title": "How to add a register endpoint to the REST API",
+    "permalink": "/docs/flask_jwt_extended/registering_users_rest_api/"
+  }
+}

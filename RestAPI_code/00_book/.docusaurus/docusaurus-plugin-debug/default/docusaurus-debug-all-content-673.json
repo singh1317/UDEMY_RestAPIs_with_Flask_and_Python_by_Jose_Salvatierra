@@ -1,0 +1,2523 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/docs",
+          "tagsPath": "/docs/tags",
+          "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs",
+          "editUrlLocalized": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/i18n/en/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "C:\\Users\\lpsin\\area52\\RestAPI\\RestAPI_code\\00_book\\sidebars.js",
+          "contentPath": "C:\\Users\\lpsin\\area52\\RestAPI\\RestAPI_code\\00_book\\docs",
+          "contentPathLocalized": "C:\\Users\\lpsin\\area52\\RestAPI\\RestAPI_code\\00_book\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "docs": [
+            {
+              "id": "course_intro/how_to_install_ide/README",
+              "title": "How to install an IDE",
+              "description": "What IDE should you use? How do you install it? Let me show you in this quick guide.",
+              "source": "@site/docs/01_course_intro/03_how_to_install_ide/README.md",
+              "sourceDirName": "01_course_intro/03_how_to_install_ide",
+              "slug": "/course_intro/how_to_install_ide/",
+              "permalink": "/docs/course_intro/how_to_install_ide/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/01_course_intro/03_how_to_install_ide/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "How to install an IDE",
+                "description": "What IDE should you use? How do you install it? Let me show you in this quick guide.",
+                "ctslug": "how-to-install-an-ide"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "How to install Python",
+                "permalink": "/docs/course_intro/how_to_install_python/"
+              },
+              "next": {
+                "title": "What is a REST API?",
+                "permalink": "/docs/course_intro/what_is_rest_api/"
+              }
+            },
+            {
+              "id": "course_intro/how_to_install_python/README",
+              "title": "How to install Python",
+              "description": "A brief description of the lecture goes here.",
+              "source": "@site/docs/01_course_intro/02_how_to_install_python/README.md",
+              "sourceDirName": "01_course_intro/02_how_to_install_python",
+              "slug": "/course_intro/how_to_install_python/",
+              "permalink": "/docs/course_intro/how_to_install_python/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/01_course_intro/02_how_to_install_python/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "How to install Python",
+                "description": "A brief description of the lecture goes here.",
+                "ctslug": "how-to-install-python"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "REST APIs with Flask and Python",
+                "permalink": "/docs/course_intro/"
+              },
+              "next": {
+                "title": "How to install an IDE",
+                "permalink": "/docs/course_intro/how_to_install_ide/"
+              }
+            },
+            {
+              "id": "course_intro/intro",
+              "title": "REST APIs with Flask and Python",
+              "description": "Hi, and welcome!",
+              "source": "@site/docs/01_course_intro/index.md",
+              "sourceDirName": "01_course_intro",
+              "slug": "/course_intro/",
+              "permalink": "/docs/course_intro/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/01_course_intro/index.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "intro"
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "How to install Python",
+                "permalink": "/docs/course_intro/how_to_install_python/"
+              }
+            },
+            {
+              "id": "course_intro/what_is_rest_api/README",
+              "title": "What is a REST API?",
+              "description": "There's a lot of confusion around what is and isn't a REST API. Let's take a look!",
+              "source": "@site/docs/01_course_intro/04_what_is_rest_api/README.md",
+              "sourceDirName": "01_course_intro/04_what_is_rest_api",
+              "slug": "/course_intro/what_is_rest_api/",
+              "permalink": "/docs/course_intro/what_is_rest_api/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/01_course_intro/04_what_is_rest_api/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "What is a REST API?",
+                "description": "There's a lot of confusion around what is and isn't a REST API. Let's take a look!",
+                "ctslug": "what-is-an-rest-api"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "How to install an IDE",
+                "permalink": "/docs/course_intro/how_to_install_ide/"
+              },
+              "next": {
+                "title": "Python Refresher",
+                "permalink": "/docs/python_refresher/"
+              }
+            },
+            {
+              "id": "deploy_to_render/create_render_web_service/README",
+              "title": "Creating a Render.com web service",
+              "description": "Let's start by going to https://render.com and signing up to an account. You can \"Log in with GitHub\" to make things easier.",
+              "source": "@site/docs/11_deploy_to_render/02_create_render_web_service/README.md",
+              "sourceDirName": "11_deploy_to_render/02_create_render_web_service",
+              "slug": "/deploy_to_render/create_render_web_service/",
+              "permalink": "/docs/deploy_to_render/create_render_web_service/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/11_deploy_to_render/02_create_render_web_service/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "ctslug": "creating-a-render-com-web-service"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Overview of this section",
+                "permalink": "/docs/deploy_to_render/section_overview/"
+              },
+              "next": {
+                "title": "Run our Flask app with gunicorn in Docker",
+                "permalink": "/docs/deploy_to_render/docker_with_gunicorn/"
+              }
+            },
+            {
+              "id": "deploy_to_render/deploy_postgresql_database/README",
+              "title": "How to get a deployed PostgreSQL database for our app",
+              "description": "There are many PostgreSQL-as-a-Service providers (that means, services that handle creating and maintaining your database for you).",
+              "source": "@site/docs/11_deploy_to_render/04_deploy_postgresql_database/README.md",
+              "sourceDirName": "11_deploy_to_render/04_deploy_postgresql_database",
+              "slug": "/deploy_to_render/deploy_postgresql_database/",
+              "permalink": "/docs/deploy_to_render/deploy_postgresql_database/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/11_deploy_to_render/04_deploy_postgresql_database/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "ctslug": "how-to-get-a-deployed-postgresql-database"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Run our Flask app with gunicorn in Docker",
+                "permalink": "/docs/deploy_to_render/docker_with_gunicorn/"
+              },
+              "next": {
+                "title": "How to use Environment Variables in Render.com",
+                "permalink": "/docs/deploy_to_render/environment_variables_and_migrations/"
+              }
+            },
+            {
+              "id": "deploy_to_render/docker_with_gunicorn/README",
+              "title": "Run our Flask app with gunicorn in Docker",
+              "description": "Throughout the course, we've been working with a Docker image like this one:",
+              "source": "@site/docs/11_deploy_to_render/03_docker_with_gunicorn/README.md",
+              "sourceDirName": "11_deploy_to_render/03_docker_with_gunicorn",
+              "slug": "/deploy_to_render/docker_with_gunicorn/",
+              "permalink": "/docs/deploy_to_render/docker_with_gunicorn/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/11_deploy_to_render/03_docker_with_gunicorn/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "ctslug": "run-our-flask-app-with-gunicorn"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Creating a Render.com web service",
+                "permalink": "/docs/deploy_to_render/create_render_web_service/"
+              },
+              "next": {
+                "title": "How to get a deployed PostgreSQL database for our app",
+                "permalink": "/docs/deploy_to_render/deploy_postgresql_database/"
+              }
+            },
+            {
+              "id": "deploy_to_render/environment_variables_and_migrations/README",
+              "title": "How to use Environment Variables in Render.com",
+              "description": "A common way to configure applications before they start up is by using environment variables.",
+              "source": "@site/docs/11_deploy_to_render/05_environment_variables_and_migrations/README.md",
+              "sourceDirName": "11_deploy_to_render/05_environment_variables_and_migrations",
+              "slug": "/deploy_to_render/environment_variables_and_migrations/",
+              "permalink": "/docs/deploy_to_render/environment_variables_and_migrations/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/11_deploy_to_render/05_environment_variables_and_migrations/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "ctslug": "how-to-use-environment-variables-in-render-com"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "How to get a deployed PostgreSQL database for our app",
+                "permalink": "/docs/deploy_to_render/deploy_postgresql_database/"
+              },
+              "next": {
+                "title": "How to run the app and database with Docker Compose",
+                "permalink": "/docs/deploy_to_render/run_everything_docker_compose/"
+              }
+            },
+            {
+              "id": "deploy_to_render/run_everything_docker_compose/README",
+              "title": "How to run the app and database with Docker Compose",
+              "description": "Up until now we've been running docker compose up to start the REST API container.",
+              "source": "@site/docs/11_deploy_to_render/06_run_everything_docker_compose/README.md",
+              "sourceDirName": "11_deploy_to_render/06_run_everything_docker_compose",
+              "slug": "/deploy_to_render/run_everything_docker_compose/",
+              "permalink": "/docs/deploy_to_render/run_everything_docker_compose/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/11_deploy_to_render/06_run_everything_docker_compose/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "How to use Environment Variables in Render.com",
+                "permalink": "/docs/deploy_to_render/environment_variables_and_migrations/"
+              },
+              "next": {
+                "title": "How to send emails with Python and Mailgun",
+                "permalink": "/docs/task_queues_emails/send_emails_python_mailgun/"
+              }
+            },
+            {
+              "id": "deploy_to_render/section_overview/README",
+              "title": "Overview of this section",
+              "description": "Remember to get the Insomnia files for this section or for all sections here!",
+              "source": "@site/docs/11_deploy_to_render/01_section_overview/README.md",
+              "sourceDirName": "11_deploy_to_render/01_section_overview",
+              "slug": "/deploy_to_render/section_overview/",
+              "permalink": "/docs/deploy_to_render/section_overview/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/11_deploy_to_render/01_section_overview/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "ctslug": "overview-of-this-section"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Git Crash Course",
+                "permalink": "/docs/git_crash_course/"
+              },
+              "next": {
+                "title": "Creating a Render.com web service",
+                "permalink": "/docs/deploy_to_render/create_render_web_service/"
+              }
+            },
+            {
+              "id": "docker_intro/in_depth_docker_tutorial/README",
+              "title": "In-depth Docker Tutorial",
+              "description": "My notes from the official Docker tutorial.",
+              "source": "@site/docs/04_docker_intro/03_in_depth_docker_tutorial/README.md",
+              "sourceDirName": "04_docker_intro/03_in_depth_docker_tutorial",
+              "slug": "/docker_intro/in_depth_docker_tutorial/",
+              "permalink": "/docs/docker_intro/in_depth_docker_tutorial/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/04_docker_intro/03_in_depth_docker_tutorial/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "ctslug": "in-depth-docker-tutorial",
+                "description": "My notes from the official Docker tutorial."
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "How to run a Docker container",
+                "permalink": "/docs/docker_intro/run_docker_container/"
+              },
+              "next": {
+                "title": "Run the REST API using Docker Compose",
+                "permalink": "/docs/docker_intro/run_with_docker_compose/"
+              }
+            },
+            {
+              "id": "docker_intro/README",
+              "title": "An Introduction to Docker",
+              "description": "An important foreword: this is not a Docker course, and I'm not a Docker expert!",
+              "source": "@site/docs/04_docker_intro/README.md",
+              "sourceDirName": "04_docker_intro",
+              "slug": "/docker_intro/",
+              "permalink": "/docs/docker_intro/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/04_docker_intro/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Final code of this section",
+                "permalink": "/docs/first_rest_api/final_code/"
+              },
+              "next": {
+                "title": "What are Docker images and containers?",
+                "permalink": "/docs/docker_intro/what_is_docker_container/"
+              }
+            },
+            {
+              "id": "docker_intro/run_commands_in_docker_containers/README",
+              "title": "How to run commands inside a Docker container",
+              "description": "If you run your API using Docker Compose, with the docker compose up command, you may also want to be able to execute arbitrary shell commands in the container.",
+              "source": "@site/docs/04_docker_intro/05_run_commands_in_docker_containers/README.md",
+              "sourceDirName": "04_docker_intro/05_run_commands_in_docker_containers",
+              "slug": "/docker_intro/run_commands_in_docker_containers/",
+              "permalink": "/docs/docker_intro/run_commands_in_docker_containers/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/04_docker_intro/05_run_commands_in_docker_containers/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Run the REST API using Docker Compose",
+                "permalink": "/docs/docker_intro/run_with_docker_compose/"
+              },
+              "next": {
+                "title": "Why use Flask-Smorest",
+                "permalink": "/docs/flask_smorest/why_flask_smorest/"
+              }
+            },
+            {
+              "id": "docker_intro/run_docker_container/README",
+              "title": "How to run a Docker container",
+              "description": "Learn how to run a Docker container with your REST API using Docker Desktop.",
+              "source": "@site/docs/04_docker_intro/02_run_docker_container/README.md",
+              "sourceDirName": "04_docker_intro/02_run_docker_container",
+              "slug": "/docker_intro/run_docker_container/",
+              "permalink": "/docs/docker_intro/run_docker_container/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/04_docker_intro/02_run_docker_container/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "ctslug": "how-to-run-a-docker-container",
+                "description": "Learn how to run a Docker container with your REST API using Docker Desktop."
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "What are Docker images and containers?",
+                "permalink": "/docs/docker_intro/what_is_docker_container/"
+              },
+              "next": {
+                "title": "In-depth Docker Tutorial",
+                "permalink": "/docs/docker_intro/in_depth_docker_tutorial/"
+              }
+            },
+            {
+              "id": "docker_intro/run_with_docker_compose/README",
+              "title": "Run the REST API using Docker Compose",
+              "description": "Now that we've got a Docker container for our REST API, we can set up Docker Compose to run the container.",
+              "source": "@site/docs/04_docker_intro/04_run_with_docker_compose/README.md",
+              "sourceDirName": "04_docker_intro/04_run_with_docker_compose",
+              "slug": "/docker_intro/run_with_docker_compose/",
+              "permalink": "/docs/docker_intro/run_with_docker_compose/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/04_docker_intro/04_run_with_docker_compose/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "In-depth Docker Tutorial",
+                "permalink": "/docs/docker_intro/in_depth_docker_tutorial/"
+              },
+              "next": {
+                "title": "How to run commands inside a Docker container",
+                "permalink": "/docs/docker_intro/run_commands_in_docker_containers/"
+              }
+            },
+            {
+              "id": "docker_intro/what_is_docker_container/README",
+              "title": "What are Docker images and containers?",
+              "description": "Learn what Docker images and containers are, and how we can use them to distribute and run our applications.",
+              "source": "@site/docs/04_docker_intro/01_what_is_docker_container/README.md",
+              "sourceDirName": "04_docker_intro/01_what_is_docker_container",
+              "slug": "/docker_intro/what_is_docker_container/",
+              "permalink": "/docs/docker_intro/what_is_docker_container/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/04_docker_intro/01_what_is_docker_container/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "ctslug": "what-is-a-docker-container",
+                "description": "Learn what Docker images and containers are, and how we can use them to distribute and run our applications."
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "An Introduction to Docker",
+                "permalink": "/docs/docker_intro/"
+              },
+              "next": {
+                "title": "How to run a Docker container",
+                "permalink": "/docs/docker_intro/run_docker_container/"
+              }
+            },
+            {
+              "id": "first_rest_api/creating_items/README",
+              "title": "How to create items in each store",
+              "description": "A brief description of the lecture goes here.",
+              "source": "@site/docs/03_first_rest_api/07_creating_items/README.md",
+              "sourceDirName": "03_first_rest_api/07_creating_items",
+              "slug": "/first_rest_api/creating_items/",
+              "permalink": "/docs/first_rest_api/creating_items/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/03_first_rest_api/07_creating_items/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "How to create items in each store",
+                "description": "A brief description of the lecture goes here.",
+                "ctslug": "how-to-create-items-in-each-store"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "How to create stores",
+                "permalink": "/docs/first_rest_api/creating_stores/"
+              },
+              "next": {
+                "title": "Get a specific store and its items",
+                "permalink": "/docs/first_rest_api/return_data_from_rest_api/"
+              }
+            },
+            {
+              "id": "first_rest_api/creating_stores/README",
+              "title": "How to create stores",
+              "description": "Learn how to add data to our REST API.",
+              "source": "@site/docs/03_first_rest_api/06_creating_stores/README.md",
+              "sourceDirName": "03_first_rest_api/06_creating_stores",
+              "slug": "/first_rest_api/creating_stores/",
+              "permalink": "/docs/first_rest_api/creating_stores/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/03_first_rest_api/06_creating_stores/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "How to create stores",
+                "description": "Learn how to add data to our REST API.",
+                "ctslug": "how-to-create-stores"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "How to interact with your REST API",
+                "permalink": "/docs/first_rest_api/make_request_to_rest_api/"
+              },
+              "next": {
+                "title": "How to create items in each store",
+                "permalink": "/docs/first_rest_api/creating_items/"
+              }
+            },
+            {
+              "id": "first_rest_api/final_code/README",
+              "title": "Final code of this section",
+              "description": "Overview of the project we've built and all the code in it.",
+              "source": "@site/docs/03_first_rest_api/09_final_code/README.md",
+              "sourceDirName": "03_first_rest_api/09_final_code",
+              "slug": "/first_rest_api/final_code/",
+              "permalink": "/docs/first_rest_api/final_code/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/03_first_rest_api/09_final_code/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Final code of this section",
+                "description": "Overview of the project we've built and all the code in it.",
+                "ctslug": "final-code-of-this-section"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Get a specific store and its items",
+                "permalink": "/docs/first_rest_api/return_data_from_rest_api/"
+              },
+              "next": {
+                "title": "An Introduction to Docker",
+                "permalink": "/docs/docker_intro/"
+              }
+            },
+            {
+              "id": "first_rest_api/first_rest_api_endpoint/README",
+              "title": "Your First REST API Endpoint",
+              "description": "Learn how to define a REST API endpoint using Flask.",
+              "source": "@site/docs/03_first_rest_api/03_first_rest_api_endpoint/README.md",
+              "sourceDirName": "03_first_rest_api/03_first_rest_api_endpoint",
+              "slug": "/first_rest_api/first_rest_api_endpoint/",
+              "permalink": "/docs/first_rest_api/first_rest_api_endpoint/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/03_first_rest_api/03_first_rest_api_endpoint/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Your First REST API Endpoint",
+                "description": "Learn how to define a REST API endpoint using Flask.",
+                "ctslug": "your-first-rest-api-endpoint"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Getting set up",
+                "permalink": "/docs/first_rest_api/getting_set_up/"
+              },
+              "next": {
+                "title": "What is JSON?",
+                "permalink": "/docs/first_rest_api/what_is_json/"
+              }
+            },
+            {
+              "id": "first_rest_api/getting_set_up/README",
+              "title": "Getting set up",
+              "description": "Set up a Flask project and create the Flask app.",
+              "source": "@site/docs/03_first_rest_api/02_getting_set_up/README.md",
+              "sourceDirName": "03_first_rest_api/02_getting_set_up",
+              "slug": "/first_rest_api/getting_set_up/",
+              "permalink": "/docs/first_rest_api/getting_set_up/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/03_first_rest_api/02_getting_set_up/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Getting set up",
+                "description": "Set up a Flask project and create the Flask app.",
+                "ctslug": "getting-set-up"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Project Overview",
+                "permalink": "/docs/first_rest_api/project_overview/"
+              },
+              "next": {
+                "title": "Your First REST API Endpoint",
+                "permalink": "/docs/first_rest_api/first_rest_api_endpoint/"
+              }
+            },
+            {
+              "id": "first_rest_api/make_request_to_rest_api/README",
+              "title": "How to interact with your REST API",
+              "description": "Use Postman and Insomnia REST Client to interact with your REST API.",
+              "source": "@site/docs/03_first_rest_api/05_make_request_to_rest_api/README.md",
+              "sourceDirName": "03_first_rest_api/05_make_request_to_rest_api",
+              "slug": "/first_rest_api/make_request_to_rest_api/",
+              "permalink": "/docs/first_rest_api/make_request_to_rest_api/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/03_first_rest_api/05_make_request_to_rest_api/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "How to interact with your REST API",
+                "description": "Use Postman and Insomnia REST Client to interact with your REST API.",
+                "ctslug": "how-to-interact-with-your-rest-api"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "What is JSON?",
+                "permalink": "/docs/first_rest_api/what_is_json/"
+              },
+              "next": {
+                "title": "How to create stores",
+                "permalink": "/docs/first_rest_api/creating_stores/"
+              }
+            },
+            {
+              "id": "first_rest_api/project_overview/README",
+              "title": "Project Overview",
+              "description": "A first look at the project we'll build in this section.",
+              "source": "@site/docs/03_first_rest_api/01_project_overview/README.md",
+              "sourceDirName": "03_first_rest_api/01_project_overview",
+              "slug": "/first_rest_api/project_overview/",
+              "permalink": "/docs/first_rest_api/project_overview/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/03_first_rest_api/01_project_overview/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Project Overview",
+                "description": "A first look at the project we'll build in this section.",
+                "ctslug": "overview-of-your-first-rest-api"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Python Refresher",
+                "permalink": "/docs/python_refresher/"
+              },
+              "next": {
+                "title": "Getting set up",
+                "permalink": "/docs/first_rest_api/getting_set_up/"
+              }
+            },
+            {
+              "id": "first_rest_api/return_data_from_rest_api/README",
+              "title": "Get a specific store and its items",
+              "description": "How to use Flask to return data from your REST API to your client.",
+              "source": "@site/docs/03_first_rest_api/08_return_data_from_rest_api/README.md",
+              "sourceDirName": "03_first_rest_api/08_return_data_from_rest_api",
+              "slug": "/first_rest_api/return_data_from_rest_api/",
+              "permalink": "/docs/first_rest_api/return_data_from_rest_api/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/03_first_rest_api/08_return_data_from_rest_api/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Get a specific store and its items",
+                "description": "How to use Flask to return data from your REST API to your client.",
+                "ctslug": "get-a-specific-store-and-its-items"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "How to create items in each store",
+                "permalink": "/docs/first_rest_api/creating_items/"
+              },
+              "next": {
+                "title": "Final code of this section",
+                "permalink": "/docs/first_rest_api/final_code/"
+              }
+            },
+            {
+              "id": "first_rest_api/what_is_json/README",
+              "title": "What is JSON?",
+              "description": "JSON is the way we normally transfer data to and from REST APIs.",
+              "source": "@site/docs/03_first_rest_api/04_what_is_json/README.md",
+              "sourceDirName": "03_first_rest_api/04_what_is_json",
+              "slug": "/first_rest_api/what_is_json/",
+              "permalink": "/docs/first_rest_api/what_is_json/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/03_first_rest_api/04_what_is_json/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "What is JSON?",
+                "description": "JSON is the way we normally transfer data to and from REST APIs.",
+                "ctslug": "what-is-json"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Your First REST API Endpoint",
+                "permalink": "/docs/first_rest_api/first_rest_api_endpoint/"
+              },
+              "next": {
+                "title": "How to interact with your REST API",
+                "permalink": "/docs/first_rest_api/make_request_to_rest_api/"
+              }
+            },
+            {
+              "id": "flask_jwt_extended/flask_jwt_extended_setup/README",
+              "title": "Flask-JWT-Extended setup",
+              "description": "Install and set up the Flask-JWT-Extended extension with our REST API.",
+              "source": "@site/docs/08_flask_jwt_extended/04_flask_jwt_extended_setup/README.md",
+              "sourceDirName": "08_flask_jwt_extended/04_flask_jwt_extended_setup",
+              "slug": "/flask_jwt_extended/flask_jwt_extended_setup/",
+              "permalink": "/docs/flask_jwt_extended/flask_jwt_extended_setup/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/08_flask_jwt_extended/04_flask_jwt_extended_setup/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Flask-JWT-Extended setup",
+                "description": "Install and set up the Flask-JWT-Extended extension with our REST API.",
+                "ctslug": "flask-jwt-extended-setup"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "How are JWTs used?",
+                "permalink": "/docs/flask_jwt_extended/how_is_jwt_used/"
+              },
+              "next": {
+                "title": "The User model and schema",
+                "permalink": "/docs/flask_jwt_extended/user_model_and_schema/"
+              }
+            },
+            {
+              "id": "flask_jwt_extended/how_is_jwt_used/README",
+              "title": "How are JWTs used?",
+              "description": "Learn who uses JWTs and how they are used by clients and servers to perform authentication.",
+              "source": "@site/docs/08_flask_jwt_extended/03_how_is_jwt_used/README.md",
+              "sourceDirName": "08_flask_jwt_extended/03_how_is_jwt_used",
+              "slug": "/flask_jwt_extended/how_is_jwt_used/",
+              "permalink": "/docs/flask_jwt_extended/how_is_jwt_used/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/08_flask_jwt_extended/03_how_is_jwt_used/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "How are JWTs used?",
+                "description": "Learn who uses JWTs and how they are used by clients and servers to perform authentication.",
+                "ctslug": "how-are-jwts-used"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "What is a JWT?",
+                "permalink": "/docs/flask_jwt_extended/what_is_a_jwt/"
+              },
+              "next": {
+                "title": "Flask-JWT-Extended setup",
+                "permalink": "/docs/flask_jwt_extended/flask_jwt_extended_setup/"
+              }
+            },
+            {
+              "id": "flask_jwt_extended/insomnia_request_chaining/README",
+              "title": "Insomnia request chaining",
+              "description": "Learn how to use Insomnia's Request Chaining to simplify our workflow and not have to copy-paste the access token in every request.",
+              "source": "@site/docs/08_flask_jwt_extended/11_insomnia_request_chaining/README.md",
+              "sourceDirName": "08_flask_jwt_extended/11_insomnia_request_chaining",
+              "slug": "/flask_jwt_extended/insomnia_request_chaining/",
+              "permalink": "/docs/flask_jwt_extended/insomnia_request_chaining/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/08_flask_jwt_extended/11_insomnia_request_chaining/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Insomnia request chaining",
+                "description": "Learn how to use Insomnia's Request Chaining to simplify our workflow and not have to copy-paste the access token in every request.",
+                "ctslug": "request-chaining-with-insomnia"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "How to add logout to the REST API",
+                "permalink": "/docs/flask_jwt_extended/logout_users_rest_api/"
+              },
+              "next": {
+                "title": "Token refreshing with Flask-JWT-Extended",
+                "permalink": "/docs/flask_jwt_extended/token_refreshing_flask_jwt_extended/"
+              }
+            },
+            {
+              "id": "flask_jwt_extended/jwt_claims_and_authorization/README",
+              "title": "JWT claims and authorization",
+              "description": "Learn how to add claims (extra info) to a JWT and use it for authorization in endpoints of a REST API.",
+              "source": "@site/docs/08_flask_jwt_extended/09_jwt_claims_and_authorization/README.md",
+              "sourceDirName": "08_flask_jwt_extended/09_jwt_claims_and_authorization",
+              "slug": "/flask_jwt_extended/jwt_claims_and_authorization/",
+              "permalink": "/docs/flask_jwt_extended/jwt_claims_and_authorization/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/08_flask_jwt_extended/09_jwt_claims_and_authorization/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "JWT claims and authorization",
+                "description": "Learn how to add claims (extra info) to a JWT and use it for authorization in endpoints of a REST API.",
+                "ctslug": "jwt-claims-and-authorization"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Protect endpoints by requiring a JWT",
+                "permalink": "/docs/flask_jwt_extended/protect_resources_with_jwt_required/"
+              },
+              "next": {
+                "title": "How to add logout to the REST API",
+                "permalink": "/docs/flask_jwt_extended/logout_users_rest_api/"
+              }
+            },
+            {
+              "id": "flask_jwt_extended/login_users_rest_api/README",
+              "title": "How to add a login endpoint to the REST API",
+              "description": "Learn how to add a login endpoint that returns a JWT to a REST API using Flask-Smorest and Flask-JWT-Extended.",
+              "source": "@site/docs/08_flask_jwt_extended/07_login_users_rest_api/README.md",
+              "sourceDirName": "08_flask_jwt_extended/07_login_users_rest_api",
+              "slug": "/flask_jwt_extended/login_users_rest_api/",
+              "permalink": "/docs/flask_jwt_extended/login_users_rest_api/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/08_flask_jwt_extended/07_login_users_rest_api/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "How to add a login endpoint to the REST API",
+                "description": "Learn how to add a login endpoint that returns a JWT to a REST API using Flask-Smorest and Flask-JWT-Extended.",
+                "ctslug": "how-to-add-a-login-endpoint"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "How to add a register endpoint to the REST API",
+                "permalink": "/docs/flask_jwt_extended/registering_users_rest_api/"
+              },
+              "next": {
+                "title": "Protect endpoints by requiring a JWT",
+                "permalink": "/docs/flask_jwt_extended/protect_resources_with_jwt_required/"
+              }
+            },
+            {
+              "id": "flask_jwt_extended/logout_users_rest_api/README",
+              "title": "How to add logout to the REST API",
+              "description": "Create a logout endpoint that blocks certain JWTs from making further authenticated requests.",
+              "source": "@site/docs/08_flask_jwt_extended/10_logout_users_rest_api/README.md",
+              "sourceDirName": "08_flask_jwt_extended/10_logout_users_rest_api",
+              "slug": "/flask_jwt_extended/logout_users_rest_api/",
+              "permalink": "/docs/flask_jwt_extended/logout_users_rest_api/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/08_flask_jwt_extended/10_logout_users_rest_api/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "How to add logout to the REST API",
+                "description": "Create a logout endpoint that blocks certain JWTs from making further authenticated requests.",
+                "ctslug": "how-to-add-logout-to-the-rest-api"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "JWT claims and authorization",
+                "permalink": "/docs/flask_jwt_extended/jwt_claims_and_authorization/"
+              },
+              "next": {
+                "title": "Insomnia request chaining",
+                "permalink": "/docs/flask_jwt_extended/insomnia_request_chaining/"
+              }
+            },
+            {
+              "id": "flask_jwt_extended/protect_resources_with_jwt_required/README",
+              "title": "Protect endpoints by requiring a JWT",
+              "description": "Use jwt_required from Flask-JWT-Extended to prevent unauthorised users from making requests to certain endpoints in a REST API.",
+              "source": "@site/docs/08_flask_jwt_extended/08_protect_resources_with_jwt_required/README.md",
+              "sourceDirName": "08_flask_jwt_extended/08_protect_resources_with_jwt_required",
+              "slug": "/flask_jwt_extended/protect_resources_with_jwt_required/",
+              "permalink": "/docs/flask_jwt_extended/protect_resources_with_jwt_required/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/08_flask_jwt_extended/08_protect_resources_with_jwt_required/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Protect endpoints by requiring a JWT",
+                "description": "Use jwt_required from Flask-JWT-Extended to prevent unauthorised users from making requests to certain endpoints in a REST API.",
+                "ctslug": "protect-endpoints-by-requiring-a-jwt"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "How to add a login endpoint to the REST API",
+                "permalink": "/docs/flask_jwt_extended/login_users_rest_api/"
+              },
+              "next": {
+                "title": "JWT claims and authorization",
+                "permalink": "/docs/flask_jwt_extended/jwt_claims_and_authorization/"
+              }
+            },
+            {
+              "id": "flask_jwt_extended/registering_users_rest_api/README",
+              "title": "How to add a register endpoint to the REST API",
+              "description": "Learn how to add a registration endpoint to a REST API using Flask-Smorest and Flask-JWT-Extended.",
+              "source": "@site/docs/08_flask_jwt_extended/06_registering_users_rest_api/README.md",
+              "sourceDirName": "08_flask_jwt_extended/06_registering_users_rest_api",
+              "slug": "/flask_jwt_extended/registering_users_rest_api/",
+              "permalink": "/docs/flask_jwt_extended/registering_users_rest_api/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/08_flask_jwt_extended/06_registering_users_rest_api/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "How to add a register endpoint to the REST API",
+                "description": "Learn how to add a registration endpoint to a REST API using Flask-Smorest and Flask-JWT-Extended.",
+                "ctslug": "how-to-add-a-register-endpoint-to-the-rest-api"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "The User model and schema",
+                "permalink": "/docs/flask_jwt_extended/user_model_and_schema/"
+              },
+              "next": {
+                "title": "How to add a login endpoint to the REST API",
+                "permalink": "/docs/flask_jwt_extended/login_users_rest_api/"
+              }
+            },
+            {
+              "id": "flask_jwt_extended/section_changes/README",
+              "title": "Changes in this section",
+              "description": "Overview of the API endpoints we'll use for user registration and authentication.",
+              "source": "@site/docs/08_flask_jwt_extended/01_section_changes/README.md",
+              "sourceDirName": "08_flask_jwt_extended/01_section_changes",
+              "slug": "/flask_jwt_extended/section_changes/",
+              "permalink": "/docs/flask_jwt_extended/section_changes/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/08_flask_jwt_extended/01_section_changes/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Changes in this section",
+                "description": "Overview of the API endpoints we'll use for user registration and authentication.",
+                "ctslug": "changes-in-jwt-extended-section"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Many-to-many relationships",
+                "permalink": "/docs/sqlalchemy_many_to_many/many_to_many_relationships/"
+              },
+              "next": {
+                "title": "What is a JWT?",
+                "permalink": "/docs/flask_jwt_extended/what_is_a_jwt/"
+              }
+            },
+            {
+              "id": "flask_jwt_extended/token_refreshing_flask_jwt_extended/README",
+              "title": "Token refreshing with Flask-JWT-Extended",
+              "description": "Learn about fresh and non-fresh tokens, as well as how to use a refresh token to generate a new, non-fresh access token.",
+              "source": "@site/docs/08_flask_jwt_extended/12_token_refreshing_flask_jwt_extended/README.md",
+              "sourceDirName": "08_flask_jwt_extended/12_token_refreshing_flask_jwt_extended",
+              "slug": "/flask_jwt_extended/token_refreshing_flask_jwt_extended/",
+              "permalink": "/docs/flask_jwt_extended/token_refreshing_flask_jwt_extended/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/08_flask_jwt_extended/12_token_refreshing_flask_jwt_extended/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Token refreshing with Flask-JWT-Extended",
+                "description": "Learn about fresh and non-fresh tokens, as well as how to use a refresh token to generate a new, non-fresh access token.",
+                "ctslug": "token-refreshing-with-flask-jwt-extended"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Insomnia request chaining",
+                "permalink": "/docs/flask_jwt_extended/insomnia_request_chaining/"
+              },
+              "next": {
+                "title": "Why use database migrations?",
+                "permalink": "/docs/flask_migrate/why_use_database_migrations/"
+              }
+            },
+            {
+              "id": "flask_jwt_extended/user_model_and_schema/README",
+              "title": "The User model and schema",
+              "description": "Create the SQLAlchemy User model and marshmallow schema.",
+              "source": "@site/docs/08_flask_jwt_extended/05_user_model_and_schema/README.md",
+              "sourceDirName": "08_flask_jwt_extended/05_user_model_and_schema",
+              "slug": "/flask_jwt_extended/user_model_and_schema/",
+              "permalink": "/docs/flask_jwt_extended/user_model_and_schema/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/08_flask_jwt_extended/05_user_model_and_schema/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "The User model and schema",
+                "description": "Create the SQLAlchemy User model and marshmallow schema.",
+                "ctslug": "the-user-model-and-schema"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Flask-JWT-Extended setup",
+                "permalink": "/docs/flask_jwt_extended/flask_jwt_extended_setup/"
+              },
+              "next": {
+                "title": "How to add a register endpoint to the REST API",
+                "permalink": "/docs/flask_jwt_extended/registering_users_rest_api/"
+              }
+            },
+            {
+              "id": "flask_jwt_extended/what_is_a_jwt/README",
+              "title": "What is a JWT?",
+              "description": "Understand what a JWT is, what data it contains, and how it may be used.",
+              "source": "@site/docs/08_flask_jwt_extended/02_what_is_a_jwt/README.md",
+              "sourceDirName": "08_flask_jwt_extended/02_what_is_a_jwt",
+              "slug": "/flask_jwt_extended/what_is_a_jwt/",
+              "permalink": "/docs/flask_jwt_extended/what_is_a_jwt/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/08_flask_jwt_extended/02_what_is_a_jwt/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "What is a JWT?",
+                "description": "Understand what a JWT is, what data it contains, and how it may be used.",
+                "ctslug": "what-is-a-jwt"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Changes in this section",
+                "permalink": "/docs/flask_jwt_extended/section_changes/"
+              },
+              "next": {
+                "title": "How are JWTs used?",
+                "permalink": "/docs/flask_jwt_extended/how_is_jwt_used/"
+              }
+            },
+            {
+              "id": "flask_migrate/add_flask_migrate_to_app/README",
+              "title": "How to add Flask-Migrate to our Flask app",
+              "description": "Integrating your Flask app with Flask-Migrate is relatively straightforward. Learn how to do it in this lecture.",
+              "source": "@site/docs/09_flask_migrate/02_add_flask_migrate_to_app/README.md",
+              "sourceDirName": "09_flask_migrate/02_add_flask_migrate_to_app",
+              "slug": "/flask_migrate/add_flask_migrate_to_app/",
+              "permalink": "/docs/flask_migrate/add_flask_migrate_to_app/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/09_flask_migrate/02_add_flask_migrate_to_app/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "How to add Flask-Migrate to our Flask app",
+                "description": "Integrating your Flask app with Flask-Migrate is relatively straightforward. Learn how to do it in this lecture.",
+                "ctslug": "how-to-add-flask-migrate-to-our-flask-app"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Why use database migrations?",
+                "permalink": "/docs/flask_migrate/why_use_database_migrations/"
+              },
+              "next": {
+                "title": "Initialize your database with Flask-Migrate",
+                "permalink": "/docs/flask_migrate/initialize_database_flask_db_init/"
+              }
+            },
+            {
+              "id": "flask_migrate/change_models_generate_alembic_migration/README",
+              "title": "Change SQLAlchemy models and generate a migration",
+              "description": "Use Flask-Migrate to generate a new database migration after changing your SQLAlchemy models.",
+              "source": "@site/docs/09_flask_migrate/04_change_models_generate_alembic_migration/README.md",
+              "sourceDirName": "09_flask_migrate/04_change_models_generate_alembic_migration",
+              "slug": "/flask_migrate/change_models_generate_alembic_migration/",
+              "permalink": "/docs/flask_migrate/change_models_generate_alembic_migration/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/09_flask_migrate/04_change_models_generate_alembic_migration/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Change SQLAlchemy models and generate a migration",
+                "description": "Use Flask-Migrate to generate a new database migration after changing your SQLAlchemy models.",
+                "ctslug": "change-sqlalchemy-models-generate-migration"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Initialize your database with Flask-Migrate",
+                "permalink": "/docs/flask_migrate/initialize_database_flask_db_init/"
+              },
+              "next": {
+                "title": "Manually review and modify database migrations",
+                "permalink": "/docs/flask_migrate/manually_review_modify_migrations/"
+              }
+            },
+            {
+              "id": "flask_migrate/initialize_database_flask_db_init/README",
+              "title": "Initialize your database with Flask-Migrate",
+              "description": "Learn the first steps when starting with Flask-Migrate: initializing the database.",
+              "source": "@site/docs/09_flask_migrate/03_initialize_database_flask_db_init/README.md",
+              "sourceDirName": "09_flask_migrate/03_initialize_database_flask_db_init",
+              "slug": "/flask_migrate/initialize_database_flask_db_init/",
+              "permalink": "/docs/flask_migrate/initialize_database_flask_db_init/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/09_flask_migrate/03_initialize_database_flask_db_init/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Initialize your database with Flask-Migrate",
+                "description": "Learn the first steps when starting with Flask-Migrate: initializing the database.",
+                "ctslug": "initialize-database-with-flask-migrate"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "How to add Flask-Migrate to our Flask app",
+                "permalink": "/docs/flask_migrate/add_flask_migrate_to_app/"
+              },
+              "next": {
+                "title": "Change SQLAlchemy models and generate a migration",
+                "permalink": "/docs/flask_migrate/change_models_generate_alembic_migration/"
+              }
+            },
+            {
+              "id": "flask_migrate/manually_review_modify_migrations/README",
+              "title": "Manually review and modify database migrations",
+              "description": "Alembic can generate database migrations parting from model changes, but sometimes we need to modify them manually.",
+              "source": "@site/docs/09_flask_migrate/05_manually_review_modify_migrations/README.md",
+              "sourceDirName": "09_flask_migrate/05_manually_review_modify_migrations",
+              "slug": "/flask_migrate/manually_review_modify_migrations/",
+              "permalink": "/docs/flask_migrate/manually_review_modify_migrations/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/09_flask_migrate/05_manually_review_modify_migrations/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Manually review and modify database migrations",
+                "description": "Alembic can generate database migrations parting from model changes, but sometimes we need to modify them manually.",
+                "ctslug": "manually-review-modify-database-migrations"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Change SQLAlchemy models and generate a migration",
+                "permalink": "/docs/flask_migrate/change_models_generate_alembic_migration/"
+              },
+              "next": {
+                "title": "Git Crash Course",
+                "permalink": "/docs/git_crash_course/"
+              }
+            },
+            {
+              "id": "flask_migrate/why_use_database_migrations/README",
+              "title": "Why use database migrations?",
+              "description": "Learn about database migrations and what they are useful for.",
+              "source": "@site/docs/09_flask_migrate/01_why_use_database_migrations/README.md",
+              "sourceDirName": "09_flask_migrate/01_why_use_database_migrations",
+              "slug": "/flask_migrate/why_use_database_migrations/",
+              "permalink": "/docs/flask_migrate/why_use_database_migrations/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/09_flask_migrate/01_why_use_database_migrations/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Why use database migrations?",
+                "description": "Learn about database migrations and what they are useful for.",
+                "ctslug": "why-use-database-migrations"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Token refreshing with Flask-JWT-Extended",
+                "permalink": "/docs/flask_jwt_extended/token_refreshing_flask_jwt_extended/"
+              },
+              "next": {
+                "title": "How to add Flask-Migrate to our Flask app",
+                "permalink": "/docs/flask_migrate/add_flask_migrate_to_app/"
+              }
+            },
+            {
+              "id": "flask_smorest/api_with_method_views/README",
+              "title": "How to use Blueprints and MethodViews",
+              "description": "Flask-Smorest MethodViews allow us to simplify API Resources by defining all methods that interact with the resource in one Python class.",
+              "source": "@site/docs/05_flask_smorest/06_api_with_method_views/README.md",
+              "sourceDirName": "05_flask_smorest/06_api_with_method_views",
+              "slug": "/flask_smorest/api_with_method_views/",
+              "permalink": "/docs/flask_smorest/api_with_method_views/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/05_flask_smorest/06_api_with_method_views/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "How to use Blueprints and MethodViews",
+                "description": "Flask-Smorest MethodViews allow us to simplify API Resources by defining all methods that interact with the resource in one Python class.",
+                "ctslug": "how-to-use-flask-smorest-methodviews-blueprints"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Reloading API code in Docker container",
+                "permalink": "/docs/flask_smorest/reload_api_docker_container/"
+              },
+              "next": {
+                "title": "Adding marshmallow schemas",
+                "permalink": "/docs/flask_smorest/marshmallow_schemas/"
+              }
+            },
+            {
+              "id": "flask_smorest/data_model_improvements/README",
+              "title": "Data model improvements",
+              "description": "Use dictionaries instead of lists for data storage, and store stores and items separately.",
+              "source": "@site/docs/05_flask_smorest/02_data_model_improvements/README.md",
+              "sourceDirName": "05_flask_smorest/02_data_model_improvements",
+              "slug": "/flask_smorest/data_model_improvements/",
+              "permalink": "/docs/flask_smorest/data_model_improvements/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/05_flask_smorest/02_data_model_improvements/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Data model improvements",
+                "description": "Use dictionaries instead of lists for data storage, and store stores and items separately.",
+                "ctslug": "data-model-improvements"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Why use Flask-Smorest",
+                "permalink": "/docs/flask_smorest/why_flask_smorest/"
+              },
+              "next": {
+                "title": "Improvements to our first REST API",
+                "permalink": "/docs/flask_smorest/improvements_on_first_rest_api/"
+              }
+            },
+            {
+              "id": "flask_smorest/decorating_responses/README",
+              "title": "Decorating responses with Flask-Smorest",
+              "description": "Add response serialization and status code to API endpoints, and add to your documentation in the process.",
+              "source": "@site/docs/05_flask_smorest/09_decorating_responses/README.md",
+              "sourceDirName": "05_flask_smorest/09_decorating_responses",
+              "slug": "/flask_smorest/decorating_responses/",
+              "permalink": "/docs/flask_smorest/decorating_responses/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/05_flask_smorest/09_decorating_responses/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Decorating responses with Flask-Smorest",
+                "description": "Add response serialization and status code to API endpoints, and add to your documentation in the process.",
+                "ctslug": "decorating-responses-with-flask-smorest"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Validation with marshmallow",
+                "permalink": "/docs/flask_smorest/validation_with_marshmallow/"
+              },
+              "next": {
+                "title": "Project Overview, and why use SQLAlchemy",
+                "permalink": "/docs/sql_storage_sqlalchemy/project_overview_sqlalchemy/"
+              }
+            },
+            {
+              "id": "flask_smorest/improvements_on_first_rest_api/README",
+              "title": "Improvements to our first REST API",
+              "description": "Add new error handling and code improvements to the REST API before adding any new endpoints.",
+              "source": "@site/docs/05_flask_smorest/03_improvements_on_first_rest_api/README.md",
+              "sourceDirName": "05_flask_smorest/03_improvements_on_first_rest_api",
+              "slug": "/flask_smorest/improvements_on_first_rest_api/",
+              "permalink": "/docs/flask_smorest/improvements_on_first_rest_api/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/05_flask_smorest/03_improvements_on_first_rest_api/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Improvements to our first REST API",
+                "description": "Add new error handling and code improvements to the REST API before adding any new endpoints.",
+                "ctslug": "improvements-to-our-first-rest-api"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Data model improvements",
+                "permalink": "/docs/flask_smorest/data_model_improvements/"
+              },
+              "next": {
+                "title": "New endpoints for our REST API",
+                "permalink": "/docs/flask_smorest/new_endpoints_for_api/"
+              }
+            },
+            {
+              "id": "flask_smorest/marshmallow_schemas/README",
+              "title": "Adding marshmallow schemas",
+              "description": "A marshmallow schema is useful for validation and serialization. Learn how to write them in this lecture.",
+              "source": "@site/docs/05_flask_smorest/07_marshmallow_schemas/README.md",
+              "sourceDirName": "05_flask_smorest/07_marshmallow_schemas",
+              "slug": "/flask_smorest/marshmallow_schemas/",
+              "permalink": "/docs/flask_smorest/marshmallow_schemas/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/05_flask_smorest/07_marshmallow_schemas/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Adding marshmallow schemas",
+                "description": "A marshmallow schema is useful for validation and serialization. Learn how to write them in this lecture.",
+                "ctslug": "adding-marshmallow-schemas"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "How to use Blueprints and MethodViews",
+                "permalink": "/docs/flask_smorest/api_with_method_views/"
+              },
+              "next": {
+                "title": "Validation with marshmallow",
+                "permalink": "/docs/flask_smorest/validation_with_marshmallow/"
+              }
+            },
+            {
+              "id": "flask_smorest/new_endpoints_for_api/README",
+              "title": "New endpoints for our REST API",
+              "description": "Let's add a few routes to our first REST API, so it better matches what a production REST API would look like.",
+              "source": "@site/docs/05_flask_smorest/04_new_endpoints_for_api/README.md",
+              "sourceDirName": "05_flask_smorest/04_new_endpoints_for_api",
+              "slug": "/flask_smorest/new_endpoints_for_api/",
+              "permalink": "/docs/flask_smorest/new_endpoints_for_api/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/05_flask_smorest/04_new_endpoints_for_api/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "New endpoints for our REST API",
+                "description": "Let's add a few routes to our first REST API, so it better matches what a production REST API would look like.",
+                "ctslug": "new-endpoints-for-our-rest-api"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Improvements to our first REST API",
+                "permalink": "/docs/flask_smorest/improvements_on_first_rest_api/"
+              },
+              "next": {
+                "title": "Reloading API code in Docker container",
+                "permalink": "/docs/flask_smorest/reload_api_docker_container/"
+              }
+            },
+            {
+              "id": "flask_smorest/reload_api_docker_container/README",
+              "title": "Reloading API code in Docker container",
+              "description": "Learn how to get your code instantly synced up to the Docker container, so that every time you make a code change it restarts the app in the container and uses the latest code.",
+              "source": "@site/docs/05_flask_smorest/05_reload_api_docker_container/README.md",
+              "sourceDirName": "05_flask_smorest/05_reload_api_docker_container",
+              "slug": "/flask_smorest/reload_api_docker_container/",
+              "permalink": "/docs/flask_smorest/reload_api_docker_container/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/05_flask_smorest/05_reload_api_docker_container/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Reloading API code in Docker container",
+                "description": "Learn how to get your code instantly synced up to the Docker container, so that every time you make a code change it restarts the app in the container and uses the latest code.",
+                "ctslug": "reloading-api-code-in-docker-container"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "New endpoints for our REST API",
+                "permalink": "/docs/flask_smorest/new_endpoints_for_api/"
+              },
+              "next": {
+                "title": "How to use Blueprints and MethodViews",
+                "permalink": "/docs/flask_smorest/api_with_method_views/"
+              }
+            },
+            {
+              "id": "flask_smorest/validation_with_marshmallow/README",
+              "title": "Validation with marshmallow",
+              "description": "We can use the marshmallow library to validate request data from our API clients.",
+              "source": "@site/docs/05_flask_smorest/08_validation_with_marshmallow/README.md",
+              "sourceDirName": "05_flask_smorest/08_validation_with_marshmallow",
+              "slug": "/flask_smorest/validation_with_marshmallow/",
+              "permalink": "/docs/flask_smorest/validation_with_marshmallow/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/05_flask_smorest/08_validation_with_marshmallow/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Validation with marshmallow",
+                "description": "We can use the marshmallow library to validate request data from our API clients.",
+                "ctslug": "validation-with-marshmallow"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Adding marshmallow schemas",
+                "permalink": "/docs/flask_smorest/marshmallow_schemas/"
+              },
+              "next": {
+                "title": "Decorating responses with Flask-Smorest",
+                "permalink": "/docs/flask_smorest/decorating_responses/"
+              }
+            },
+            {
+              "id": "flask_smorest/why_flask_smorest/README",
+              "title": "Why use Flask-Smorest",
+              "description": "There are many different REST API libraries for Flask. In a previous version of this course, we used Flask-RESTful. Now, I recommend using Flask-Smorest.",
+              "source": "@site/docs/05_flask_smorest/01_why_flask_smorest/README.md",
+              "sourceDirName": "05_flask_smorest/01_why_flask_smorest",
+              "slug": "/flask_smorest/why_flask_smorest/",
+              "permalink": "/docs/flask_smorest/why_flask_smorest/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/05_flask_smorest/01_why_flask_smorest/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "ctslug": "why-use-flask-smorest"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "How to run commands inside a Docker container",
+                "permalink": "/docs/docker_intro/run_commands_in_docker_containers/"
+              },
+              "next": {
+                "title": "Data model improvements",
+                "permalink": "/docs/flask_smorest/data_model_improvements/"
+              }
+            },
+            {
+              "id": "git_crash_course/README",
+              "title": "Git Crash Course",
+              "description": "The Git Crash Course e-book is hosted in a different page because it is used in multiple courses.",
+              "source": "@site/docs/10_git_crash_course/README.md",
+              "sourceDirName": "10_git_crash_course",
+              "slug": "/git_crash_course/",
+              "permalink": "/docs/git_crash_course/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/10_git_crash_course/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Manually review and modify database migrations",
+                "permalink": "/docs/flask_migrate/manually_review_modify_migrations/"
+              },
+              "next": {
+                "title": "Overview of this section",
+                "permalink": "/docs/deploy_to_render/section_overview/"
+              }
+            },
+            {
+              "id": "python_refresher/index",
+              "title": "Python Refresher",
+              "description": "We've included a Python Refresher section in this course to help you, in case you haven't done any Python for a while or you are coming from a different programming language.",
+              "source": "@site/docs/02_python_refresher/index.md",
+              "sourceDirName": "02_python_refresher",
+              "slug": "/python_refresher/",
+              "permalink": "/docs/python_refresher/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/02_python_refresher/index.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "name": "A Complete Python Refresher"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "What is a REST API?",
+                "permalink": "/docs/course_intro/what_is_rest_api/"
+              },
+              "next": {
+                "title": "Project Overview",
+                "permalink": "/docs/first_rest_api/project_overview/"
+              }
+            },
+            {
+              "id": "sql_storage_sqlalchemy/conclusion/README",
+              "title": "Conclusion of this section",
+              "description": "Review everything we've changed this section to add SQL storage with SQLAlchemy to our API.",
+              "source": "@site/docs/06_sql_storage_sqlalchemy/11_conclusion/README.md",
+              "sourceDirName": "06_sql_storage_sqlalchemy/11_conclusion",
+              "slug": "/sql_storage_sqlalchemy/conclusion/",
+              "permalink": "/docs/sql_storage_sqlalchemy/conclusion/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/06_sql_storage_sqlalchemy/11_conclusion/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Conclusion of this section",
+                "description": "Review everything we've changed this section to add SQL storage with SQLAlchemy to our API.",
+                "ctslug": "conclusion-of-this-section"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Delete models with relationships using cascades",
+                "permalink": "/docs/sql_storage_sqlalchemy/delete_related_models_sqlalchemy/"
+              },
+              "next": {
+                "title": "Changes in this section",
+                "permalink": "/docs/sqlalchemy_many_to_many/section_changes/"
+              }
+            },
+            {
+              "id": "sql_storage_sqlalchemy/configure_flask_sqlalchemy/README",
+              "title": "Configure Flask-SQLAlchemy",
+              "description": "Link Flask-SQLAlchemy with our Flask app and create the initial tables.",
+              "source": "@site/docs/06_sql_storage_sqlalchemy/04_configure_flask_sqlalchemy/README.md",
+              "sourceDirName": "06_sql_storage_sqlalchemy/04_configure_flask_sqlalchemy",
+              "slug": "/sql_storage_sqlalchemy/configure_flask_sqlalchemy/",
+              "permalink": "/docs/sql_storage_sqlalchemy/configure_flask_sqlalchemy/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/06_sql_storage_sqlalchemy/04_configure_flask_sqlalchemy/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Configure Flask-SQLAlchemy",
+                "description": "Link Flask-SQLAlchemy with our Flask app and create the initial tables.",
+                "ctslug": "configure-flask-sqlalchemy"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "One-to-many relationships with SQLAlchemy",
+                "permalink": "/docs/sql_storage_sqlalchemy/one_to_many_relationships_sqlalchemy/"
+              },
+              "next": {
+                "title": "Insert models in the database with SQLAlchemy",
+                "permalink": "/docs/sql_storage_sqlalchemy/insert_models_sqlalchemy/"
+              }
+            },
+            {
+              "id": "sql_storage_sqlalchemy/create_simple_sqlalchemy_model/README",
+              "title": "Create a simple SQLAlchemy Model",
+              "description": "Lecture description goes here.",
+              "source": "@site/docs/06_sql_storage_sqlalchemy/02_create_simple_sqlalchemy_model/README.md",
+              "sourceDirName": "06_sql_storage_sqlalchemy/02_create_simple_sqlalchemy_model",
+              "slug": "/sql_storage_sqlalchemy/create_simple_sqlalchemy_model/",
+              "permalink": "/docs/sql_storage_sqlalchemy/create_simple_sqlalchemy_model/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/06_sql_storage_sqlalchemy/02_create_simple_sqlalchemy_model/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Create a simple SQLAlchemy Model",
+                "description": "Lecture description goes here.",
+                "ctslug": "create-a-simple-sqlalchemy-model"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Project Overview, and why use SQLAlchemy",
+                "permalink": "/docs/sql_storage_sqlalchemy/project_overview_sqlalchemy/"
+              },
+              "next": {
+                "title": "One-to-many relationships with SQLAlchemy",
+                "permalink": "/docs/sql_storage_sqlalchemy/one_to_many_relationships_sqlalchemy/"
+              }
+            },
+            {
+              "id": "sql_storage_sqlalchemy/delete_models_sqlalchemy/README",
+              "title": "Delete models with SQLAlchemy",
+              "description": "Use SQLAlchemy to handle removal of a specific model.",
+              "source": "@site/docs/06_sql_storage_sqlalchemy/09_delete_models_sqlalchemy/README.md",
+              "sourceDirName": "06_sql_storage_sqlalchemy/09_delete_models_sqlalchemy",
+              "slug": "/sql_storage_sqlalchemy/delete_models_sqlalchemy/",
+              "permalink": "/docs/sql_storage_sqlalchemy/delete_models_sqlalchemy/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/06_sql_storage_sqlalchemy/09_delete_models_sqlalchemy/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Delete models with SQLAlchemy",
+                "description": "Use SQLAlchemy to handle removal of a specific model.",
+                "ctslug": "delete-models-with-sqlalchemy"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Retrieve a list of all models",
+                "permalink": "/docs/sql_storage_sqlalchemy/retrieve_list_all_models/"
+              },
+              "next": {
+                "title": "Delete models with relationships using cascades",
+                "permalink": "/docs/sql_storage_sqlalchemy/delete_related_models_sqlalchemy/"
+              }
+            },
+            {
+              "id": "sql_storage_sqlalchemy/delete_related_models_sqlalchemy/README",
+              "title": "Delete models with relationships using cascades",
+              "description": "Tell SQLAlchemy what to do with related models when you delete the parent.",
+              "source": "@site/docs/06_sql_storage_sqlalchemy/10_delete_related_models_sqlalchemy/README.md",
+              "sourceDirName": "06_sql_storage_sqlalchemy/10_delete_related_models_sqlalchemy",
+              "slug": "/sql_storage_sqlalchemy/delete_related_models_sqlalchemy/",
+              "permalink": "/docs/sql_storage_sqlalchemy/delete_related_models_sqlalchemy/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/06_sql_storage_sqlalchemy/10_delete_related_models_sqlalchemy/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Delete models with relationships using cascades",
+                "description": "Tell SQLAlchemy what to do with related models when you delete the parent.",
+                "ctslug": "delete-models-with-relationships-using-cascades"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Delete models with SQLAlchemy",
+                "permalink": "/docs/sql_storage_sqlalchemy/delete_models_sqlalchemy/"
+              },
+              "next": {
+                "title": "Conclusion of this section",
+                "permalink": "/docs/sql_storage_sqlalchemy/conclusion/"
+              }
+            },
+            {
+              "id": "sql_storage_sqlalchemy/get_models_or_404/README",
+              "title": "Get models by ID from the database using SQLAlchemy",
+              "description": "Learn how to fetch a specific model using its primary key column, and how to return a 404 page if it isn't found.",
+              "source": "@site/docs/06_sql_storage_sqlalchemy/06_get_models_or_404/README.md",
+              "sourceDirName": "06_sql_storage_sqlalchemy/06_get_models_or_404",
+              "slug": "/sql_storage_sqlalchemy/get_models_or_404/",
+              "permalink": "/docs/sql_storage_sqlalchemy/get_models_or_404/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/06_sql_storage_sqlalchemy/06_get_models_or_404/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Get models by ID from the database using SQLAlchemy",
+                "description": "Learn how to fetch a specific model using its primary key column, and how to return a 404 page if it isn't found.",
+                "ctslug": "get-models-by-id-from-the-database"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Insert models in the database with SQLAlchemy",
+                "permalink": "/docs/sql_storage_sqlalchemy/insert_models_sqlalchemy/"
+              },
+              "next": {
+                "title": "Updating models with SQLAlchemy",
+                "permalink": "/docs/sql_storage_sqlalchemy/updating_models_sqlalchemy/"
+              }
+            },
+            {
+              "id": "sql_storage_sqlalchemy/insert_models_sqlalchemy/README",
+              "title": "Insert models in the database with SQLAlchemy",
+              "description": "Learn how to use SQLAlchemy to add new rows to our SQL database.",
+              "source": "@site/docs/06_sql_storage_sqlalchemy/05_insert_models_sqlalchemy/README.md",
+              "sourceDirName": "06_sql_storage_sqlalchemy/05_insert_models_sqlalchemy",
+              "slug": "/sql_storage_sqlalchemy/insert_models_sqlalchemy/",
+              "permalink": "/docs/sql_storage_sqlalchemy/insert_models_sqlalchemy/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/06_sql_storage_sqlalchemy/05_insert_models_sqlalchemy/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Insert models in the database with SQLAlchemy",
+                "description": "Learn how to use SQLAlchemy to add new rows to our SQL database.",
+                "ctslug": "insert-models-in-database-with-sqlalchemy"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Configure Flask-SQLAlchemy",
+                "permalink": "/docs/sql_storage_sqlalchemy/configure_flask_sqlalchemy/"
+              },
+              "next": {
+                "title": "Get models by ID from the database using SQLAlchemy",
+                "permalink": "/docs/sql_storage_sqlalchemy/get_models_or_404/"
+              }
+            },
+            {
+              "id": "sql_storage_sqlalchemy/one_to_many_relationships_sqlalchemy/README",
+              "title": "One-to-many relationships with SQLAlchemy",
+              "description": "Model relationships let us easily retrieve information about a related model, without having to do SQL JOINs manually.",
+              "source": "@site/docs/06_sql_storage_sqlalchemy/03_one_to_many_relationships_sqlalchemy/README.md",
+              "sourceDirName": "06_sql_storage_sqlalchemy/03_one_to_many_relationships_sqlalchemy",
+              "slug": "/sql_storage_sqlalchemy/one_to_many_relationships_sqlalchemy/",
+              "permalink": "/docs/sql_storage_sqlalchemy/one_to_many_relationships_sqlalchemy/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/06_sql_storage_sqlalchemy/03_one_to_many_relationships_sqlalchemy/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "One-to-many relationships with SQLAlchemy",
+                "description": "Model relationships let us easily retrieve information about a related model, without having to do SQL JOINs manually.",
+                "ctslug": "one-to-many-relationships-with-sqlalchemy"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Create a simple SQLAlchemy Model",
+                "permalink": "/docs/sql_storage_sqlalchemy/create_simple_sqlalchemy_model/"
+              },
+              "next": {
+                "title": "Configure Flask-SQLAlchemy",
+                "permalink": "/docs/sql_storage_sqlalchemy/configure_flask_sqlalchemy/"
+              }
+            },
+            {
+              "id": "sql_storage_sqlalchemy/project_overview_sqlalchemy/README",
+              "title": "Project Overview, and why use SQLAlchemy",
+              "description": "Let's look at what we'll do in this section. There are no changes to the client-facing API at all, just changes internally to how we store data.",
+              "source": "@site/docs/06_sql_storage_sqlalchemy/01_project_overview_sqlalchemy/README.md",
+              "sourceDirName": "06_sql_storage_sqlalchemy/01_project_overview_sqlalchemy",
+              "slug": "/sql_storage_sqlalchemy/project_overview_sqlalchemy/",
+              "permalink": "/docs/sql_storage_sqlalchemy/project_overview_sqlalchemy/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/06_sql_storage_sqlalchemy/01_project_overview_sqlalchemy/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Project Overview, and why use SQLAlchemy",
+                "description": "Let's look at what we'll do in this section. There are no changes to the client-facing API at all, just changes internally to how we store data.",
+                "ctslug": "project-overview-why-use-sqlalchemy"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Decorating responses with Flask-Smorest",
+                "permalink": "/docs/flask_smorest/decorating_responses/"
+              },
+              "next": {
+                "title": "Create a simple SQLAlchemy Model",
+                "permalink": "/docs/sql_storage_sqlalchemy/create_simple_sqlalchemy_model/"
+              }
+            },
+            {
+              "id": "sql_storage_sqlalchemy/retrieve_list_all_models/README",
+              "title": "Retrieve a list of all models",
+              "description": "Get more than one model and return it as a list from the API.",
+              "source": "@site/docs/06_sql_storage_sqlalchemy/08_retrieve_list_all_models/README.md",
+              "sourceDirName": "06_sql_storage_sqlalchemy/08_retrieve_list_all_models",
+              "slug": "/sql_storage_sqlalchemy/retrieve_list_all_models/",
+              "permalink": "/docs/sql_storage_sqlalchemy/retrieve_list_all_models/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/06_sql_storage_sqlalchemy/08_retrieve_list_all_models/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Retrieve a list of all models",
+                "description": "Get more than one model and return it as a list from the API.",
+                "ctslug": "retrieve-a-list-of-all-models"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Updating models with SQLAlchemy",
+                "permalink": "/docs/sql_storage_sqlalchemy/updating_models_sqlalchemy/"
+              },
+              "next": {
+                "title": "Delete models with SQLAlchemy",
+                "permalink": "/docs/sql_storage_sqlalchemy/delete_models_sqlalchemy/"
+              }
+            },
+            {
+              "id": "sql_storage_sqlalchemy/updating_models_sqlalchemy/README",
+              "title": "Updating models with SQLAlchemy",
+              "description": "How to make changes to an existing model, or insert one if it doesn't already exist.",
+              "source": "@site/docs/06_sql_storage_sqlalchemy/07_updating_models_sqlalchemy/README.md",
+              "sourceDirName": "06_sql_storage_sqlalchemy/07_updating_models_sqlalchemy",
+              "slug": "/sql_storage_sqlalchemy/updating_models_sqlalchemy/",
+              "permalink": "/docs/sql_storage_sqlalchemy/updating_models_sqlalchemy/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/06_sql_storage_sqlalchemy/07_updating_models_sqlalchemy/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Updating models with SQLAlchemy",
+                "description": "How to make changes to an existing model, or insert one if it doesn't already exist.",
+                "ctslug": "updating-models-with-sqlalchemy"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Get models by ID from the database using SQLAlchemy",
+                "permalink": "/docs/sql_storage_sqlalchemy/get_models_or_404/"
+              },
+              "next": {
+                "title": "Retrieve a list of all models",
+                "permalink": "/docs/sql_storage_sqlalchemy/retrieve_list_all_models/"
+              }
+            },
+            {
+              "id": "sqlalchemy_many_to_many/many_to_many_relationships/README",
+              "title": "Many-to-many relationships",
+              "description": "Learn to set up a many-to-many relationship between two models using SQLAlchemy.",
+              "source": "@site/docs/07_sqlalchemy_many_to_many/03_many_to_many_relationships/README.md",
+              "sourceDirName": "07_sqlalchemy_many_to_many/03_many_to_many_relationships",
+              "slug": "/sqlalchemy_many_to_many/many_to_many_relationships/",
+              "permalink": "/docs/sqlalchemy_many_to_many/many_to_many_relationships/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/07_sqlalchemy_many_to_many/03_many_to_many_relationships/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Many-to-many relationships",
+                "description": "Learn to set up a many-to-many relationship between two models using SQLAlchemy.",
+                "ctslug": "many-to-many-relationships"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "One-to-many relationships review",
+                "permalink": "/docs/sqlalchemy_many_to_many/one_to_many_review/"
+              },
+              "next": {
+                "title": "Changes in this section",
+                "permalink": "/docs/flask_jwt_extended/section_changes/"
+              }
+            },
+            {
+              "id": "sqlalchemy_many_to_many/one_to_many_review/README",
+              "title": "One-to-many relationships review",
+              "description": "A super-quick look at creating the Tag model and setting up the one-to-many relationship with Stores.",
+              "source": "@site/docs/07_sqlalchemy_many_to_many/02_one_to_many_review/README.md",
+              "sourceDirName": "07_sqlalchemy_many_to_many/02_one_to_many_review",
+              "slug": "/sqlalchemy_many_to_many/one_to_many_review/",
+              "permalink": "/docs/sqlalchemy_many_to_many/one_to_many_review/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/07_sqlalchemy_many_to_many/02_one_to_many_review/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "One-to-many relationships review",
+                "description": "A super-quick look at creating the Tag model and setting up the one-to-many relationship with Stores.",
+                "ctslug": "one-to-many-relationship-between-tag-store"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Changes in this section",
+                "permalink": "/docs/sqlalchemy_many_to_many/section_changes/"
+              },
+              "next": {
+                "title": "Many-to-many relationships",
+                "permalink": "/docs/sqlalchemy_many_to_many/many_to_many_relationships/"
+              }
+            },
+            {
+              "id": "sqlalchemy_many_to_many/section_changes/README",
+              "title": "Changes in this section",
+              "description": "In this section we add Tags to our Stores, and link these to Items using a many-to-many relationship.",
+              "source": "@site/docs/07_sqlalchemy_many_to_many/01_section_changes/README.md",
+              "sourceDirName": "07_sqlalchemy_many_to_many/01_section_changes",
+              "slug": "/sqlalchemy_many_to_many/section_changes/",
+              "permalink": "/docs/sqlalchemy_many_to_many/section_changes/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/07_sqlalchemy_many_to_many/01_section_changes/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Changes in this section",
+                "description": "In this section we add Tags to our Stores, and link these to Items using a many-to-many relationship.",
+                "ctslug": "changes-in-many-to-many-section"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Conclusion of this section",
+                "permalink": "/docs/sql_storage_sqlalchemy/conclusion/"
+              },
+              "next": {
+                "title": "One-to-many relationships review",
+                "permalink": "/docs/sqlalchemy_many_to_many/one_to_many_review/"
+              }
+            },
+            {
+              "id": "task_queues_emails/deploy_background_worker_render/README",
+              "title": "Deploy the rq background worker to Render.com",
+              "description": "When deploying to Render.com, it's much easier if we don't have to pass the REDIS_URL and the queue name directly to the command.",
+              "source": "@site/docs/12_task_queues_emails/07_deploy_background_worker_render/README.md",
+              "sourceDirName": "12_task_queues_emails/07_deploy_background_worker_render",
+              "slug": "/task_queues_emails/deploy_background_worker_render/",
+              "permalink": "/docs/task_queues_emails/deploy_background_worker_render/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/12_task_queues_emails/07_deploy_background_worker_render/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "ctslug": "deploy-the-rq-background-worker-to-render-com"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Sending HTML emails with Mailgun",
+                "permalink": "/docs/task_queues_emails/sending_html_emails/"
+              }
+            },
+            {
+              "id": "task_queues_emails/populate_rq_task_queue/README",
+              "title": "Populating and consuming the task queue with rq",
+              "description": "We'll be using the rq library for our task queue implementation. Another popular option is celery, which is substantially more complex. For most workloads, rq is sufficient and it's much easier to work with.",
+              "source": "@site/docs/12_task_queues_emails/04_populate_rq_task_queue/README.md",
+              "sourceDirName": "12_task_queues_emails/04_populate_rq_task_queue",
+              "slug": "/task_queues_emails/populate_rq_task_queue/",
+              "permalink": "/docs/task_queues_emails/populate_rq_task_queue/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/12_task_queues_emails/04_populate_rq_task_queue/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "ctslug": "populating-consuming-the-task-queue-with-rq"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "What is a task queue?",
+                "permalink": "/docs/task_queues_emails/what_is_task_queue/"
+              },
+              "next": {
+                "title": "Process background tasks with the rq worker",
+                "permalink": "/docs/task_queues_emails/rq_background_worker/"
+              }
+            },
+            {
+              "id": "task_queues_emails/rq_background_worker/README",
+              "title": "Process background tasks with the rq worker",
+              "description": "We've got our queue and we've added tasks to it, but they won't run until we start consuming them and popping them off the queue.",
+              "source": "@site/docs/12_task_queues_emails/05_rq_background_worker/README.md",
+              "sourceDirName": "12_task_queues_emails/05_rq_background_worker",
+              "slug": "/task_queues_emails/rq_background_worker/",
+              "permalink": "/docs/task_queues_emails/rq_background_worker/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/12_task_queues_emails/05_rq_background_worker/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "ctslug": "process-background-tasks-with-the-rq-worker"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Populating and consuming the task queue with rq",
+                "permalink": "/docs/task_queues_emails/populate_rq_task_queue/"
+              },
+              "next": {
+                "title": "Sending HTML emails with Mailgun",
+                "permalink": "/docs/task_queues_emails/sending_html_emails/"
+              }
+            },
+            {
+              "id": "task_queues_emails/send_email_user_registration/README",
+              "title": "Sending emails when users register",
+              "description": "If we want to be able to send emails to users when they register, we'll need to:",
+              "source": "@site/docs/12_task_queues_emails/02_send_email_user_registration/README.md",
+              "sourceDirName": "12_task_queues_emails/02_send_email_user_registration",
+              "slug": "/task_queues_emails/send_email_user_registration/",
+              "permalink": "/docs/task_queues_emails/send_email_user_registration/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/12_task_queues_emails/02_send_email_user_registration/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "ctslug": "sending-emails-when-users-register"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "How to send emails with Python and Mailgun",
+                "permalink": "/docs/task_queues_emails/send_emails_python_mailgun/"
+              },
+              "next": {
+                "title": "What is a task queue?",
+                "permalink": "/docs/task_queues_emails/what_is_task_queue/"
+              }
+            },
+            {
+              "id": "task_queues_emails/send_emails_python_mailgun/README",
+              "title": "How to send emails with Python and Mailgun",
+              "description": "Remember to get the Insomnia files for this section or for all sections here!",
+              "source": "@site/docs/12_task_queues_emails/01_send_emails_python_mailgun/README.md",
+              "sourceDirName": "12_task_queues_emails/01_send_emails_python_mailgun",
+              "slug": "/task_queues_emails/send_emails_python_mailgun/",
+              "permalink": "/docs/task_queues_emails/send_emails_python_mailgun/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/12_task_queues_emails/01_send_emails_python_mailgun/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "ctslug": "how-to-send-emails-with-python-mailgun"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "How to run the app and database with Docker Compose",
+                "permalink": "/docs/deploy_to_render/run_everything_docker_compose/"
+              },
+              "next": {
+                "title": "Sending emails when users register",
+                "permalink": "/docs/task_queues_emails/send_email_user_registration/"
+              }
+            },
+            {
+              "id": "task_queues_emails/sending_html_emails/README",
+              "title": "Sending HTML emails with Mailgun",
+              "description": "Until now, we've been sending exclusively text emails. These have a clear advantage: text is simple! They'll look the same in every email client and device, and for many things, text is good enough.",
+              "source": "@site/docs/12_task_queues_emails/06_sending_html_emails/README.md",
+              "sourceDirName": "12_task_queues_emails/06_sending_html_emails",
+              "slug": "/task_queues_emails/sending_html_emails/",
+              "permalink": "/docs/task_queues_emails/sending_html_emails/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/12_task_queues_emails/06_sending_html_emails/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "ctslug": "sending-html-emails-with-mailgun"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Process background tasks with the rq worker",
+                "permalink": "/docs/task_queues_emails/rq_background_worker/"
+              },
+              "next": {
+                "title": "Deploy the rq background worker to Render.com",
+                "permalink": "/docs/task_queues_emails/deploy_background_worker_render/"
+              }
+            },
+            {
+              "id": "task_queues_emails/what_is_task_queue/README",
+              "title": "What is a task queue?",
+              "description": "A queue is a data structure to which you can add and remove data, but a key aspect of it is that when you want to remove a piece of data from it, the piece of data removed is the first piece of data that was added.",
+              "source": "@site/docs/12_task_queues_emails/03_what_is_task_queue/README.md",
+              "sourceDirName": "12_task_queues_emails/03_what_is_task_queue",
+              "slug": "/task_queues_emails/what_is_task_queue/",
+              "permalink": "/docs/task_queues_emails/what_is_task_queue/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/12_task_queues_emails/03_what_is_task_queue/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "ctslug": "what-is-a-task-queue"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Sending emails when users register",
+                "permalink": "/docs/task_queues_emails/send_email_user_registration/"
+              },
+              "next": {
+                "title": "Populating and consuming the task queue with rq",
+                "permalink": "/docs/task_queues_emails/populate_rq_task_queue/"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "category",
+                "label": "Course Introduction",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "label": "How to install Python",
+                    "id": "course_intro/how_to_install_python/README"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "How to install an IDE",
+                    "id": "course_intro/how_to_install_ide/README"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "What is a REST API?",
+                    "id": "course_intro/what_is_rest_api/README"
+                  }
+                ],
+                "link": {
+                  "type": "doc",
+                  "id": "course_intro/intro"
+                }
+              },
+              {
+                "type": "doc",
+                "label": "Python Refresher",
+                "id": "python_refresher/index"
+              },
+              {
+                "type": "category",
+                "label": "Your First REST API",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "label": "Project Overview",
+                    "id": "first_rest_api/project_overview/README"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "Getting set up",
+                    "id": "first_rest_api/getting_set_up/README"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "Your First REST API Endpoint",
+                    "id": "first_rest_api/first_rest_api_endpoint/README"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "What is JSON?",
+                    "id": "first_rest_api/what_is_json/README"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "How to interact with your REST API",
+                    "id": "first_rest_api/make_request_to_rest_api/README"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "How to create stores",
+                    "id": "first_rest_api/creating_stores/README"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "How to create items in each store",
+                    "id": "first_rest_api/creating_items/README"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "Get a specific store and its items",
+                    "id": "first_rest_api/return_data_from_rest_api/README"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "Final code of this section",
+                    "id": "first_rest_api/final_code/README"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Introduction to Docker",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "label": "What are Docker images and containers?",
+                    "id": "docker_intro/what_is_docker_container/README"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "How to run a Docker container",
+                    "id": "docker_intro/run_docker_container/README"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "In-depth Docker Tutorial",
+                    "id": "docker_intro/in_depth_docker_tutorial/README"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "Run the REST API using Docker Compose",
+                    "id": "docker_intro/run_with_docker_compose/README"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "How to run commands inside a Docker container",
+                    "id": "docker_intro/run_commands_in_docker_containers/README"
+                  }
+                ],
+                "link": {
+                  "type": "doc",
+                  "id": "docker_intro/README"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Flask-Smorest for More Efficient Development",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "label": "Why use Flask-Smorest",
+                    "id": "flask_smorest/why_flask_smorest/README"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "Data model improvements",
+                    "id": "flask_smorest/data_model_improvements/README"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "Improvements to our first REST API",
+                    "id": "flask_smorest/improvements_on_first_rest_api/README"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "New endpoints for our REST API",
+                    "id": "flask_smorest/new_endpoints_for_api/README"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "Reloading API code in Docker container",
+                    "id": "flask_smorest/reload_api_docker_container/README"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "How to use Blueprints and MethodViews",
+                    "id": "flask_smorest/api_with_method_views/README"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "Adding marshmallow schemas",
+                    "id": "flask_smorest/marshmallow_schemas/README"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "Validation with marshmallow",
+                    "id": "flask_smorest/validation_with_marshmallow/README"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "Decorating responses with Flask-Smorest",
+                    "id": "flask_smorest/decorating_responses/README"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "SQL Storage with Flask-SQLAlchemy",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "label": "Project Overview, and why use SQLAlchemy",
+                    "id": "sql_storage_sqlalchemy/project_overview_sqlalchemy/README"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "Create a simple SQLAlchemy Model",
+                    "id": "sql_storage_sqlalchemy/create_simple_sqlalchemy_model/README"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "One-to-many relationships with SQLAlchemy",
+                    "id": "sql_storage_sqlalchemy/one_to_many_relationships_sqlalchemy/README"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "Configure Flask-SQLAlchemy",
+                    "id": "sql_storage_sqlalchemy/configure_flask_sqlalchemy/README"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "Insert models in the database with SQLAlchemy",
+                    "id": "sql_storage_sqlalchemy/insert_models_sqlalchemy/README"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "Get models by ID from the database using SQLAlchemy",
+                    "id": "sql_storage_sqlalchemy/get_models_or_404/README"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "Updating models with SQLAlchemy",
+                    "id": "sql_storage_sqlalchemy/updating_models_sqlalchemy/README"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "Retrieve a list of all models",
+                    "id": "sql_storage_sqlalchemy/retrieve_list_all_models/README"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "Delete models with SQLAlchemy",
+                    "id": "sql_storage_sqlalchemy/delete_models_sqlalchemy/README"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "Delete models with relationships using cascades",
+                    "id": "sql_storage_sqlalchemy/delete_related_models_sqlalchemy/README"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "Conclusion of this section",
+                    "id": "sql_storage_sqlalchemy/conclusion/README"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Many-to-many relationships with SQLAlchemy",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "label": "Changes in this section",
+                    "id": "sqlalchemy_many_to_many/section_changes/README"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "One-to-many relationships review",
+                    "id": "sqlalchemy_many_to_many/one_to_many_review/README"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "Many-to-many relationships",
+                    "id": "sqlalchemy_many_to_many/many_to_many_relationships/README"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "User Authentication with Flask-JWT-Extended",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "label": "Changes in this section",
+                    "id": "flask_jwt_extended/section_changes/README"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "What is a JWT?",
+                    "id": "flask_jwt_extended/what_is_a_jwt/README"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "How are JWTs used?",
+                    "id": "flask_jwt_extended/how_is_jwt_used/README"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "Flask-JWT-Extended setup",
+                    "id": "flask_jwt_extended/flask_jwt_extended_setup/README"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "The User model and schema",
+                    "id": "flask_jwt_extended/user_model_and_schema/README"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "How to add a register endpoint to the REST API",
+                    "id": "flask_jwt_extended/registering_users_rest_api/README"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "How to add a login endpoint to the REST API",
+                    "id": "flask_jwt_extended/login_users_rest_api/README"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "Protect endpoints by requiring a JWT",
+                    "id": "flask_jwt_extended/protect_resources_with_jwt_required/README"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "JWT claims and authorization",
+                    "id": "flask_jwt_extended/jwt_claims_and_authorization/README"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "How to add logout to the REST API",
+                    "id": "flask_jwt_extended/logout_users_rest_api/README"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "Insomnia request chaining",
+                    "id": "flask_jwt_extended/insomnia_request_chaining/README"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "Token refreshing with Flask-JWT-Extended",
+                    "id": "flask_jwt_extended/token_refreshing_flask_jwt_extended/README"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Database migrations with Alembic and Flask-Migrate",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "label": "Why use database migrations?",
+                    "id": "flask_migrate/why_use_database_migrations/README"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "How to add Flask-Migrate to our Flask app",
+                    "id": "flask_migrate/add_flask_migrate_to_app/README"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "Initialize your database with Flask-Migrate",
+                    "id": "flask_migrate/initialize_database_flask_db_init/README"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "Change SQLAlchemy models and generate a migration",
+                    "id": "flask_migrate/change_models_generate_alembic_migration/README"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "Manually review and modify database migrations",
+                    "id": "flask_migrate/manually_review_modify_migrations/README"
+                  }
+                ]
+              },
+              {
+                "type": "doc",
+                "label": "Git Crash Course",
+                "id": "git_crash_course/README"
+              },
+              {
+                "type": "category",
+                "label": "Deploy REST APIs to Render",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "label": "Overview of this section",
+                    "id": "deploy_to_render/section_overview/README"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "Creating a Render.com web service",
+                    "id": "deploy_to_render/create_render_web_service/README"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "Run our Flask app with gunicorn in Docker",
+                    "id": "deploy_to_render/docker_with_gunicorn/README"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "How to get a deployed PostgreSQL database for our app",
+                    "id": "deploy_to_render/deploy_postgresql_database/README"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "How to use Environment Variables in Render.com",
+                    "id": "deploy_to_render/environment_variables_and_migrations/README"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "How to run the app and database with Docker Compose",
+                    "id": "deploy_to_render/run_everything_docker_compose/README"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Task queues with rq and e-mail sending",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "label": "How to send emails with Python and Mailgun",
+                    "id": "task_queues_emails/send_emails_python_mailgun/README"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "Sending emails when users register",
+                    "id": "task_queues_emails/send_email_user_registration/README"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "What is a task queue?",
+                    "id": "task_queues_emails/what_is_task_queue/README"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "Populating and consuming the task queue with rq",
+                    "id": "task_queues_emails/populate_rq_task_queue/README"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "Process background tasks with the rq worker",
+                    "id": "task_queues_emails/rq_background_worker/README"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "Sending HTML emails with Mailgun",
+                    "id": "task_queues_emails/sending_html_emails/README"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "Deploy the rq background worker to Render.com",
+                    "id": "task_queues_emails/deploy_background_worker_render/README"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [],
+      "blogListPaginated": [],
+      "blogTags": {},
+      "blogTagsListPath": "/blog/tags"
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/insomnia-files",
+        "source": "@site/src/pages/insomnia-files.md",
+        "title": "Insomnia Files for this course",
+        "description": "In this course, we use Insomnia to test our REST API as we develop it. It's a great tool, and relatively straightforward to use!",
+        "frontMatter": {},
+        "unlisted": false
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-theme-search-algolia": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

@@ -1,0 +1,28 @@
+{
+  "id": "flask_smorest/data_model_improvements/README",
+  "title": "Data model improvements",
+  "description": "Use dictionaries instead of lists for data storage, and store stores and items separately.",
+  "source": "@site/docs/05_flask_smorest/02_data_model_improvements/README.md",
+  "sourceDirName": "05_flask_smorest/02_data_model_improvements",
+  "slug": "/flask_smorest/data_model_improvements/",
+  "permalink": "/docs/flask_smorest/data_model_improvements/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/05_flask_smorest/02_data_model_improvements/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Data model improvements",
+    "description": "Use dictionaries instead of lists for data storage, and store stores and items separately.",
+    "ctslug": "data-model-improvements"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Why use Flask-Smorest",
+    "permalink": "/docs/flask_smorest/why_flask_smorest/"
+  },
+  "next": {
+    "title": "Improvements to our first REST API",
+    "permalink": "/docs/flask_smorest/improvements_on_first_rest_api/"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "flask_jwt_extended/logout_users_rest_api/README",
+  "title": "How to add logout to the REST API",
+  "description": "Create a logout endpoint that blocks certain JWTs from making further authenticated requests.",
+  "source": "@site/docs/08_flask_jwt_extended/10_logout_users_rest_api/README.md",
+  "sourceDirName": "08_flask_jwt_extended/10_logout_users_rest_api",
+  "slug": "/flask_jwt_extended/logout_users_rest_api/",
+  "permalink": "/docs/flask_jwt_extended/logout_users_rest_api/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/08_flask_jwt_extended/10_logout_users_rest_api/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "How to add logout to the REST API",
+    "description": "Create a logout endpoint that blocks certain JWTs from making further authenticated requests.",
+    "ctslug": "how-to-add-logout-to-the-rest-api"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "JWT claims and authorization",
+    "permalink": "/docs/flask_jwt_extended/jwt_claims_and_authorization/"
+  },
+  "next": {
+    "title": "Insomnia request chaining",
+    "permalink": "/docs/flask_jwt_extended/insomnia_request_chaining/"
+  }
+}

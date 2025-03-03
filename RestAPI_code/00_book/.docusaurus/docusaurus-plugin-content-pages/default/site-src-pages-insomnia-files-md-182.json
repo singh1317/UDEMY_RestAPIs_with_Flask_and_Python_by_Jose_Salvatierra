@@ -1,0 +1,9 @@
+{
+  "type": "mdx",
+  "permalink": "/insomnia-files",
+  "source": "@site/src/pages/insomnia-files.md",
+  "title": "Insomnia Files for this course",
+  "description": "In this course, we use Insomnia to test our REST API as we develop it. It's a great tool, and relatively straightforward to use!",
+  "frontMatter": {},
+  "unlisted": false
+}

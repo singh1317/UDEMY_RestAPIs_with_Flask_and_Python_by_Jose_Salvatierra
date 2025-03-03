@@ -1,0 +1,24 @@
+{
+  "id": "deploy_to_render/run_everything_docker_compose/README",
+  "title": "How to run the app and database with Docker Compose",
+  "description": "Up until now we've been running docker compose up to start the REST API container.",
+  "source": "@site/docs/11_deploy_to_render/06_run_everything_docker_compose/README.md",
+  "sourceDirName": "11_deploy_to_render/06_run_everything_docker_compose",
+  "slug": "/deploy_to_render/run_everything_docker_compose/",
+  "permalink": "/docs/deploy_to_render/run_everything_docker_compose/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/11_deploy_to_render/06_run_everything_docker_compose/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to use Environment Variables in Render.com",
+    "permalink": "/docs/deploy_to_render/environment_variables_and_migrations/"
+  },
+  "next": {
+    "title": "How to send emails with Python and Mailgun",
+    "permalink": "/docs/task_queues_emails/send_emails_python_mailgun/"
+  }
+}

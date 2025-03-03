@@ -1,0 +1,28 @@
+{
+  "id": "first_rest_api/creating_items/README",
+  "title": "How to create items in each store",
+  "description": "A brief description of the lecture goes here.",
+  "source": "@site/docs/03_first_rest_api/07_creating_items/README.md",
+  "sourceDirName": "03_first_rest_api/07_creating_items",
+  "slug": "/first_rest_api/creating_items/",
+  "permalink": "/docs/first_rest_api/creating_items/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/03_first_rest_api/07_creating_items/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "How to create items in each store",
+    "description": "A brief description of the lecture goes here.",
+    "ctslug": "how-to-create-items-in-each-store"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to create stores",
+    "permalink": "/docs/first_rest_api/creating_stores/"
+  },
+  "next": {
+    "title": "Get a specific store and its items",
+    "permalink": "/docs/first_rest_api/return_data_from_rest_api/"
+  }
+}

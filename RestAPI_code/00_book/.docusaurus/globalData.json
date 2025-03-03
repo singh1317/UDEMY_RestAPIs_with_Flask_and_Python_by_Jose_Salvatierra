@@ -1,0 +1,398 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "course_intro/intro",
+          "docs": [
+            {
+              "id": "course_intro/how_to_install_ide/README",
+              "path": "/docs/course_intro/how_to_install_ide/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "course_intro/how_to_install_python/README",
+              "path": "/docs/course_intro/how_to_install_python/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "course_intro/intro",
+              "path": "/docs/course_intro/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "course_intro/what_is_rest_api/README",
+              "path": "/docs/course_intro/what_is_rest_api/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "deploy_to_render/create_render_web_service/README",
+              "path": "/docs/deploy_to_render/create_render_web_service/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "deploy_to_render/deploy_postgresql_database/README",
+              "path": "/docs/deploy_to_render/deploy_postgresql_database/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "deploy_to_render/docker_with_gunicorn/README",
+              "path": "/docs/deploy_to_render/docker_with_gunicorn/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "deploy_to_render/environment_variables_and_migrations/README",
+              "path": "/docs/deploy_to_render/environment_variables_and_migrations/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "deploy_to_render/run_everything_docker_compose/README",
+              "path": "/docs/deploy_to_render/run_everything_docker_compose/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "deploy_to_render/section_overview/README",
+              "path": "/docs/deploy_to_render/section_overview/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "docker_intro/in_depth_docker_tutorial/README",
+              "path": "/docs/docker_intro/in_depth_docker_tutorial/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "docker_intro/README",
+              "path": "/docs/docker_intro/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "docker_intro/run_commands_in_docker_containers/README",
+              "path": "/docs/docker_intro/run_commands_in_docker_containers/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "docker_intro/run_docker_container/README",
+              "path": "/docs/docker_intro/run_docker_container/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "docker_intro/run_with_docker_compose/README",
+              "path": "/docs/docker_intro/run_with_docker_compose/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "docker_intro/what_is_docker_container/README",
+              "path": "/docs/docker_intro/what_is_docker_container/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "first_rest_api/creating_items/README",
+              "path": "/docs/first_rest_api/creating_items/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "first_rest_api/creating_stores/README",
+              "path": "/docs/first_rest_api/creating_stores/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "first_rest_api/final_code/README",
+              "path": "/docs/first_rest_api/final_code/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "first_rest_api/first_rest_api_endpoint/README",
+              "path": "/docs/first_rest_api/first_rest_api_endpoint/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "first_rest_api/getting_set_up/README",
+              "path": "/docs/first_rest_api/getting_set_up/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "first_rest_api/make_request_to_rest_api/README",
+              "path": "/docs/first_rest_api/make_request_to_rest_api/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "first_rest_api/project_overview/README",
+              "path": "/docs/first_rest_api/project_overview/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "first_rest_api/return_data_from_rest_api/README",
+              "path": "/docs/first_rest_api/return_data_from_rest_api/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "first_rest_api/what_is_json/README",
+              "path": "/docs/first_rest_api/what_is_json/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "flask_jwt_extended/flask_jwt_extended_setup/README",
+              "path": "/docs/flask_jwt_extended/flask_jwt_extended_setup/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "flask_jwt_extended/how_is_jwt_used/README",
+              "path": "/docs/flask_jwt_extended/how_is_jwt_used/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "flask_jwt_extended/insomnia_request_chaining/README",
+              "path": "/docs/flask_jwt_extended/insomnia_request_chaining/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "flask_jwt_extended/jwt_claims_and_authorization/README",
+              "path": "/docs/flask_jwt_extended/jwt_claims_and_authorization/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "flask_jwt_extended/login_users_rest_api/README",
+              "path": "/docs/flask_jwt_extended/login_users_rest_api/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "flask_jwt_extended/logout_users_rest_api/README",
+              "path": "/docs/flask_jwt_extended/logout_users_rest_api/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "flask_jwt_extended/protect_resources_with_jwt_required/README",
+              "path": "/docs/flask_jwt_extended/protect_resources_with_jwt_required/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "flask_jwt_extended/registering_users_rest_api/README",
+              "path": "/docs/flask_jwt_extended/registering_users_rest_api/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "flask_jwt_extended/section_changes/README",
+              "path": "/docs/flask_jwt_extended/section_changes/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "flask_jwt_extended/token_refreshing_flask_jwt_extended/README",
+              "path": "/docs/flask_jwt_extended/token_refreshing_flask_jwt_extended/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "flask_jwt_extended/user_model_and_schema/README",
+              "path": "/docs/flask_jwt_extended/user_model_and_schema/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "flask_jwt_extended/what_is_a_jwt/README",
+              "path": "/docs/flask_jwt_extended/what_is_a_jwt/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "flask_migrate/add_flask_migrate_to_app/README",
+              "path": "/docs/flask_migrate/add_flask_migrate_to_app/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "flask_migrate/change_models_generate_alembic_migration/README",
+              "path": "/docs/flask_migrate/change_models_generate_alembic_migration/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "flask_migrate/initialize_database_flask_db_init/README",
+              "path": "/docs/flask_migrate/initialize_database_flask_db_init/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "flask_migrate/manually_review_modify_migrations/README",
+              "path": "/docs/flask_migrate/manually_review_modify_migrations/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "flask_migrate/why_use_database_migrations/README",
+              "path": "/docs/flask_migrate/why_use_database_migrations/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "flask_smorest/api_with_method_views/README",
+              "path": "/docs/flask_smorest/api_with_method_views/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "flask_smorest/data_model_improvements/README",
+              "path": "/docs/flask_smorest/data_model_improvements/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "flask_smorest/decorating_responses/README",
+              "path": "/docs/flask_smorest/decorating_responses/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "flask_smorest/improvements_on_first_rest_api/README",
+              "path": "/docs/flask_smorest/improvements_on_first_rest_api/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "flask_smorest/marshmallow_schemas/README",
+              "path": "/docs/flask_smorest/marshmallow_schemas/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "flask_smorest/new_endpoints_for_api/README",
+              "path": "/docs/flask_smorest/new_endpoints_for_api/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "flask_smorest/reload_api_docker_container/README",
+              "path": "/docs/flask_smorest/reload_api_docker_container/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "flask_smorest/validation_with_marshmallow/README",
+              "path": "/docs/flask_smorest/validation_with_marshmallow/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "flask_smorest/why_flask_smorest/README",
+              "path": "/docs/flask_smorest/why_flask_smorest/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "git_crash_course/README",
+              "path": "/docs/git_crash_course/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "python_refresher/index",
+              "path": "/docs/python_refresher/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sql_storage_sqlalchemy/conclusion/README",
+              "path": "/docs/sql_storage_sqlalchemy/conclusion/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sql_storage_sqlalchemy/configure_flask_sqlalchemy/README",
+              "path": "/docs/sql_storage_sqlalchemy/configure_flask_sqlalchemy/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sql_storage_sqlalchemy/create_simple_sqlalchemy_model/README",
+              "path": "/docs/sql_storage_sqlalchemy/create_simple_sqlalchemy_model/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sql_storage_sqlalchemy/delete_models_sqlalchemy/README",
+              "path": "/docs/sql_storage_sqlalchemy/delete_models_sqlalchemy/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sql_storage_sqlalchemy/delete_related_models_sqlalchemy/README",
+              "path": "/docs/sql_storage_sqlalchemy/delete_related_models_sqlalchemy/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sql_storage_sqlalchemy/get_models_or_404/README",
+              "path": "/docs/sql_storage_sqlalchemy/get_models_or_404/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sql_storage_sqlalchemy/insert_models_sqlalchemy/README",
+              "path": "/docs/sql_storage_sqlalchemy/insert_models_sqlalchemy/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sql_storage_sqlalchemy/one_to_many_relationships_sqlalchemy/README",
+              "path": "/docs/sql_storage_sqlalchemy/one_to_many_relationships_sqlalchemy/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sql_storage_sqlalchemy/project_overview_sqlalchemy/README",
+              "path": "/docs/sql_storage_sqlalchemy/project_overview_sqlalchemy/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sql_storage_sqlalchemy/retrieve_list_all_models/README",
+              "path": "/docs/sql_storage_sqlalchemy/retrieve_list_all_models/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sql_storage_sqlalchemy/updating_models_sqlalchemy/README",
+              "path": "/docs/sql_storage_sqlalchemy/updating_models_sqlalchemy/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sqlalchemy_many_to_many/many_to_many_relationships/README",
+              "path": "/docs/sqlalchemy_many_to_many/many_to_many_relationships/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sqlalchemy_many_to_many/one_to_many_review/README",
+              "path": "/docs/sqlalchemy_many_to_many/one_to_many_review/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sqlalchemy_many_to_many/section_changes/README",
+              "path": "/docs/sqlalchemy_many_to_many/section_changes/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "task_queues_emails/deploy_background_worker_render/README",
+              "path": "/docs/task_queues_emails/deploy_background_worker_render/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "task_queues_emails/populate_rq_task_queue/README",
+              "path": "/docs/task_queues_emails/populate_rq_task_queue/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "task_queues_emails/rq_background_worker/README",
+              "path": "/docs/task_queues_emails/rq_background_worker/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "task_queues_emails/send_email_user_registration/README",
+              "path": "/docs/task_queues_emails/send_email_user_registration/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "task_queues_emails/send_emails_python_mailgun/README",
+              "path": "/docs/task_queues_emails/send_emails_python_mailgun/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "task_queues_emails/sending_html_emails/README",
+              "path": "/docs/task_queues_emails/sending_html_emails/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "task_queues_emails/what_is_task_queue/README",
+              "path": "/docs/task_queues_emails/what_is_task_queue/",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/course_intro/",
+                "label": "Course Introduction"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

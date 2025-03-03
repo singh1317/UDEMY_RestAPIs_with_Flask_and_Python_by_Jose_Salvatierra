@@ -1,0 +1,27 @@
+{
+  "id": "docker_intro/run_docker_container/README",
+  "title": "How to run a Docker container",
+  "description": "Learn how to run a Docker container with your REST API using Docker Desktop.",
+  "source": "@site/docs/04_docker_intro/02_run_docker_container/README.md",
+  "sourceDirName": "04_docker_intro/02_run_docker_container",
+  "slug": "/docker_intro/run_docker_container/",
+  "permalink": "/docs/docker_intro/run_docker_container/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/04_docker_intro/02_run_docker_container/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "ctslug": "how-to-run-a-docker-container",
+    "description": "Learn how to run a Docker container with your REST API using Docker Desktop."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "What are Docker images and containers?",
+    "permalink": "/docs/docker_intro/what_is_docker_container/"
+  },
+  "next": {
+    "title": "In-depth Docker Tutorial",
+    "permalink": "/docs/docker_intro/in_depth_docker_tutorial/"
+  }
+}

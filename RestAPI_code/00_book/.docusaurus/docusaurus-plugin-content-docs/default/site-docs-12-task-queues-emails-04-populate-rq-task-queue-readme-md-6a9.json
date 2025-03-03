@@ -1,0 +1,26 @@
+{
+  "id": "task_queues_emails/populate_rq_task_queue/README",
+  "title": "Populating and consuming the task queue with rq",
+  "description": "We'll be using the rq library for our task queue implementation. Another popular option is celery, which is substantially more complex. For most workloads, rq is sufficient and it's much easier to work with.",
+  "source": "@site/docs/12_task_queues_emails/04_populate_rq_task_queue/README.md",
+  "sourceDirName": "12_task_queues_emails/04_populate_rq_task_queue",
+  "slug": "/task_queues_emails/populate_rq_task_queue/",
+  "permalink": "/docs/task_queues_emails/populate_rq_task_queue/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/12_task_queues_emails/04_populate_rq_task_queue/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "ctslug": "populating-consuming-the-task-queue-with-rq"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "What is a task queue?",
+    "permalink": "/docs/task_queues_emails/what_is_task_queue/"
+  },
+  "next": {
+    "title": "Process background tasks with the rq worker",
+    "permalink": "/docs/task_queues_emails/rq_background_worker/"
+  }
+}

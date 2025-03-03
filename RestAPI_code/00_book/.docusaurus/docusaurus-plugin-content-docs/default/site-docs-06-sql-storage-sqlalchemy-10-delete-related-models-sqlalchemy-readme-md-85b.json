@@ -1,0 +1,28 @@
+{
+  "id": "sql_storage_sqlalchemy/delete_related_models_sqlalchemy/README",
+  "title": "Delete models with relationships using cascades",
+  "description": "Tell SQLAlchemy what to do with related models when you delete the parent.",
+  "source": "@site/docs/06_sql_storage_sqlalchemy/10_delete_related_models_sqlalchemy/README.md",
+  "sourceDirName": "06_sql_storage_sqlalchemy/10_delete_related_models_sqlalchemy",
+  "slug": "/sql_storage_sqlalchemy/delete_related_models_sqlalchemy/",
+  "permalink": "/docs/sql_storage_sqlalchemy/delete_related_models_sqlalchemy/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/06_sql_storage_sqlalchemy/10_delete_related_models_sqlalchemy/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Delete models with relationships using cascades",
+    "description": "Tell SQLAlchemy what to do with related models when you delete the parent.",
+    "ctslug": "delete-models-with-relationships-using-cascades"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Delete models with SQLAlchemy",
+    "permalink": "/docs/sql_storage_sqlalchemy/delete_models_sqlalchemy/"
+  },
+  "next": {
+    "title": "Conclusion of this section",
+    "permalink": "/docs/sql_storage_sqlalchemy/conclusion/"
+  }
+}

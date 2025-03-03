@@ -1,0 +1,28 @@
+{
+  "id": "sqlalchemy_many_to_many/section_changes/README",
+  "title": "Changes in this section",
+  "description": "In this section we add Tags to our Stores, and link these to Items using a many-to-many relationship.",
+  "source": "@site/docs/07_sqlalchemy_many_to_many/01_section_changes/README.md",
+  "sourceDirName": "07_sqlalchemy_many_to_many/01_section_changes",
+  "slug": "/sqlalchemy_many_to_many/section_changes/",
+  "permalink": "/docs/sqlalchemy_many_to_many/section_changes/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/07_sqlalchemy_many_to_many/01_section_changes/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Changes in this section",
+    "description": "In this section we add Tags to our Stores, and link these to Items using a many-to-many relationship.",
+    "ctslug": "changes-in-many-to-many-section"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Conclusion of this section",
+    "permalink": "/docs/sql_storage_sqlalchemy/conclusion/"
+  },
+  "next": {
+    "title": "One-to-many relationships review",
+    "permalink": "/docs/sqlalchemy_many_to_many/one_to_many_review/"
+  }
+}

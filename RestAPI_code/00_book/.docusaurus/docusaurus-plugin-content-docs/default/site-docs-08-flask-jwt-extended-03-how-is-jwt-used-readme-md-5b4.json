@@ -1,0 +1,28 @@
+{
+  "id": "flask_jwt_extended/how_is_jwt_used/README",
+  "title": "How are JWTs used?",
+  "description": "Learn who uses JWTs and how they are used by clients and servers to perform authentication.",
+  "source": "@site/docs/08_flask_jwt_extended/03_how_is_jwt_used/README.md",
+  "sourceDirName": "08_flask_jwt_extended/03_how_is_jwt_used",
+  "slug": "/flask_jwt_extended/how_is_jwt_used/",
+  "permalink": "/docs/flask_jwt_extended/how_is_jwt_used/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/08_flask_jwt_extended/03_how_is_jwt_used/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "How are JWTs used?",
+    "description": "Learn who uses JWTs and how they are used by clients and servers to perform authentication.",
+    "ctslug": "how-are-jwts-used"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "What is a JWT?",
+    "permalink": "/docs/flask_jwt_extended/what_is_a_jwt/"
+  },
+  "next": {
+    "title": "Flask-JWT-Extended setup",
+    "permalink": "/docs/flask_jwt_extended/flask_jwt_extended_setup/"
+  }
+}

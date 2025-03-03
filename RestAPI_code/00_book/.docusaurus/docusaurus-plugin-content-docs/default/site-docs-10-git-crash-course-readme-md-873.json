@@ -1,0 +1,24 @@
+{
+  "id": "git_crash_course/README",
+  "title": "Git Crash Course",
+  "description": "The Git Crash Course e-book is hosted in a different page because it is used in multiple courses.",
+  "source": "@site/docs/10_git_crash_course/README.md",
+  "sourceDirName": "10_git_crash_course",
+  "slug": "/git_crash_course/",
+  "permalink": "/docs/git_crash_course/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/10_git_crash_course/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Manually review and modify database migrations",
+    "permalink": "/docs/flask_migrate/manually_review_modify_migrations/"
+  },
+  "next": {
+    "title": "Overview of this section",
+    "permalink": "/docs/deploy_to_render/section_overview/"
+  }
+}

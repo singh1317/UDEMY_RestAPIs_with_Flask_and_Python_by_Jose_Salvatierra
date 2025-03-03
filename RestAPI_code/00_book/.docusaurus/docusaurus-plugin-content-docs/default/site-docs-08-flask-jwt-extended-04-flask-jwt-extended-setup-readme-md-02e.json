@@ -1,0 +1,28 @@
+{
+  "id": "flask_jwt_extended/flask_jwt_extended_setup/README",
+  "title": "Flask-JWT-Extended setup",
+  "description": "Install and set up the Flask-JWT-Extended extension with our REST API.",
+  "source": "@site/docs/08_flask_jwt_extended/04_flask_jwt_extended_setup/README.md",
+  "sourceDirName": "08_flask_jwt_extended/04_flask_jwt_extended_setup",
+  "slug": "/flask_jwt_extended/flask_jwt_extended_setup/",
+  "permalink": "/docs/flask_jwt_extended/flask_jwt_extended_setup/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/08_flask_jwt_extended/04_flask_jwt_extended_setup/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Flask-JWT-Extended setup",
+    "description": "Install and set up the Flask-JWT-Extended extension with our REST API.",
+    "ctslug": "flask-jwt-extended-setup"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How are JWTs used?",
+    "permalink": "/docs/flask_jwt_extended/how_is_jwt_used/"
+  },
+  "next": {
+    "title": "The User model and schema",
+    "permalink": "/docs/flask_jwt_extended/user_model_and_schema/"
+  }
+}

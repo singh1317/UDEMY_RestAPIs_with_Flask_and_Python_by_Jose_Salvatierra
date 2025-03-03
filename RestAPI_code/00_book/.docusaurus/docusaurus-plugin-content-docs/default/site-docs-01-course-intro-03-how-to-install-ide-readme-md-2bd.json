@@ -1,0 +1,28 @@
+{
+  "id": "course_intro/how_to_install_ide/README",
+  "title": "How to install an IDE",
+  "description": "What IDE should you use? How do you install it? Let me show you in this quick guide.",
+  "source": "@site/docs/01_course_intro/03_how_to_install_ide/README.md",
+  "sourceDirName": "01_course_intro/03_how_to_install_ide",
+  "slug": "/course_intro/how_to_install_ide/",
+  "permalink": "/docs/course_intro/how_to_install_ide/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/01_course_intro/03_how_to_install_ide/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "How to install an IDE",
+    "description": "What IDE should you use? How do you install it? Let me show you in this quick guide.",
+    "ctslug": "how-to-install-an-ide"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to install Python",
+    "permalink": "/docs/course_intro/how_to_install_python/"
+  },
+  "next": {
+    "title": "What is a REST API?",
+    "permalink": "/docs/course_intro/what_is_rest_api/"
+  }
+}

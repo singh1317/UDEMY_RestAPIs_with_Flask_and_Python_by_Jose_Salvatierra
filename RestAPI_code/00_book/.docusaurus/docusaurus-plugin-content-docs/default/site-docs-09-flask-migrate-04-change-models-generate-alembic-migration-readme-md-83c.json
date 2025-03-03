@@ -1,0 +1,28 @@
+{
+  "id": "flask_migrate/change_models_generate_alembic_migration/README",
+  "title": "Change SQLAlchemy models and generate a migration",
+  "description": "Use Flask-Migrate to generate a new database migration after changing your SQLAlchemy models.",
+  "source": "@site/docs/09_flask_migrate/04_change_models_generate_alembic_migration/README.md",
+  "sourceDirName": "09_flask_migrate/04_change_models_generate_alembic_migration",
+  "slug": "/flask_migrate/change_models_generate_alembic_migration/",
+  "permalink": "/docs/flask_migrate/change_models_generate_alembic_migration/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/09_flask_migrate/04_change_models_generate_alembic_migration/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Change SQLAlchemy models and generate a migration",
+    "description": "Use Flask-Migrate to generate a new database migration after changing your SQLAlchemy models.",
+    "ctslug": "change-sqlalchemy-models-generate-migration"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Initialize your database with Flask-Migrate",
+    "permalink": "/docs/flask_migrate/initialize_database_flask_db_init/"
+  },
+  "next": {
+    "title": "Manually review and modify database migrations",
+    "permalink": "/docs/flask_migrate/manually_review_modify_migrations/"
+  }
+}

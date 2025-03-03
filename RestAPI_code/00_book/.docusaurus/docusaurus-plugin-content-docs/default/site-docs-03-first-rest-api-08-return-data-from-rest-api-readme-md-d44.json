@@ -1,0 +1,28 @@
+{
+  "id": "first_rest_api/return_data_from_rest_api/README",
+  "title": "Get a specific store and its items",
+  "description": "How to use Flask to return data from your REST API to your client.",
+  "source": "@site/docs/03_first_rest_api/08_return_data_from_rest_api/README.md",
+  "sourceDirName": "03_first_rest_api/08_return_data_from_rest_api",
+  "slug": "/first_rest_api/return_data_from_rest_api/",
+  "permalink": "/docs/first_rest_api/return_data_from_rest_api/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/03_first_rest_api/08_return_data_from_rest_api/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Get a specific store and its items",
+    "description": "How to use Flask to return data from your REST API to your client.",
+    "ctslug": "get-a-specific-store-and-its-items"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to create items in each store",
+    "permalink": "/docs/first_rest_api/creating_items/"
+  },
+  "next": {
+    "title": "Final code of this section",
+    "permalink": "/docs/first_rest_api/final_code/"
+  }
+}

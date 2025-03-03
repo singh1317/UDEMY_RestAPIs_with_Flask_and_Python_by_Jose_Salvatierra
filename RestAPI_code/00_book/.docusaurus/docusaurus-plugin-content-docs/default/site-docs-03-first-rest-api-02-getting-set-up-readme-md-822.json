@@ -1,0 +1,28 @@
+{
+  "id": "first_rest_api/getting_set_up/README",
+  "title": "Getting set up",
+  "description": "Set up a Flask project and create the Flask app.",
+  "source": "@site/docs/03_first_rest_api/02_getting_set_up/README.md",
+  "sourceDirName": "03_first_rest_api/02_getting_set_up",
+  "slug": "/first_rest_api/getting_set_up/",
+  "permalink": "/docs/first_rest_api/getting_set_up/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/03_first_rest_api/02_getting_set_up/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Getting set up",
+    "description": "Set up a Flask project and create the Flask app.",
+    "ctslug": "getting-set-up"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Project Overview",
+    "permalink": "/docs/first_rest_api/project_overview/"
+  },
+  "next": {
+    "title": "Your First REST API Endpoint",
+    "permalink": "/docs/first_rest_api/first_rest_api_endpoint/"
+  }
+}

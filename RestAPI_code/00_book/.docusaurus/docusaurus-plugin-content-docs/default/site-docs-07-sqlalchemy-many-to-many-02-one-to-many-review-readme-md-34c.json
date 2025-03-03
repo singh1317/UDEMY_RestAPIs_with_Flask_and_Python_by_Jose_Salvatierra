@@ -1,0 +1,28 @@
+{
+  "id": "sqlalchemy_many_to_many/one_to_many_review/README",
+  "title": "One-to-many relationships review",
+  "description": "A super-quick look at creating the Tag model and setting up the one-to-many relationship with Stores.",
+  "source": "@site/docs/07_sqlalchemy_many_to_many/02_one_to_many_review/README.md",
+  "sourceDirName": "07_sqlalchemy_many_to_many/02_one_to_many_review",
+  "slug": "/sqlalchemy_many_to_many/one_to_many_review/",
+  "permalink": "/docs/sqlalchemy_many_to_many/one_to_many_review/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/07_sqlalchemy_many_to_many/02_one_to_many_review/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "One-to-many relationships review",
+    "description": "A super-quick look at creating the Tag model and setting up the one-to-many relationship with Stores.",
+    "ctslug": "one-to-many-relationship-between-tag-store"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Changes in this section",
+    "permalink": "/docs/sqlalchemy_many_to_many/section_changes/"
+  },
+  "next": {
+    "title": "Many-to-many relationships",
+    "permalink": "/docs/sqlalchemy_many_to_many/many_to_many_relationships/"
+  }
+}

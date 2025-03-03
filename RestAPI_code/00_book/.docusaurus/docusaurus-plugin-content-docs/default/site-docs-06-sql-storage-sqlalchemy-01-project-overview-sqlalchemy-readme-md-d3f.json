@@ -1,0 +1,28 @@
+{
+  "id": "sql_storage_sqlalchemy/project_overview_sqlalchemy/README",
+  "title": "Project Overview, and why use SQLAlchemy",
+  "description": "Let's look at what we'll do in this section. There are no changes to the client-facing API at all, just changes internally to how we store data.",
+  "source": "@site/docs/06_sql_storage_sqlalchemy/01_project_overview_sqlalchemy/README.md",
+  "sourceDirName": "06_sql_storage_sqlalchemy/01_project_overview_sqlalchemy",
+  "slug": "/sql_storage_sqlalchemy/project_overview_sqlalchemy/",
+  "permalink": "/docs/sql_storage_sqlalchemy/project_overview_sqlalchemy/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/06_sql_storage_sqlalchemy/01_project_overview_sqlalchemy/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Project Overview, and why use SQLAlchemy",
+    "description": "Let's look at what we'll do in this section. There are no changes to the client-facing API at all, just changes internally to how we store data.",
+    "ctslug": "project-overview-why-use-sqlalchemy"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Decorating responses with Flask-Smorest",
+    "permalink": "/docs/flask_smorest/decorating_responses/"
+  },
+  "next": {
+    "title": "Create a simple SQLAlchemy Model",
+    "permalink": "/docs/sql_storage_sqlalchemy/create_simple_sqlalchemy_model/"
+  }
+}

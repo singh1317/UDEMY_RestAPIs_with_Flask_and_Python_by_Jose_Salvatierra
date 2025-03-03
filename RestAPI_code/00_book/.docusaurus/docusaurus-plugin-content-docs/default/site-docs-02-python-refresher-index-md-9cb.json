@@ -1,0 +1,26 @@
+{
+  "id": "python_refresher/index",
+  "title": "Python Refresher",
+  "description": "We've included a Python Refresher section in this course to help you, in case you haven't done any Python for a while or you are coming from a different programming language.",
+  "source": "@site/docs/02_python_refresher/index.md",
+  "sourceDirName": "02_python_refresher",
+  "slug": "/python_refresher/",
+  "permalink": "/docs/python_refresher/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/02_python_refresher/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "name": "A Complete Python Refresher"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "What is a REST API?",
+    "permalink": "/docs/course_intro/what_is_rest_api/"
+  },
+  "next": {
+    "title": "Project Overview",
+    "permalink": "/docs/first_rest_api/project_overview/"
+  }
+}

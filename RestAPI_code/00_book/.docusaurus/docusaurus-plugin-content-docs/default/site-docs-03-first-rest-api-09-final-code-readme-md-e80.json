@@ -1,0 +1,28 @@
+{
+  "id": "first_rest_api/final_code/README",
+  "title": "Final code of this section",
+  "description": "Overview of the project we've built and all the code in it.",
+  "source": "@site/docs/03_first_rest_api/09_final_code/README.md",
+  "sourceDirName": "03_first_rest_api/09_final_code",
+  "slug": "/first_rest_api/final_code/",
+  "permalink": "/docs/first_rest_api/final_code/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/03_first_rest_api/09_final_code/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Final code of this section",
+    "description": "Overview of the project we've built and all the code in it.",
+    "ctslug": "final-code-of-this-section"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Get a specific store and its items",
+    "permalink": "/docs/first_rest_api/return_data_from_rest_api/"
+  },
+  "next": {
+    "title": "An Introduction to Docker",
+    "permalink": "/docs/docker_intro/"
+  }
+}

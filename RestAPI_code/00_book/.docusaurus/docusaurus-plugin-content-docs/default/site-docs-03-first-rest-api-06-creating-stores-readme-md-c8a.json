@@ -1,0 +1,28 @@
+{
+  "id": "first_rest_api/creating_stores/README",
+  "title": "How to create stores",
+  "description": "Learn how to add data to our REST API.",
+  "source": "@site/docs/03_first_rest_api/06_creating_stores/README.md",
+  "sourceDirName": "03_first_rest_api/06_creating_stores",
+  "slug": "/first_rest_api/creating_stores/",
+  "permalink": "/docs/first_rest_api/creating_stores/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/03_first_rest_api/06_creating_stores/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "How to create stores",
+    "description": "Learn how to add data to our REST API.",
+    "ctslug": "how-to-create-stores"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to interact with your REST API",
+    "permalink": "/docs/first_rest_api/make_request_to_rest_api/"
+  },
+  "next": {
+    "title": "How to create items in each store",
+    "permalink": "/docs/first_rest_api/creating_items/"
+  }
+}

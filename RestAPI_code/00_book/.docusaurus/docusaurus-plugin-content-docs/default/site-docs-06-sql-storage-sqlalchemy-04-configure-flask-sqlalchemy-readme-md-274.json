@@ -1,0 +1,28 @@
+{
+  "id": "sql_storage_sqlalchemy/configure_flask_sqlalchemy/README",
+  "title": "Configure Flask-SQLAlchemy",
+  "description": "Link Flask-SQLAlchemy with our Flask app and create the initial tables.",
+  "source": "@site/docs/06_sql_storage_sqlalchemy/04_configure_flask_sqlalchemy/README.md",
+  "sourceDirName": "06_sql_storage_sqlalchemy/04_configure_flask_sqlalchemy",
+  "slug": "/sql_storage_sqlalchemy/configure_flask_sqlalchemy/",
+  "permalink": "/docs/sql_storage_sqlalchemy/configure_flask_sqlalchemy/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/06_sql_storage_sqlalchemy/04_configure_flask_sqlalchemy/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Configure Flask-SQLAlchemy",
+    "description": "Link Flask-SQLAlchemy with our Flask app and create the initial tables.",
+    "ctslug": "configure-flask-sqlalchemy"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "One-to-many relationships with SQLAlchemy",
+    "permalink": "/docs/sql_storage_sqlalchemy/one_to_many_relationships_sqlalchemy/"
+  },
+  "next": {
+    "title": "Insert models in the database with SQLAlchemy",
+    "permalink": "/docs/sql_storage_sqlalchemy/insert_models_sqlalchemy/"
+  }
+}

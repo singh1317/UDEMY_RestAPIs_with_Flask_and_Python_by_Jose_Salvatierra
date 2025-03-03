@@ -1,0 +1,28 @@
+{
+  "id": "flask_jwt_extended/insomnia_request_chaining/README",
+  "title": "Insomnia request chaining",
+  "description": "Learn how to use Insomnia's Request Chaining to simplify our workflow and not have to copy-paste the access token in every request.",
+  "source": "@site/docs/08_flask_jwt_extended/11_insomnia_request_chaining/README.md",
+  "sourceDirName": "08_flask_jwt_extended/11_insomnia_request_chaining",
+  "slug": "/flask_jwt_extended/insomnia_request_chaining/",
+  "permalink": "/docs/flask_jwt_extended/insomnia_request_chaining/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/08_flask_jwt_extended/11_insomnia_request_chaining/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Insomnia request chaining",
+    "description": "Learn how to use Insomnia's Request Chaining to simplify our workflow and not have to copy-paste the access token in every request.",
+    "ctslug": "request-chaining-with-insomnia"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to add logout to the REST API",
+    "permalink": "/docs/flask_jwt_extended/logout_users_rest_api/"
+  },
+  "next": {
+    "title": "Token refreshing with Flask-JWT-Extended",
+    "permalink": "/docs/flask_jwt_extended/token_refreshing_flask_jwt_extended/"
+  }
+}

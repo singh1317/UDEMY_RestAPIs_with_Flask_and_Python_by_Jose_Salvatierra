@@ -1,0 +1,28 @@
+{
+  "id": "flask_smorest/reload_api_docker_container/README",
+  "title": "Reloading API code in Docker container",
+  "description": "Learn how to get your code instantly synced up to the Docker container, so that every time you make a code change it restarts the app in the container and uses the latest code.",
+  "source": "@site/docs/05_flask_smorest/05_reload_api_docker_container/README.md",
+  "sourceDirName": "05_flask_smorest/05_reload_api_docker_container",
+  "slug": "/flask_smorest/reload_api_docker_container/",
+  "permalink": "/docs/flask_smorest/reload_api_docker_container/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/05_flask_smorest/05_reload_api_docker_container/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Reloading API code in Docker container",
+    "description": "Learn how to get your code instantly synced up to the Docker container, so that every time you make a code change it restarts the app in the container and uses the latest code.",
+    "ctslug": "reloading-api-code-in-docker-container"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "New endpoints for our REST API",
+    "permalink": "/docs/flask_smorest/new_endpoints_for_api/"
+  },
+  "next": {
+    "title": "How to use Blueprints and MethodViews",
+    "permalink": "/docs/flask_smorest/api_with_method_views/"
+  }
+}

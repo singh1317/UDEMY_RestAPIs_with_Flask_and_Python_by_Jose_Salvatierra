@@ -1,0 +1,28 @@
+{
+  "id": "flask_jwt_extended/token_refreshing_flask_jwt_extended/README",
+  "title": "Token refreshing with Flask-JWT-Extended",
+  "description": "Learn about fresh and non-fresh tokens, as well as how to use a refresh token to generate a new, non-fresh access token.",
+  "source": "@site/docs/08_flask_jwt_extended/12_token_refreshing_flask_jwt_extended/README.md",
+  "sourceDirName": "08_flask_jwt_extended/12_token_refreshing_flask_jwt_extended",
+  "slug": "/flask_jwt_extended/token_refreshing_flask_jwt_extended/",
+  "permalink": "/docs/flask_jwt_extended/token_refreshing_flask_jwt_extended/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/08_flask_jwt_extended/12_token_refreshing_flask_jwt_extended/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Token refreshing with Flask-JWT-Extended",
+    "description": "Learn about fresh and non-fresh tokens, as well as how to use a refresh token to generate a new, non-fresh access token.",
+    "ctslug": "token-refreshing-with-flask-jwt-extended"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Insomnia request chaining",
+    "permalink": "/docs/flask_jwt_extended/insomnia_request_chaining/"
+  },
+  "next": {
+    "title": "Why use database migrations?",
+    "permalink": "/docs/flask_migrate/why_use_database_migrations/"
+  }
+}

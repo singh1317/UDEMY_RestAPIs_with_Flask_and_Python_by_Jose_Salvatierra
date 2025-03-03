@@ -1,0 +1,28 @@
+{
+  "id": "first_rest_api/project_overview/README",
+  "title": "Project Overview",
+  "description": "A first look at the project we'll build in this section.",
+  "source": "@site/docs/03_first_rest_api/01_project_overview/README.md",
+  "sourceDirName": "03_first_rest_api/01_project_overview",
+  "slug": "/first_rest_api/project_overview/",
+  "permalink": "/docs/first_rest_api/project_overview/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/03_first_rest_api/01_project_overview/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Project Overview",
+    "description": "A first look at the project we'll build in this section.",
+    "ctslug": "overview-of-your-first-rest-api"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Python Refresher",
+    "permalink": "/docs/python_refresher/"
+  },
+  "next": {
+    "title": "Getting set up",
+    "permalink": "/docs/first_rest_api/getting_set_up/"
+  }
+}

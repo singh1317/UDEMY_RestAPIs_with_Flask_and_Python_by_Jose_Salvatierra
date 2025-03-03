@@ -1,0 +1,24 @@
+{
+  "id": "docker_intro/run_with_docker_compose/README",
+  "title": "Run the REST API using Docker Compose",
+  "description": "Now that we've got a Docker container for our REST API, we can set up Docker Compose to run the container.",
+  "source": "@site/docs/04_docker_intro/04_run_with_docker_compose/README.md",
+  "sourceDirName": "04_docker_intro/04_run_with_docker_compose",
+  "slug": "/docker_intro/run_with_docker_compose/",
+  "permalink": "/docs/docker_intro/run_with_docker_compose/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/04_docker_intro/04_run_with_docker_compose/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "In-depth Docker Tutorial",
+    "permalink": "/docs/docker_intro/in_depth_docker_tutorial/"
+  },
+  "next": {
+    "title": "How to run commands inside a Docker container",
+    "permalink": "/docs/docker_intro/run_commands_in_docker_containers/"
+  }
+}

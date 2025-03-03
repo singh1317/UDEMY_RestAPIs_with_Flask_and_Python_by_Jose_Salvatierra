@@ -1,0 +1,28 @@
+{
+  "id": "flask_jwt_extended/section_changes/README",
+  "title": "Changes in this section",
+  "description": "Overview of the API endpoints we'll use for user registration and authentication.",
+  "source": "@site/docs/08_flask_jwt_extended/01_section_changes/README.md",
+  "sourceDirName": "08_flask_jwt_extended/01_section_changes",
+  "slug": "/flask_jwt_extended/section_changes/",
+  "permalink": "/docs/flask_jwt_extended/section_changes/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/08_flask_jwt_extended/01_section_changes/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Changes in this section",
+    "description": "Overview of the API endpoints we'll use for user registration and authentication.",
+    "ctslug": "changes-in-jwt-extended-section"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Many-to-many relationships",
+    "permalink": "/docs/sqlalchemy_many_to_many/many_to_many_relationships/"
+  },
+  "next": {
+    "title": "What is a JWT?",
+    "permalink": "/docs/flask_jwt_extended/what_is_a_jwt/"
+  }
+}

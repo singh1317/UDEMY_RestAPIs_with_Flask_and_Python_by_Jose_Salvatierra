@@ -1,0 +1,28 @@
+{
+  "id": "flask_migrate/manually_review_modify_migrations/README",
+  "title": "Manually review and modify database migrations",
+  "description": "Alembic can generate database migrations parting from model changes, but sometimes we need to modify them manually.",
+  "source": "@site/docs/09_flask_migrate/05_manually_review_modify_migrations/README.md",
+  "sourceDirName": "09_flask_migrate/05_manually_review_modify_migrations",
+  "slug": "/flask_migrate/manually_review_modify_migrations/",
+  "permalink": "/docs/flask_migrate/manually_review_modify_migrations/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/09_flask_migrate/05_manually_review_modify_migrations/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Manually review and modify database migrations",
+    "description": "Alembic can generate database migrations parting from model changes, but sometimes we need to modify them manually.",
+    "ctslug": "manually-review-modify-database-migrations"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Change SQLAlchemy models and generate a migration",
+    "permalink": "/docs/flask_migrate/change_models_generate_alembic_migration/"
+  },
+  "next": {
+    "title": "Git Crash Course",
+    "permalink": "/docs/git_crash_course/"
+  }
+}

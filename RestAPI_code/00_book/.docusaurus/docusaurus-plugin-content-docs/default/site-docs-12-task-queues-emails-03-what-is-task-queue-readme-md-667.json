@@ -1,0 +1,26 @@
+{
+  "id": "task_queues_emails/what_is_task_queue/README",
+  "title": "What is a task queue?",
+  "description": "A queue is a data structure to which you can add and remove data, but a key aspect of it is that when you want to remove a piece of data from it, the piece of data removed is the first piece of data that was added.",
+  "source": "@site/docs/12_task_queues_emails/03_what_is_task_queue/README.md",
+  "sourceDirName": "12_task_queues_emails/03_what_is_task_queue",
+  "slug": "/task_queues_emails/what_is_task_queue/",
+  "permalink": "/docs/task_queues_emails/what_is_task_queue/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/12_task_queues_emails/03_what_is_task_queue/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "ctslug": "what-is-a-task-queue"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Sending emails when users register",
+    "permalink": "/docs/task_queues_emails/send_email_user_registration/"
+  },
+  "next": {
+    "title": "Populating and consuming the task queue with rq",
+    "permalink": "/docs/task_queues_emails/populate_rq_task_queue/"
+  }
+}

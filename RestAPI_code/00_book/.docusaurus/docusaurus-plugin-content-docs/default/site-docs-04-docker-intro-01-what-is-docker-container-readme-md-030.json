@@ -1,0 +1,27 @@
+{
+  "id": "docker_intro/what_is_docker_container/README",
+  "title": "What are Docker images and containers?",
+  "description": "Learn what Docker images and containers are, and how we can use them to distribute and run our applications.",
+  "source": "@site/docs/04_docker_intro/01_what_is_docker_container/README.md",
+  "sourceDirName": "04_docker_intro/01_what_is_docker_container",
+  "slug": "/docker_intro/what_is_docker_container/",
+  "permalink": "/docs/docker_intro/what_is_docker_container/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/04_docker_intro/01_what_is_docker_container/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "ctslug": "what-is-a-docker-container",
+    "description": "Learn what Docker images and containers are, and how we can use them to distribute and run our applications."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "An Introduction to Docker",
+    "permalink": "/docs/docker_intro/"
+  },
+  "next": {
+    "title": "How to run a Docker container",
+    "permalink": "/docs/docker_intro/run_docker_container/"
+  }
+}

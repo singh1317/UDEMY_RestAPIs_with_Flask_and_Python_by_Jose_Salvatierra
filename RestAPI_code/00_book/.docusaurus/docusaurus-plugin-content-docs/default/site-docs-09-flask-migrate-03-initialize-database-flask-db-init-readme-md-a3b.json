@@ -1,0 +1,28 @@
+{
+  "id": "flask_migrate/initialize_database_flask_db_init/README",
+  "title": "Initialize your database with Flask-Migrate",
+  "description": "Learn the first steps when starting with Flask-Migrate: initializing the database.",
+  "source": "@site/docs/09_flask_migrate/03_initialize_database_flask_db_init/README.md",
+  "sourceDirName": "09_flask_migrate/03_initialize_database_flask_db_init",
+  "slug": "/flask_migrate/initialize_database_flask_db_init/",
+  "permalink": "/docs/flask_migrate/initialize_database_flask_db_init/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/09_flask_migrate/03_initialize_database_flask_db_init/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Initialize your database with Flask-Migrate",
+    "description": "Learn the first steps when starting with Flask-Migrate: initializing the database.",
+    "ctslug": "initialize-database-with-flask-migrate"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to add Flask-Migrate to our Flask app",
+    "permalink": "/docs/flask_migrate/add_flask_migrate_to_app/"
+  },
+  "next": {
+    "title": "Change SQLAlchemy models and generate a migration",
+    "permalink": "/docs/flask_migrate/change_models_generate_alembic_migration/"
+  }
+}

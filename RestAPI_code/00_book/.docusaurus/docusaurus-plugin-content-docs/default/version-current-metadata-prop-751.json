@@ -1,0 +1,1046 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "category",
+        "label": "Course Introduction",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "How to install Python",
+            "href": "/docs/course_intro/how_to_install_python/",
+            "docId": "course_intro/how_to_install_python/README",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "How to install an IDE",
+            "href": "/docs/course_intro/how_to_install_ide/",
+            "docId": "course_intro/how_to_install_ide/README",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "What is a REST API?",
+            "href": "/docs/course_intro/what_is_rest_api/",
+            "docId": "course_intro/what_is_rest_api/README",
+            "unlisted": false
+          }
+        ],
+        "href": "/docs/course_intro/"
+      },
+      {
+        "type": "link",
+        "label": "Python Refresher",
+        "href": "/docs/python_refresher/",
+        "docId": "python_refresher/index",
+        "unlisted": false
+      },
+      {
+        "type": "category",
+        "label": "Your First REST API",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Project Overview",
+            "href": "/docs/first_rest_api/project_overview/",
+            "docId": "first_rest_api/project_overview/README",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Getting set up",
+            "href": "/docs/first_rest_api/getting_set_up/",
+            "docId": "first_rest_api/getting_set_up/README",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Your First REST API Endpoint",
+            "href": "/docs/first_rest_api/first_rest_api_endpoint/",
+            "docId": "first_rest_api/first_rest_api_endpoint/README",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "What is JSON?",
+            "href": "/docs/first_rest_api/what_is_json/",
+            "docId": "first_rest_api/what_is_json/README",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "How to interact with your REST API",
+            "href": "/docs/first_rest_api/make_request_to_rest_api/",
+            "docId": "first_rest_api/make_request_to_rest_api/README",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "How to create stores",
+            "href": "/docs/first_rest_api/creating_stores/",
+            "docId": "first_rest_api/creating_stores/README",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "How to create items in each store",
+            "href": "/docs/first_rest_api/creating_items/",
+            "docId": "first_rest_api/creating_items/README",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Get a specific store and its items",
+            "href": "/docs/first_rest_api/return_data_from_rest_api/",
+            "docId": "first_rest_api/return_data_from_rest_api/README",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Final code of this section",
+            "href": "/docs/first_rest_api/final_code/",
+            "docId": "first_rest_api/final_code/README",
+            "unlisted": false
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Introduction to Docker",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "What are Docker images and containers?",
+            "href": "/docs/docker_intro/what_is_docker_container/",
+            "docId": "docker_intro/what_is_docker_container/README",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "How to run a Docker container",
+            "href": "/docs/docker_intro/run_docker_container/",
+            "docId": "docker_intro/run_docker_container/README",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "In-depth Docker Tutorial",
+            "href": "/docs/docker_intro/in_depth_docker_tutorial/",
+            "docId": "docker_intro/in_depth_docker_tutorial/README",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Run the REST API using Docker Compose",
+            "href": "/docs/docker_intro/run_with_docker_compose/",
+            "docId": "docker_intro/run_with_docker_compose/README",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "How to run commands inside a Docker container",
+            "href": "/docs/docker_intro/run_commands_in_docker_containers/",
+            "docId": "docker_intro/run_commands_in_docker_containers/README",
+            "unlisted": false
+          }
+        ],
+        "href": "/docs/docker_intro/"
+      },
+      {
+        "type": "category",
+        "label": "Flask-Smorest for More Efficient Development",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Why use Flask-Smorest",
+            "href": "/docs/flask_smorest/why_flask_smorest/",
+            "docId": "flask_smorest/why_flask_smorest/README",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Data model improvements",
+            "href": "/docs/flask_smorest/data_model_improvements/",
+            "docId": "flask_smorest/data_model_improvements/README",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Improvements to our first REST API",
+            "href": "/docs/flask_smorest/improvements_on_first_rest_api/",
+            "docId": "flask_smorest/improvements_on_first_rest_api/README",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "New endpoints for our REST API",
+            "href": "/docs/flask_smorest/new_endpoints_for_api/",
+            "docId": "flask_smorest/new_endpoints_for_api/README",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Reloading API code in Docker container",
+            "href": "/docs/flask_smorest/reload_api_docker_container/",
+            "docId": "flask_smorest/reload_api_docker_container/README",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "How to use Blueprints and MethodViews",
+            "href": "/docs/flask_smorest/api_with_method_views/",
+            "docId": "flask_smorest/api_with_method_views/README",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Adding marshmallow schemas",
+            "href": "/docs/flask_smorest/marshmallow_schemas/",
+            "docId": "flask_smorest/marshmallow_schemas/README",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Validation with marshmallow",
+            "href": "/docs/flask_smorest/validation_with_marshmallow/",
+            "docId": "flask_smorest/validation_with_marshmallow/README",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Decorating responses with Flask-Smorest",
+            "href": "/docs/flask_smorest/decorating_responses/",
+            "docId": "flask_smorest/decorating_responses/README",
+            "unlisted": false
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "SQL Storage with Flask-SQLAlchemy",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Project Overview, and why use SQLAlchemy",
+            "href": "/docs/sql_storage_sqlalchemy/project_overview_sqlalchemy/",
+            "docId": "sql_storage_sqlalchemy/project_overview_sqlalchemy/README",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Create a simple SQLAlchemy Model",
+            "href": "/docs/sql_storage_sqlalchemy/create_simple_sqlalchemy_model/",
+            "docId": "sql_storage_sqlalchemy/create_simple_sqlalchemy_model/README",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "One-to-many relationships with SQLAlchemy",
+            "href": "/docs/sql_storage_sqlalchemy/one_to_many_relationships_sqlalchemy/",
+            "docId": "sql_storage_sqlalchemy/one_to_many_relationships_sqlalchemy/README",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Configure Flask-SQLAlchemy",
+            "href": "/docs/sql_storage_sqlalchemy/configure_flask_sqlalchemy/",
+            "docId": "sql_storage_sqlalchemy/configure_flask_sqlalchemy/README",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Insert models in the database with SQLAlchemy",
+            "href": "/docs/sql_storage_sqlalchemy/insert_models_sqlalchemy/",
+            "docId": "sql_storage_sqlalchemy/insert_models_sqlalchemy/README",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Get models by ID from the database using SQLAlchemy",
+            "href": "/docs/sql_storage_sqlalchemy/get_models_or_404/",
+            "docId": "sql_storage_sqlalchemy/get_models_or_404/README",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Updating models with SQLAlchemy",
+            "href": "/docs/sql_storage_sqlalchemy/updating_models_sqlalchemy/",
+            "docId": "sql_storage_sqlalchemy/updating_models_sqlalchemy/README",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Retrieve a list of all models",
+            "href": "/docs/sql_storage_sqlalchemy/retrieve_list_all_models/",
+            "docId": "sql_storage_sqlalchemy/retrieve_list_all_models/README",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Delete models with SQLAlchemy",
+            "href": "/docs/sql_storage_sqlalchemy/delete_models_sqlalchemy/",
+            "docId": "sql_storage_sqlalchemy/delete_models_sqlalchemy/README",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Delete models with relationships using cascades",
+            "href": "/docs/sql_storage_sqlalchemy/delete_related_models_sqlalchemy/",
+            "docId": "sql_storage_sqlalchemy/delete_related_models_sqlalchemy/README",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Conclusion of this section",
+            "href": "/docs/sql_storage_sqlalchemy/conclusion/",
+            "docId": "sql_storage_sqlalchemy/conclusion/README",
+            "unlisted": false
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Many-to-many relationships with SQLAlchemy",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Changes in this section",
+            "href": "/docs/sqlalchemy_many_to_many/section_changes/",
+            "docId": "sqlalchemy_many_to_many/section_changes/README",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "One-to-many relationships review",
+            "href": "/docs/sqlalchemy_many_to_many/one_to_many_review/",
+            "docId": "sqlalchemy_many_to_many/one_to_many_review/README",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Many-to-many relationships",
+            "href": "/docs/sqlalchemy_many_to_many/many_to_many_relationships/",
+            "docId": "sqlalchemy_many_to_many/many_to_many_relationships/README",
+            "unlisted": false
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "User Authentication with Flask-JWT-Extended",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Changes in this section",
+            "href": "/docs/flask_jwt_extended/section_changes/",
+            "docId": "flask_jwt_extended/section_changes/README",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "What is a JWT?",
+            "href": "/docs/flask_jwt_extended/what_is_a_jwt/",
+            "docId": "flask_jwt_extended/what_is_a_jwt/README",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "How are JWTs used?",
+            "href": "/docs/flask_jwt_extended/how_is_jwt_used/",
+            "docId": "flask_jwt_extended/how_is_jwt_used/README",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Flask-JWT-Extended setup",
+            "href": "/docs/flask_jwt_extended/flask_jwt_extended_setup/",
+            "docId": "flask_jwt_extended/flask_jwt_extended_setup/README",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "The User model and schema",
+            "href": "/docs/flask_jwt_extended/user_model_and_schema/",
+            "docId": "flask_jwt_extended/user_model_and_schema/README",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "How to add a register endpoint to the REST API",
+            "href": "/docs/flask_jwt_extended/registering_users_rest_api/",
+            "docId": "flask_jwt_extended/registering_users_rest_api/README",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "How to add a login endpoint to the REST API",
+            "href": "/docs/flask_jwt_extended/login_users_rest_api/",
+            "docId": "flask_jwt_extended/login_users_rest_api/README",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Protect endpoints by requiring a JWT",
+            "href": "/docs/flask_jwt_extended/protect_resources_with_jwt_required/",
+            "docId": "flask_jwt_extended/protect_resources_with_jwt_required/README",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "JWT claims and authorization",
+            "href": "/docs/flask_jwt_extended/jwt_claims_and_authorization/",
+            "docId": "flask_jwt_extended/jwt_claims_and_authorization/README",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "How to add logout to the REST API",
+            "href": "/docs/flask_jwt_extended/logout_users_rest_api/",
+            "docId": "flask_jwt_extended/logout_users_rest_api/README",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Insomnia request chaining",
+            "href": "/docs/flask_jwt_extended/insomnia_request_chaining/",
+            "docId": "flask_jwt_extended/insomnia_request_chaining/README",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Token refreshing with Flask-JWT-Extended",
+            "href": "/docs/flask_jwt_extended/token_refreshing_flask_jwt_extended/",
+            "docId": "flask_jwt_extended/token_refreshing_flask_jwt_extended/README",
+            "unlisted": false
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Database migrations with Alembic and Flask-Migrate",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Why use database migrations?",
+            "href": "/docs/flask_migrate/why_use_database_migrations/",
+            "docId": "flask_migrate/why_use_database_migrations/README",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "How to add Flask-Migrate to our Flask app",
+            "href": "/docs/flask_migrate/add_flask_migrate_to_app/",
+            "docId": "flask_migrate/add_flask_migrate_to_app/README",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Initialize your database with Flask-Migrate",
+            "href": "/docs/flask_migrate/initialize_database_flask_db_init/",
+            "docId": "flask_migrate/initialize_database_flask_db_init/README",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Change SQLAlchemy models and generate a migration",
+            "href": "/docs/flask_migrate/change_models_generate_alembic_migration/",
+            "docId": "flask_migrate/change_models_generate_alembic_migration/README",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Manually review and modify database migrations",
+            "href": "/docs/flask_migrate/manually_review_modify_migrations/",
+            "docId": "flask_migrate/manually_review_modify_migrations/README",
+            "unlisted": false
+          }
+        ]
+      },
+      {
+        "type": "link",
+        "label": "Git Crash Course",
+        "href": "/docs/git_crash_course/",
+        "docId": "git_crash_course/README",
+        "unlisted": false
+      },
+      {
+        "type": "category",
+        "label": "Deploy REST APIs to Render",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Overview of this section",
+            "href": "/docs/deploy_to_render/section_overview/",
+            "docId": "deploy_to_render/section_overview/README",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Creating a Render.com web service",
+            "href": "/docs/deploy_to_render/create_render_web_service/",
+            "docId": "deploy_to_render/create_render_web_service/README",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Run our Flask app with gunicorn in Docker",
+            "href": "/docs/deploy_to_render/docker_with_gunicorn/",
+            "docId": "deploy_to_render/docker_with_gunicorn/README",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "How to get a deployed PostgreSQL database for our app",
+            "href": "/docs/deploy_to_render/deploy_postgresql_database/",
+            "docId": "deploy_to_render/deploy_postgresql_database/README",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "How to use Environment Variables in Render.com",
+            "href": "/docs/deploy_to_render/environment_variables_and_migrations/",
+            "docId": "deploy_to_render/environment_variables_and_migrations/README",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "How to run the app and database with Docker Compose",
+            "href": "/docs/deploy_to_render/run_everything_docker_compose/",
+            "docId": "deploy_to_render/run_everything_docker_compose/README",
+            "unlisted": false
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Task queues with rq and e-mail sending",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "How to send emails with Python and Mailgun",
+            "href": "/docs/task_queues_emails/send_emails_python_mailgun/",
+            "docId": "task_queues_emails/send_emails_python_mailgun/README",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Sending emails when users register",
+            "href": "/docs/task_queues_emails/send_email_user_registration/",
+            "docId": "task_queues_emails/send_email_user_registration/README",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "What is a task queue?",
+            "href": "/docs/task_queues_emails/what_is_task_queue/",
+            "docId": "task_queues_emails/what_is_task_queue/README",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Populating and consuming the task queue with rq",
+            "href": "/docs/task_queues_emails/populate_rq_task_queue/",
+            "docId": "task_queues_emails/populate_rq_task_queue/README",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Process background tasks with the rq worker",
+            "href": "/docs/task_queues_emails/rq_background_worker/",
+            "docId": "task_queues_emails/rq_background_worker/README",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Sending HTML emails with Mailgun",
+            "href": "/docs/task_queues_emails/sending_html_emails/",
+            "docId": "task_queues_emails/sending_html_emails/README",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Deploy the rq background worker to Render.com",
+            "href": "/docs/task_queues_emails/deploy_background_worker_render/",
+            "docId": "task_queues_emails/deploy_background_worker_render/README",
+            "unlisted": false
+          }
+        ]
+      }
+    ]
+  },
+  "docs": {
+    "course_intro/how_to_install_ide/README": {
+      "id": "course_intro/how_to_install_ide/README",
+      "title": "How to install an IDE",
+      "description": "What IDE should you use? How do you install it? Let me show you in this quick guide.",
+      "sidebar": "tutorialSidebar"
+    },
+    "course_intro/how_to_install_python/README": {
+      "id": "course_intro/how_to_install_python/README",
+      "title": "How to install Python",
+      "description": "A brief description of the lecture goes here.",
+      "sidebar": "tutorialSidebar"
+    },
+    "course_intro/intro": {
+      "id": "course_intro/intro",
+      "title": "REST APIs with Flask and Python",
+      "description": "Hi, and welcome!",
+      "sidebar": "tutorialSidebar"
+    },
+    "course_intro/what_is_rest_api/README": {
+      "id": "course_intro/what_is_rest_api/README",
+      "title": "What is a REST API?",
+      "description": "There's a lot of confusion around what is and isn't a REST API. Let's take a look!",
+      "sidebar": "tutorialSidebar"
+    },
+    "deploy_to_render/create_render_web_service/README": {
+      "id": "deploy_to_render/create_render_web_service/README",
+      "title": "Creating a Render.com web service",
+      "description": "Let's start by going to https://render.com and signing up to an account. You can \"Log in with GitHub\" to make things easier.",
+      "sidebar": "tutorialSidebar"
+    },
+    "deploy_to_render/deploy_postgresql_database/README": {
+      "id": "deploy_to_render/deploy_postgresql_database/README",
+      "title": "How to get a deployed PostgreSQL database for our app",
+      "description": "There are many PostgreSQL-as-a-Service providers (that means, services that handle creating and maintaining your database for you).",
+      "sidebar": "tutorialSidebar"
+    },
+    "deploy_to_render/docker_with_gunicorn/README": {
+      "id": "deploy_to_render/docker_with_gunicorn/README",
+      "title": "Run our Flask app with gunicorn in Docker",
+      "description": "Throughout the course, we've been working with a Docker image like this one:",
+      "sidebar": "tutorialSidebar"
+    },
+    "deploy_to_render/environment_variables_and_migrations/README": {
+      "id": "deploy_to_render/environment_variables_and_migrations/README",
+      "title": "How to use Environment Variables in Render.com",
+      "description": "A common way to configure applications before they start up is by using environment variables.",
+      "sidebar": "tutorialSidebar"
+    },
+    "deploy_to_render/run_everything_docker_compose/README": {
+      "id": "deploy_to_render/run_everything_docker_compose/README",
+      "title": "How to run the app and database with Docker Compose",
+      "description": "Up until now we've been running docker compose up to start the REST API container.",
+      "sidebar": "tutorialSidebar"
+    },
+    "deploy_to_render/section_overview/README": {
+      "id": "deploy_to_render/section_overview/README",
+      "title": "Overview of this section",
+      "description": "Remember to get the Insomnia files for this section or for all sections here!",
+      "sidebar": "tutorialSidebar"
+    },
+    "docker_intro/in_depth_docker_tutorial/README": {
+      "id": "docker_intro/in_depth_docker_tutorial/README",
+      "title": "In-depth Docker Tutorial",
+      "description": "My notes from the official Docker tutorial.",
+      "sidebar": "tutorialSidebar"
+    },
+    "docker_intro/README": {
+      "id": "docker_intro/README",
+      "title": "An Introduction to Docker",
+      "description": "An important foreword: this is not a Docker course, and I'm not a Docker expert!",
+      "sidebar": "tutorialSidebar"
+    },
+    "docker_intro/run_commands_in_docker_containers/README": {
+      "id": "docker_intro/run_commands_in_docker_containers/README",
+      "title": "How to run commands inside a Docker container",
+      "description": "If you run your API using Docker Compose, with the docker compose up command, you may also want to be able to execute arbitrary shell commands in the container.",
+      "sidebar": "tutorialSidebar"
+    },
+    "docker_intro/run_docker_container/README": {
+      "id": "docker_intro/run_docker_container/README",
+      "title": "How to run a Docker container",
+      "description": "Learn how to run a Docker container with your REST API using Docker Desktop.",
+      "sidebar": "tutorialSidebar"
+    },
+    "docker_intro/run_with_docker_compose/README": {
+      "id": "docker_intro/run_with_docker_compose/README",
+      "title": "Run the REST API using Docker Compose",
+      "description": "Now that we've got a Docker container for our REST API, we can set up Docker Compose to run the container.",
+      "sidebar": "tutorialSidebar"
+    },
+    "docker_intro/what_is_docker_container/README": {
+      "id": "docker_intro/what_is_docker_container/README",
+      "title": "What are Docker images and containers?",
+      "description": "Learn what Docker images and containers are, and how we can use them to distribute and run our applications.",
+      "sidebar": "tutorialSidebar"
+    },
+    "first_rest_api/creating_items/README": {
+      "id": "first_rest_api/creating_items/README",
+      "title": "How to create items in each store",
+      "description": "A brief description of the lecture goes here.",
+      "sidebar": "tutorialSidebar"
+    },
+    "first_rest_api/creating_stores/README": {
+      "id": "first_rest_api/creating_stores/README",
+      "title": "How to create stores",
+      "description": "Learn how to add data to our REST API.",
+      "sidebar": "tutorialSidebar"
+    },
+    "first_rest_api/final_code/README": {
+      "id": "first_rest_api/final_code/README",
+      "title": "Final code of this section",
+      "description": "Overview of the project we've built and all the code in it.",
+      "sidebar": "tutorialSidebar"
+    },
+    "first_rest_api/first_rest_api_endpoint/README": {
+      "id": "first_rest_api/first_rest_api_endpoint/README",
+      "title": "Your First REST API Endpoint",
+      "description": "Learn how to define a REST API endpoint using Flask.",
+      "sidebar": "tutorialSidebar"
+    },
+    "first_rest_api/getting_set_up/README": {
+      "id": "first_rest_api/getting_set_up/README",
+      "title": "Getting set up",
+      "description": "Set up a Flask project and create the Flask app.",
+      "sidebar": "tutorialSidebar"
+    },
+    "first_rest_api/make_request_to_rest_api/README": {
+      "id": "first_rest_api/make_request_to_rest_api/README",
+      "title": "How to interact with your REST API",
+      "description": "Use Postman and Insomnia REST Client to interact with your REST API.",
+      "sidebar": "tutorialSidebar"
+    },
+    "first_rest_api/project_overview/README": {
+      "id": "first_rest_api/project_overview/README",
+      "title": "Project Overview",
+      "description": "A first look at the project we'll build in this section.",
+      "sidebar": "tutorialSidebar"
+    },
+    "first_rest_api/return_data_from_rest_api/README": {
+      "id": "first_rest_api/return_data_from_rest_api/README",
+      "title": "Get a specific store and its items",
+      "description": "How to use Flask to return data from your REST API to your client.",
+      "sidebar": "tutorialSidebar"
+    },
+    "first_rest_api/what_is_json/README": {
+      "id": "first_rest_api/what_is_json/README",
+      "title": "What is JSON?",
+      "description": "JSON is the way we normally transfer data to and from REST APIs.",
+      "sidebar": "tutorialSidebar"
+    },
+    "flask_jwt_extended/flask_jwt_extended_setup/README": {
+      "id": "flask_jwt_extended/flask_jwt_extended_setup/README",
+      "title": "Flask-JWT-Extended setup",
+      "description": "Install and set up the Flask-JWT-Extended extension with our REST API.",
+      "sidebar": "tutorialSidebar"
+    },
+    "flask_jwt_extended/how_is_jwt_used/README": {
+      "id": "flask_jwt_extended/how_is_jwt_used/README",
+      "title": "How are JWTs used?",
+      "description": "Learn who uses JWTs and how they are used by clients and servers to perform authentication.",
+      "sidebar": "tutorialSidebar"
+    },
+    "flask_jwt_extended/insomnia_request_chaining/README": {
+      "id": "flask_jwt_extended/insomnia_request_chaining/README",
+      "title": "Insomnia request chaining",
+      "description": "Learn how to use Insomnia's Request Chaining to simplify our workflow and not have to copy-paste the access token in every request.",
+      "sidebar": "tutorialSidebar"
+    },
+    "flask_jwt_extended/jwt_claims_and_authorization/README": {
+      "id": "flask_jwt_extended/jwt_claims_and_authorization/README",
+      "title": "JWT claims and authorization",
+      "description": "Learn how to add claims (extra info) to a JWT and use it for authorization in endpoints of a REST API.",
+      "sidebar": "tutorialSidebar"
+    },
+    "flask_jwt_extended/login_users_rest_api/README": {
+      "id": "flask_jwt_extended/login_users_rest_api/README",
+      "title": "How to add a login endpoint to the REST API",
+      "description": "Learn how to add a login endpoint that returns a JWT to a REST API using Flask-Smorest and Flask-JWT-Extended.",
+      "sidebar": "tutorialSidebar"
+    },
+    "flask_jwt_extended/logout_users_rest_api/README": {
+      "id": "flask_jwt_extended/logout_users_rest_api/README",
+      "title": "How to add logout to the REST API",
+      "description": "Create a logout endpoint that blocks certain JWTs from making further authenticated requests.",
+      "sidebar": "tutorialSidebar"
+    },
+    "flask_jwt_extended/protect_resources_with_jwt_required/README": {
+      "id": "flask_jwt_extended/protect_resources_with_jwt_required/README",
+      "title": "Protect endpoints by requiring a JWT",
+      "description": "Use jwt_required from Flask-JWT-Extended to prevent unauthorised users from making requests to certain endpoints in a REST API.",
+      "sidebar": "tutorialSidebar"
+    },
+    "flask_jwt_extended/registering_users_rest_api/README": {
+      "id": "flask_jwt_extended/registering_users_rest_api/README",
+      "title": "How to add a register endpoint to the REST API",
+      "description": "Learn how to add a registration endpoint to a REST API using Flask-Smorest and Flask-JWT-Extended.",
+      "sidebar": "tutorialSidebar"
+    },
+    "flask_jwt_extended/section_changes/README": {
+      "id": "flask_jwt_extended/section_changes/README",
+      "title": "Changes in this section",
+      "description": "Overview of the API endpoints we'll use for user registration and authentication.",
+      "sidebar": "tutorialSidebar"
+    },
+    "flask_jwt_extended/token_refreshing_flask_jwt_extended/README": {
+      "id": "flask_jwt_extended/token_refreshing_flask_jwt_extended/README",
+      "title": "Token refreshing with Flask-JWT-Extended",
+      "description": "Learn about fresh and non-fresh tokens, as well as how to use a refresh token to generate a new, non-fresh access token.",
+      "sidebar": "tutorialSidebar"
+    },
+    "flask_jwt_extended/user_model_and_schema/README": {
+      "id": "flask_jwt_extended/user_model_and_schema/README",
+      "title": "The User model and schema",
+      "description": "Create the SQLAlchemy User model and marshmallow schema.",
+      "sidebar": "tutorialSidebar"
+    },
+    "flask_jwt_extended/what_is_a_jwt/README": {
+      "id": "flask_jwt_extended/what_is_a_jwt/README",
+      "title": "What is a JWT?",
+      "description": "Understand what a JWT is, what data it contains, and how it may be used.",
+      "sidebar": "tutorialSidebar"
+    },
+    "flask_migrate/add_flask_migrate_to_app/README": {
+      "id": "flask_migrate/add_flask_migrate_to_app/README",
+      "title": "How to add Flask-Migrate to our Flask app",
+      "description": "Integrating your Flask app with Flask-Migrate is relatively straightforward. Learn how to do it in this lecture.",
+      "sidebar": "tutorialSidebar"
+    },
+    "flask_migrate/change_models_generate_alembic_migration/README": {
+      "id": "flask_migrate/change_models_generate_alembic_migration/README",
+      "title": "Change SQLAlchemy models and generate a migration",
+      "description": "Use Flask-Migrate to generate a new database migration after changing your SQLAlchemy models.",
+      "sidebar": "tutorialSidebar"
+    },
+    "flask_migrate/initialize_database_flask_db_init/README": {
+      "id": "flask_migrate/initialize_database_flask_db_init/README",
+      "title": "Initialize your database with Flask-Migrate",
+      "description": "Learn the first steps when starting with Flask-Migrate: initializing the database.",
+      "sidebar": "tutorialSidebar"
+    },
+    "flask_migrate/manually_review_modify_migrations/README": {
+      "id": "flask_migrate/manually_review_modify_migrations/README",
+      "title": "Manually review and modify database migrations",
+      "description": "Alembic can generate database migrations parting from model changes, but sometimes we need to modify them manually.",
+      "sidebar": "tutorialSidebar"
+    },
+    "flask_migrate/why_use_database_migrations/README": {
+      "id": "flask_migrate/why_use_database_migrations/README",
+      "title": "Why use database migrations?",
+      "description": "Learn about database migrations and what they are useful for.",
+      "sidebar": "tutorialSidebar"
+    },
+    "flask_smorest/api_with_method_views/README": {
+      "id": "flask_smorest/api_with_method_views/README",
+      "title": "How to use Blueprints and MethodViews",
+      "description": "Flask-Smorest MethodViews allow us to simplify API Resources by defining all methods that interact with the resource in one Python class.",
+      "sidebar": "tutorialSidebar"
+    },
+    "flask_smorest/data_model_improvements/README": {
+      "id": "flask_smorest/data_model_improvements/README",
+      "title": "Data model improvements",
+      "description": "Use dictionaries instead of lists for data storage, and store stores and items separately.",
+      "sidebar": "tutorialSidebar"
+    },
+    "flask_smorest/decorating_responses/README": {
+      "id": "flask_smorest/decorating_responses/README",
+      "title": "Decorating responses with Flask-Smorest",
+      "description": "Add response serialization and status code to API endpoints, and add to your documentation in the process.",
+      "sidebar": "tutorialSidebar"
+    },
+    "flask_smorest/improvements_on_first_rest_api/README": {
+      "id": "flask_smorest/improvements_on_first_rest_api/README",
+      "title": "Improvements to our first REST API",
+      "description": "Add new error handling and code improvements to the REST API before adding any new endpoints.",
+      "sidebar": "tutorialSidebar"
+    },
+    "flask_smorest/marshmallow_schemas/README": {
+      "id": "flask_smorest/marshmallow_schemas/README",
+      "title": "Adding marshmallow schemas",
+      "description": "A marshmallow schema is useful for validation and serialization. Learn how to write them in this lecture.",
+      "sidebar": "tutorialSidebar"
+    },
+    "flask_smorest/new_endpoints_for_api/README": {
+      "id": "flask_smorest/new_endpoints_for_api/README",
+      "title": "New endpoints for our REST API",
+      "description": "Let's add a few routes to our first REST API, so it better matches what a production REST API would look like.",
+      "sidebar": "tutorialSidebar"
+    },
+    "flask_smorest/reload_api_docker_container/README": {
+      "id": "flask_smorest/reload_api_docker_container/README",
+      "title": "Reloading API code in Docker container",
+      "description": "Learn how to get your code instantly synced up to the Docker container, so that every time you make a code change it restarts the app in the container and uses the latest code.",
+      "sidebar": "tutorialSidebar"
+    },
+    "flask_smorest/validation_with_marshmallow/README": {
+      "id": "flask_smorest/validation_with_marshmallow/README",
+      "title": "Validation with marshmallow",
+      "description": "We can use the marshmallow library to validate request data from our API clients.",
+      "sidebar": "tutorialSidebar"
+    },
+    "flask_smorest/why_flask_smorest/README": {
+      "id": "flask_smorest/why_flask_smorest/README",
+      "title": "Why use Flask-Smorest",
+      "description": "There are many different REST API libraries for Flask. In a previous version of this course, we used Flask-RESTful. Now, I recommend using Flask-Smorest.",
+      "sidebar": "tutorialSidebar"
+    },
+    "git_crash_course/README": {
+      "id": "git_crash_course/README",
+      "title": "Git Crash Course",
+      "description": "The Git Crash Course e-book is hosted in a different page because it is used in multiple courses.",
+      "sidebar": "tutorialSidebar"
+    },
+    "python_refresher/index": {
+      "id": "python_refresher/index",
+      "title": "Python Refresher",
+      "description": "We've included a Python Refresher section in this course to help you, in case you haven't done any Python for a while or you are coming from a different programming language.",
+      "sidebar": "tutorialSidebar"
+    },
+    "sql_storage_sqlalchemy/conclusion/README": {
+      "id": "sql_storage_sqlalchemy/conclusion/README",
+      "title": "Conclusion of this section",
+      "description": "Review everything we've changed this section to add SQL storage with SQLAlchemy to our API.",
+      "sidebar": "tutorialSidebar"
+    },
+    "sql_storage_sqlalchemy/configure_flask_sqlalchemy/README": {
+      "id": "sql_storage_sqlalchemy/configure_flask_sqlalchemy/README",
+      "title": "Configure Flask-SQLAlchemy",
+      "description": "Link Flask-SQLAlchemy with our Flask app and create the initial tables.",
+      "sidebar": "tutorialSidebar"
+    },
+    "sql_storage_sqlalchemy/create_simple_sqlalchemy_model/README": {
+      "id": "sql_storage_sqlalchemy/create_simple_sqlalchemy_model/README",
+      "title": "Create a simple SQLAlchemy Model",
+      "description": "Lecture description goes here.",
+      "sidebar": "tutorialSidebar"
+    },
+    "sql_storage_sqlalchemy/delete_models_sqlalchemy/README": {
+      "id": "sql_storage_sqlalchemy/delete_models_sqlalchemy/README",
+      "title": "Delete models with SQLAlchemy",
+      "description": "Use SQLAlchemy to handle removal of a specific model.",
+      "sidebar": "tutorialSidebar"
+    },
+    "sql_storage_sqlalchemy/delete_related_models_sqlalchemy/README": {
+      "id": "sql_storage_sqlalchemy/delete_related_models_sqlalchemy/README",
+      "title": "Delete models with relationships using cascades",
+      "description": "Tell SQLAlchemy what to do with related models when you delete the parent.",
+      "sidebar": "tutorialSidebar"
+    },
+    "sql_storage_sqlalchemy/get_models_or_404/README": {
+      "id": "sql_storage_sqlalchemy/get_models_or_404/README",
+      "title": "Get models by ID from the database using SQLAlchemy",
+      "description": "Learn how to fetch a specific model using its primary key column, and how to return a 404 page if it isn't found.",
+      "sidebar": "tutorialSidebar"
+    },
+    "sql_storage_sqlalchemy/insert_models_sqlalchemy/README": {
+      "id": "sql_storage_sqlalchemy/insert_models_sqlalchemy/README",
+      "title": "Insert models in the database with SQLAlchemy",
+      "description": "Learn how to use SQLAlchemy to add new rows to our SQL database.",
+      "sidebar": "tutorialSidebar"
+    },
+    "sql_storage_sqlalchemy/one_to_many_relationships_sqlalchemy/README": {
+      "id": "sql_storage_sqlalchemy/one_to_many_relationships_sqlalchemy/README",
+      "title": "One-to-many relationships with SQLAlchemy",
+      "description": "Model relationships let us easily retrieve information about a related model, without having to do SQL JOINs manually.",
+      "sidebar": "tutorialSidebar"
+    },
+    "sql_storage_sqlalchemy/project_overview_sqlalchemy/README": {
+      "id": "sql_storage_sqlalchemy/project_overview_sqlalchemy/README",
+      "title": "Project Overview, and why use SQLAlchemy",
+      "description": "Let's look at what we'll do in this section. There are no changes to the client-facing API at all, just changes internally to how we store data.",
+      "sidebar": "tutorialSidebar"
+    },
+    "sql_storage_sqlalchemy/retrieve_list_all_models/README": {
+      "id": "sql_storage_sqlalchemy/retrieve_list_all_models/README",
+      "title": "Retrieve a list of all models",
+      "description": "Get more than one model and return it as a list from the API.",
+      "sidebar": "tutorialSidebar"
+    },
+    "sql_storage_sqlalchemy/updating_models_sqlalchemy/README": {
+      "id": "sql_storage_sqlalchemy/updating_models_sqlalchemy/README",
+      "title": "Updating models with SQLAlchemy",
+      "description": "How to make changes to an existing model, or insert one if it doesn't already exist.",
+      "sidebar": "tutorialSidebar"
+    },
+    "sqlalchemy_many_to_many/many_to_many_relationships/README": {
+      "id": "sqlalchemy_many_to_many/many_to_many_relationships/README",
+      "title": "Many-to-many relationships",
+      "description": "Learn to set up a many-to-many relationship between two models using SQLAlchemy.",
+      "sidebar": "tutorialSidebar"
+    },
+    "sqlalchemy_many_to_many/one_to_many_review/README": {
+      "id": "sqlalchemy_many_to_many/one_to_many_review/README",
+      "title": "One-to-many relationships review",
+      "description": "A super-quick look at creating the Tag model and setting up the one-to-many relationship with Stores.",
+      "sidebar": "tutorialSidebar"
+    },
+    "sqlalchemy_many_to_many/section_changes/README": {
+      "id": "sqlalchemy_many_to_many/section_changes/README",
+      "title": "Changes in this section",
+      "description": "In this section we add Tags to our Stores, and link these to Items using a many-to-many relationship.",
+      "sidebar": "tutorialSidebar"
+    },
+    "task_queues_emails/deploy_background_worker_render/README": {
+      "id": "task_queues_emails/deploy_background_worker_render/README",
+      "title": "Deploy the rq background worker to Render.com",
+      "description": "When deploying to Render.com, it's much easier if we don't have to pass the REDIS_URL and the queue name directly to the command.",
+      "sidebar": "tutorialSidebar"
+    },
+    "task_queues_emails/populate_rq_task_queue/README": {
+      "id": "task_queues_emails/populate_rq_task_queue/README",
+      "title": "Populating and consuming the task queue with rq",
+      "description": "We'll be using the rq library for our task queue implementation. Another popular option is celery, which is substantially more complex. For most workloads, rq is sufficient and it's much easier to work with.",
+      "sidebar": "tutorialSidebar"
+    },
+    "task_queues_emails/rq_background_worker/README": {
+      "id": "task_queues_emails/rq_background_worker/README",
+      "title": "Process background tasks with the rq worker",
+      "description": "We've got our queue and we've added tasks to it, but they won't run until we start consuming them and popping them off the queue.",
+      "sidebar": "tutorialSidebar"
+    },
+    "task_queues_emails/send_email_user_registration/README": {
+      "id": "task_queues_emails/send_email_user_registration/README",
+      "title": "Sending emails when users register",
+      "description": "If we want to be able to send emails to users when they register, we'll need to:",
+      "sidebar": "tutorialSidebar"
+    },
+    "task_queues_emails/send_emails_python_mailgun/README": {
+      "id": "task_queues_emails/send_emails_python_mailgun/README",
+      "title": "How to send emails with Python and Mailgun",
+      "description": "Remember to get the Insomnia files for this section or for all sections here!",
+      "sidebar": "tutorialSidebar"
+    },
+    "task_queues_emails/sending_html_emails/README": {
+      "id": "task_queues_emails/sending_html_emails/README",
+      "title": "Sending HTML emails with Mailgun",
+      "description": "Until now, we've been sending exclusively text emails. These have a clear advantage: text is simple! They'll look the same in every email client and device, and for many things, text is good enough.",
+      "sidebar": "tutorialSidebar"
+    },
+    "task_queues_emails/what_is_task_queue/README": {
+      "id": "task_queues_emails/what_is_task_queue/README",
+      "title": "What is a task queue?",
+      "description": "A queue is a data structure to which you can add and remove data, but a key aspect of it is that when you want to remove a piece of data from it, the piece of data removed is the first piece of data that was added.",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

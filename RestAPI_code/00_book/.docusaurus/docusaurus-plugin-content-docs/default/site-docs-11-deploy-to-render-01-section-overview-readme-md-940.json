@@ -1,0 +1,26 @@
+{
+  "id": "deploy_to_render/section_overview/README",
+  "title": "Overview of this section",
+  "description": "Remember to get the Insomnia files for this section or for all sections here!",
+  "source": "@site/docs/11_deploy_to_render/01_section_overview/README.md",
+  "sourceDirName": "11_deploy_to_render/01_section_overview",
+  "slug": "/deploy_to_render/section_overview/",
+  "permalink": "/docs/deploy_to_render/section_overview/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/11_deploy_to_render/01_section_overview/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "ctslug": "overview-of-this-section"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Git Crash Course",
+    "permalink": "/docs/git_crash_course/"
+  },
+  "next": {
+    "title": "Creating a Render.com web service",
+    "permalink": "/docs/deploy_to_render/create_render_web_service/"
+  }
+}

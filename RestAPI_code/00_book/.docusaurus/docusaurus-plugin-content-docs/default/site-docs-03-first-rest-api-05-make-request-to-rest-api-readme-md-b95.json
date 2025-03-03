@@ -1,0 +1,28 @@
+{
+  "id": "first_rest_api/make_request_to_rest_api/README",
+  "title": "How to interact with your REST API",
+  "description": "Use Postman and Insomnia REST Client to interact with your REST API.",
+  "source": "@site/docs/03_first_rest_api/05_make_request_to_rest_api/README.md",
+  "sourceDirName": "03_first_rest_api/05_make_request_to_rest_api",
+  "slug": "/first_rest_api/make_request_to_rest_api/",
+  "permalink": "/docs/first_rest_api/make_request_to_rest_api/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/03_first_rest_api/05_make_request_to_rest_api/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "How to interact with your REST API",
+    "description": "Use Postman and Insomnia REST Client to interact with your REST API.",
+    "ctslug": "how-to-interact-with-your-rest-api"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "What is JSON?",
+    "permalink": "/docs/first_rest_api/what_is_json/"
+  },
+  "next": {
+    "title": "How to create stores",
+    "permalink": "/docs/first_rest_api/creating_stores/"
+  }
+}

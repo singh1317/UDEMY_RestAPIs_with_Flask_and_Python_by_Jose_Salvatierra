@@ -1,0 +1,28 @@
+{
+  "id": "course_intro/how_to_install_python/README",
+  "title": "How to install Python",
+  "description": "A brief description of the lecture goes here.",
+  "source": "@site/docs/01_course_intro/02_how_to_install_python/README.md",
+  "sourceDirName": "01_course_intro/02_how_to_install_python",
+  "slug": "/course_intro/how_to_install_python/",
+  "permalink": "/docs/course_intro/how_to_install_python/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/01_course_intro/02_how_to_install_python/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "How to install Python",
+    "description": "A brief description of the lecture goes here.",
+    "ctslug": "how-to-install-python"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "REST APIs with Flask and Python",
+    "permalink": "/docs/course_intro/"
+  },
+  "next": {
+    "title": "How to install an IDE",
+    "permalink": "/docs/course_intro/how_to_install_ide/"
+  }
+}

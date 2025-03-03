@@ -1,0 +1,24 @@
+{
+  "id": "docker_intro/README",
+  "title": "An Introduction to Docker",
+  "description": "An important foreword: this is not a Docker course, and I'm not a Docker expert!",
+  "source": "@site/docs/04_docker_intro/README.md",
+  "sourceDirName": "04_docker_intro",
+  "slug": "/docker_intro/",
+  "permalink": "/docs/docker_intro/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/04_docker_intro/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Final code of this section",
+    "permalink": "/docs/first_rest_api/final_code/"
+  },
+  "next": {
+    "title": "What are Docker images and containers?",
+    "permalink": "/docs/docker_intro/what_is_docker_container/"
+  }
+}

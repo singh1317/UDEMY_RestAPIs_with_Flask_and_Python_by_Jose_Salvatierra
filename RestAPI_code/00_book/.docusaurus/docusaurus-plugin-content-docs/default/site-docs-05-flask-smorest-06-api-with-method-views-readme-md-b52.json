@@ -1,0 +1,28 @@
+{
+  "id": "flask_smorest/api_with_method_views/README",
+  "title": "How to use Blueprints and MethodViews",
+  "description": "Flask-Smorest MethodViews allow us to simplify API Resources by defining all methods that interact with the resource in one Python class.",
+  "source": "@site/docs/05_flask_smorest/06_api_with_method_views/README.md",
+  "sourceDirName": "05_flask_smorest/06_api_with_method_views",
+  "slug": "/flask_smorest/api_with_method_views/",
+  "permalink": "/docs/flask_smorest/api_with_method_views/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/05_flask_smorest/06_api_with_method_views/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "How to use Blueprints and MethodViews",
+    "description": "Flask-Smorest MethodViews allow us to simplify API Resources by defining all methods that interact with the resource in one Python class.",
+    "ctslug": "how-to-use-flask-smorest-methodviews-blueprints"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Reloading API code in Docker container",
+    "permalink": "/docs/flask_smorest/reload_api_docker_container/"
+  },
+  "next": {
+    "title": "Adding marshmallow schemas",
+    "permalink": "/docs/flask_smorest/marshmallow_schemas/"
+  }
+}

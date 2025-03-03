@@ -1,0 +1,22 @@
+{
+  "id": "course_intro/intro",
+  "title": "REST APIs with Flask and Python",
+  "description": "Hi, and welcome!",
+  "source": "@site/docs/01_course_intro/index.md",
+  "sourceDirName": "01_course_intro",
+  "slug": "/course_intro/",
+  "permalink": "/docs/course_intro/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/01_course_intro/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "intro"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "How to install Python",
+    "permalink": "/docs/course_intro/how_to_install_python/"
+  }
+}

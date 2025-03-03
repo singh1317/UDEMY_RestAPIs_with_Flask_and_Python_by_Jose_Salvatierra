@@ -1,0 +1,24 @@
+{
+  "id": "docker_intro/run_commands_in_docker_containers/README",
+  "title": "How to run commands inside a Docker container",
+  "description": "If you run your API using Docker Compose, with the docker compose up command, you may also want to be able to execute arbitrary shell commands in the container.",
+  "source": "@site/docs/04_docker_intro/05_run_commands_in_docker_containers/README.md",
+  "sourceDirName": "04_docker_intro/05_run_commands_in_docker_containers",
+  "slug": "/docker_intro/run_commands_in_docker_containers/",
+  "permalink": "/docs/docker_intro/run_commands_in_docker_containers/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/04_docker_intro/05_run_commands_in_docker_containers/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Run the REST API using Docker Compose",
+    "permalink": "/docs/docker_intro/run_with_docker_compose/"
+  },
+  "next": {
+    "title": "Why use Flask-Smorest",
+    "permalink": "/docs/flask_smorest/why_flask_smorest/"
+  }
+}

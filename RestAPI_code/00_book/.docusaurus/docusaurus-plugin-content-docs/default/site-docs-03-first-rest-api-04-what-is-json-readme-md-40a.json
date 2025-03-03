@@ -1,0 +1,28 @@
+{
+  "id": "first_rest_api/what_is_json/README",
+  "title": "What is JSON?",
+  "description": "JSON is the way we normally transfer data to and from REST APIs.",
+  "source": "@site/docs/03_first_rest_api/04_what_is_json/README.md",
+  "sourceDirName": "03_first_rest_api/04_what_is_json",
+  "slug": "/first_rest_api/what_is_json/",
+  "permalink": "/docs/first_rest_api/what_is_json/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/03_first_rest_api/04_what_is_json/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "What is JSON?",
+    "description": "JSON is the way we normally transfer data to and from REST APIs.",
+    "ctslug": "what-is-json"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Your First REST API Endpoint",
+    "permalink": "/docs/first_rest_api/first_rest_api_endpoint/"
+  },
+  "next": {
+    "title": "How to interact with your REST API",
+    "permalink": "/docs/first_rest_api/make_request_to_rest_api/"
+  }
+}

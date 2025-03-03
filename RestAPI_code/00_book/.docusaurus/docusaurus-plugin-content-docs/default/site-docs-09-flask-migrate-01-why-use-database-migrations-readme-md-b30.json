@@ -1,0 +1,28 @@
+{
+  "id": "flask_migrate/why_use_database_migrations/README",
+  "title": "Why use database migrations?",
+  "description": "Learn about database migrations and what they are useful for.",
+  "source": "@site/docs/09_flask_migrate/01_why_use_database_migrations/README.md",
+  "sourceDirName": "09_flask_migrate/01_why_use_database_migrations",
+  "slug": "/flask_migrate/why_use_database_migrations/",
+  "permalink": "/docs/flask_migrate/why_use_database_migrations/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/09_flask_migrate/01_why_use_database_migrations/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Why use database migrations?",
+    "description": "Learn about database migrations and what they are useful for.",
+    "ctslug": "why-use-database-migrations"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Token refreshing with Flask-JWT-Extended",
+    "permalink": "/docs/flask_jwt_extended/token_refreshing_flask_jwt_extended/"
+  },
+  "next": {
+    "title": "How to add Flask-Migrate to our Flask app",
+    "permalink": "/docs/flask_migrate/add_flask_migrate_to_app/"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "first_rest_api/first_rest_api_endpoint/README",
+  "title": "Your First REST API Endpoint",
+  "description": "Learn how to define a REST API endpoint using Flask.",
+  "source": "@site/docs/03_first_rest_api/03_first_rest_api_endpoint/README.md",
+  "sourceDirName": "03_first_rest_api/03_first_rest_api_endpoint",
+  "slug": "/first_rest_api/first_rest_api_endpoint/",
+  "permalink": "/docs/first_rest_api/first_rest_api_endpoint/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/03_first_rest_api/03_first_rest_api_endpoint/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Your First REST API Endpoint",
+    "description": "Learn how to define a REST API endpoint using Flask.",
+    "ctslug": "your-first-rest-api-endpoint"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Getting set up",
+    "permalink": "/docs/first_rest_api/getting_set_up/"
+  },
+  "next": {
+    "title": "What is JSON?",
+    "permalink": "/docs/first_rest_api/what_is_json/"
+  }
+}

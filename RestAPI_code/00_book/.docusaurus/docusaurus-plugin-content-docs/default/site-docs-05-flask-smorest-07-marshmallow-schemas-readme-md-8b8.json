@@ -1,0 +1,28 @@
+{
+  "id": "flask_smorest/marshmallow_schemas/README",
+  "title": "Adding marshmallow schemas",
+  "description": "A marshmallow schema is useful for validation and serialization. Learn how to write them in this lecture.",
+  "source": "@site/docs/05_flask_smorest/07_marshmallow_schemas/README.md",
+  "sourceDirName": "05_flask_smorest/07_marshmallow_schemas",
+  "slug": "/flask_smorest/marshmallow_schemas/",
+  "permalink": "/docs/flask_smorest/marshmallow_schemas/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/05_flask_smorest/07_marshmallow_schemas/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Adding marshmallow schemas",
+    "description": "A marshmallow schema is useful for validation and serialization. Learn how to write them in this lecture.",
+    "ctslug": "adding-marshmallow-schemas"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to use Blueprints and MethodViews",
+    "permalink": "/docs/flask_smorest/api_with_method_views/"
+  },
+  "next": {
+    "title": "Validation with marshmallow",
+    "permalink": "/docs/flask_smorest/validation_with_marshmallow/"
+  }
+}

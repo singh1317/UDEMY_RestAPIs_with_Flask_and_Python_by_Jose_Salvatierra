@@ -1,0 +1,26 @@
+{
+  "id": "flask_smorest/why_flask_smorest/README",
+  "title": "Why use Flask-Smorest",
+  "description": "There are many different REST API libraries for Flask. In a previous version of this course, we used Flask-RESTful. Now, I recommend using Flask-Smorest.",
+  "source": "@site/docs/05_flask_smorest/01_why_flask_smorest/README.md",
+  "sourceDirName": "05_flask_smorest/01_why_flask_smorest",
+  "slug": "/flask_smorest/why_flask_smorest/",
+  "permalink": "/docs/flask_smorest/why_flask_smorest/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/05_flask_smorest/01_why_flask_smorest/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "ctslug": "why-use-flask-smorest"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to run commands inside a Docker container",
+    "permalink": "/docs/docker_intro/run_commands_in_docker_containers/"
+  },
+  "next": {
+    "title": "Data model improvements",
+    "permalink": "/docs/flask_smorest/data_model_improvements/"
+  }
+}

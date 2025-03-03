@@ -1,0 +1,26 @@
+{
+  "id": "deploy_to_render/docker_with_gunicorn/README",
+  "title": "Run our Flask app with gunicorn in Docker",
+  "description": "Throughout the course, we've been working with a Docker image like this one:",
+  "source": "@site/docs/11_deploy_to_render/03_docker_with_gunicorn/README.md",
+  "sourceDirName": "11_deploy_to_render/03_docker_with_gunicorn",
+  "slug": "/deploy_to_render/docker_with_gunicorn/",
+  "permalink": "/docs/deploy_to_render/docker_with_gunicorn/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tecladocode/rest-apis-flask-python/tree/develop/docs/docs/11_deploy_to_render/03_docker_with_gunicorn/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "ctslug": "run-our-flask-app-with-gunicorn"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Creating a Render.com web service",
+    "permalink": "/docs/deploy_to_render/create_render_web_service/"
+  },
+  "next": {
+    "title": "How to get a deployed PostgreSQL database for our app",
+    "permalink": "/docs/deploy_to_render/deploy_postgresql_database/"
+  }
+}
