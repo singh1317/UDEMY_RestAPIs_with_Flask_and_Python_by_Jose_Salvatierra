@@ -14,6 +14,10 @@
 
 Enrol in the course by going to [this link](https://go.tecla.do/rest-apis-ebook).
 
+Link to Python Refresher ebook [link](https://python.tecladocode.com/).
+
+Link to RestAPI with Flask & Python ebook [link](https://rest-apis-flask.teclado.com/).
+
 Then you can come back here to download the repository. This repository contains the code that we develop in each section of the course.
 
 Next, start taking the course at the beginning! You can use the downloaded code files to support you while you go through the course.
